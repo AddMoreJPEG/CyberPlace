@@ -1,2 +1,11 @@
-ff something
-do something
+Both have unreal open
+one of us crestes sessiom
+Everyone else joins session
+Do your stuff
+Save your stuff
+Everyone PERSISTS changes
+Whoever made session goes through changelog in github, clears it out. Ignore .logs
+After pushing origin to server, create pull request
+Whoever did not make the session highlights everything, DISCARDS all changes 
+DO NOT MERGE MULTIUSER SETTINGS
+Do not merge UMap, only one person at the end of the session does it
