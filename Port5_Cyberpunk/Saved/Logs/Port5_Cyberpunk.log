@@ -1162,3 +1162,4 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2024.04.12-16.29.06:746][  0]LogMeshUtilities: Finished distance field build in 1.8s - 126x126x126 sparse distance field, 2.0Mb total, 0.1Mb always loaded, 57% occupied, 306 triangles, CloseBuildingLeft
 [2024.04.12-16.29.13:315][  0]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
 [2024.04.12-16.31.07:094][  0]LogDerivedDataCache: C:/Users/jakec/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:41.309 and deleted 158 files with total size 4 MiB and 154 empty folders. Scanned 19529 files in 21178 folders with total size 1409 MiB.
+[2024.04.12-17.31.03:111][  0]LogDerivedDataCache: C:/Users/jakec/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:37.313 and deleted 2 files with total size 0 MiB and 2 empty folders. Scanned 19393 files in 21031 folders with total size 1407 MiB.
