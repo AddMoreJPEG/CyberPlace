@@ -1172,3 +1172,13 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2024.04.19-20.48.38:470][877]LogConcert: Display: User 'mpie2' (Endpoint: 018C1E7E4CEE3543B496C9969A59DD76) left Concert session 'f9uhf9dscn' (Id: 8A1E08094EFF3A1CC50D33B581DA0D05, Owner: jakec).
 [2024.04.19-20.48.38:470][877]LogConcert: Display: Synced activity '3' produced by endpoint '018C1E7E4CEE3543B496C9969A59DD76': Mason left the session.
 [2024.04.19-20.50.22:213][188]LogDerivedDataCache: C:/Users/jakec/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:34.219 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 18251 files in 20038 folders with total size 1213 MiB.
+[2024.04.19-20.51.14:142][601]LogEditorFactories: Performing atomic reimport of [C:/Users/jakec/OneDrive/Desktop/Port5/BlockPieces/BottomGlass.fbx]
+[2024.04.19-20.51.14:160][601]LogFbx: Loading FBX Scene from C:/Users/jakec/OneDrive/Desktop/Port5/BlockPieces/BottomGlass.fbx
+[2024.04.19-20.51.14:170][601]LogFbx: FBX Scene Loaded Succesfully
+[2024.04.19-20.51.14:266][601]LogFbx: Display: Triangulating static mesh BottomGlass
+[2024.04.19-20.51.15:451][601]LogSlate: Window 'Reimport Material Conflicts Resolution' being destroyed
+[2024.04.19-20.51.15:465][601]LogEditorFactories: -- imported successfully
+[2024.04.19-20.51.15:549][602]LogConcert: Display: Synced activity '4' produced by endpoint '4FA38B8B4AAC4C105B79C19DC477A551': Jacob locked /Game/FBX/JacobBuildBlocks/MiddleGlassBuild/BottomGlass.
+[2024.04.19-20.51.18:009][724]LogEditorFactories: Performing atomic reimport of [C:/Users/jakec/OneDrive/Desktop/Port5/BlockPieces/BottomRounded.fbx]
+[2024.04.19-20.51.18:026][724]LogFbx: Loading FBX Scene from C:/Users/jakec/OneDrive/Desktop/Port5/BlockPieces/BottomRounded.fbx
+[2024.04.19-20.51.18:030][724]LogFbx: FBX Scene Loaded Succesfully
