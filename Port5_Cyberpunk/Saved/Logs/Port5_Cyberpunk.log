@@ -1570,3 +1570,1234 @@ The session
 [2024.04.19-17.48.39:295][956]LogConcert: [Pending] Persisting Session Changes - See Message Log
 [2024.04.19-17.48.39:295][956]LogConcert: [Success] Successfully Persisted Session Changes - Succesfully persisted session files
 [2024.04.19-17.48.39:341][957]LogConcert: [Success] Successfully Persisted Session Changes - Succesfully persisted session files
+[2024.04.19-17.51.35:552][785]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\castudent\Downloads\SideTop.fbx)
+[2024.04.19-17.51.35:566][785]LogFbx: Loading FBX Scene from C:\Users\castudent\Downloads\SideTop.fbx
+[2024.04.19-17.51.35:579][785]LogFbx: FBX Scene Loaded Succesfully
+[2024.04.19-17.51.37:895][785]LogSlate: Window 'FBX Import Options' being destroyed
+[2024.04.19-17.51.38:055][785]LogFbx: Display: Triangulating static mesh SideTop
+[2024.04.19-17.51.38:257][785]LogStaticMesh: Display: Building static mesh SideTop...
+[2024.04.19-17.51.38:302][785]LogStaticMesh: Built static mesh [0.04s] /Game/FBX/JacobBuildBlocks/MiddleGlassBuild/SideTop.SideTop
+[2024.04.19-17.51.38:549][785]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\castudent\Downloads\SideBottom.fbx)
+[2024.04.19-17.51.38:564][785]LogFbx: Loading FBX Scene from C:\Users\castudent\Downloads\SideBottom.fbx
+[2024.04.19-17.51.38:577][785]LogFbx: FBX Scene Loaded Succesfully
+[2024.04.19-17.51.38:643][785]LogFbx: Display: Triangulating static mesh SideBottom
+[2024.04.19-17.51.38:688][785]LogStaticMesh: Display: Building static mesh SideBottom...
+[2024.04.19-17.51.38:698][785]LogStaticMesh: Built static mesh [0.01s] /Game/FBX/JacobBuildBlocks/MiddleGlassBuild/SideBottom.SideBottom
+[2024.04.19-17.51.38:925][785]LogAutomationController: Ignoring very large delta of 3.41 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2024.04.19-17.51.38:926][786]LogConcert: Display: Synced activity '20' produced by endpoint '80B4926C4ACA717114629DA574A5CE06': Jacob locked /Game/FBX/JacobBuildBlocks/MiddleGlassBuild/SideTop.
+[2024.04.19-17.51.38:927][786]LogConcert: Display: Synced activity '21' produced by endpoint '80B4926C4ACA717114629DA574A5CE06': Jacob added package /Game/FBX/JacobBuildBlocks/MiddleGlassBuild/SideTop.
+[2024.04.19-17.51.38:927][786]LogConcert: Display: Synced activity '22' produced by endpoint '80B4926C4ACA717114629DA574A5CE06': Jacob unlocked /Game/FBX/JacobBuildBlocks/MiddleGlassBuild/SideTop.
+[2024.04.19-17.51.38:928][786]LogConcert: Display: Synced activity '23' produced by endpoint '80B4926C4ACA717114629DA574A5CE06': Jacob locked /Game/FBX/JacobBuildBlocks/MiddleGlassBuild/SideBottom.
+[2024.04.19-17.51.38:929][786]LogConcert: Display: Synced activity '24' produced by endpoint '80B4926C4ACA717114629DA574A5CE06': Jacob added package /Game/FBX/JacobBuildBlocks/MiddleGlassBuild/SideBottom.
+[2024.04.19-17.51.38:929][786]LogConcert: Display: Synced activity '25' produced by endpoint '80B4926C4ACA717114629DA574A5CE06': Jacob unlocked /Game/FBX/JacobBuildBlocks/MiddleGlassBuild/SideBottom.
+[2024.04.19-17.51.38:934][786]AssetCheck: New page: Asset Save: multiple assets
+[2024.04.19-17.51.38:935][786]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/FBX/JacobBuildBlocks/MiddleGlassBuild/SideTop.SideTop
+[2024.04.19-17.51.38:935][786]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/FBX/JacobBuildBlocks/MiddleGlassBuild/SideBottom.SideBottom
+[2024.04.19-17.52.40:437][525]LogUObjectHash: Compacting FUObjectHashTables data took   2.17ms
+[2024.04.19-17.52.42:117][525]LogSlate: Window 'Delete Assets' being destroyed
+[2024.04.19-17.52.42:156][525]LogUObjectHash: Compacting FUObjectHashTables data took   2.23ms
+[2024.04.19-17.52.42:179][525]LogUObjectHash: Compacting FUObjectHashTables data took   2.15ms
+[2024.04.19-17.52.42:205][525]LogUObjectHash: Compacting FUObjectHashTables data took   1.73ms
+[2024.04.19-17.52.42:263][526]LogConcert: Display: Synced activity '26' produced by endpoint '80B4926C4ACA717114629DA574A5CE06': Jacob locked /Game/FBX/JacobBuildBlocks/MiddleGlassBuild/SideBottom.
+[2024.04.19-17.52.42:264][526]LogConcert: Display: Synced activity '27' produced by endpoint '80B4926C4ACA717114629DA574A5CE06': Jacob deleted package /Game/FBX/JacobBuildBlocks/MiddleGlassBuild/SideBottom.
+[2024.04.19-17.52.42:265][526]LogConcert: Display: Synced activity '28' produced by endpoint '80B4926C4ACA717114629DA574A5CE06': Jacob unlocked /Game/FBX/JacobBuildBlocks/MiddleGlassBuild/SideBottom.
+[2024.04.19-17.52.42:265][526]LogConcert: Display: Synced activity '29' produced by endpoint '80B4926C4ACA717114629DA574A5CE06': Jacob locked /Game/FBX/JacobBuildBlocks/MiddleGlassBuild/SideTop.
+[2024.04.19-17.52.42:266][526]LogConcert: Display: Synced activity '30' produced by endpoint '80B4926C4ACA717114629DA574A5CE06': Jacob deleted package /Game/FBX/JacobBuildBlocks/MiddleGlassBuild/SideTop.
+[2024.04.19-17.52.42:266][526]LogConcert: Display: Synced activity '31' produced by endpoint '80B4926C4ACA717114629DA574A5CE06': Jacob unlocked /Game/FBX/JacobBuildBlocks/MiddleGlassBuild/SideTop.
+[2024.04.19-17.52.48:653][619]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\castudent\Downloads\SideTop (1).fbx)
+[2024.04.19-17.52.48:664][619]LogFbx: Loading FBX Scene from C:\Users\castudent\Downloads\SideTop (1).fbx
+[2024.04.19-17.52.48:676][619]LogFbx: FBX Scene Loaded Succesfully
+[2024.04.19-17.52.51:743][619]LogSlate: Window 'FBX Import Options' being destroyed
+[2024.04.19-17.52.51:846][619]LogFbx: Display: Triangulating static mesh SideTop
+[2024.04.19-17.52.52:010][619]LogStaticMesh: Display: Building static mesh SideTop__1_...
+[2024.04.19-17.52.52:056][619]LogStaticMesh: Built static mesh [0.05s] /Game/FBX/JacobBuildBlocks/MiddleGlassBuild/SideTop__1_.SideTop__1_
+[2024.04.19-17.52.52:305][619]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\castudent\Downloads\SideBottom (1).fbx)
+[2024.04.19-17.52.52:320][619]LogFbx: Loading FBX Scene from C:\Users\castudent\Downloads\SideBottom (1).fbx
+[2024.04.19-17.52.52:337][619]LogFbx: FBX Scene Loaded Succesfully
+[2024.04.19-17.52.52:398][619]LogFbx: Display: Triangulating static mesh SideBottom
+[2024.04.19-17.52.52:449][619]LogStaticMesh: Display: Building static mesh SideBottom__1_...
+[2024.04.19-17.52.52:459][619]LogStaticMesh: Built static mesh [0.01s] /Game/FBX/JacobBuildBlocks/MiddleGlassBuild/SideBottom__1_.SideBottom__1_
+[2024.04.19-17.52.52:679][619]LogAutomationController: Ignoring very large delta of 4.05 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2024.04.19-17.52.52:681][620]LogConcert: Display: Synced activity '32' produced by endpoint '80B4926C4ACA717114629DA574A5CE06': Jacob locked /Game/FBX/JacobBuildBlocks/MiddleGlassBuild/SideTop__1_.
+[2024.04.19-17.52.52:682][620]LogConcert: Display: Synced activity '33' produced by endpoint '80B4926C4ACA717114629DA574A5CE06': Jacob added package /Game/FBX/JacobBuildBlocks/MiddleGlassBuild/SideTop__1_.
+[2024.04.19-17.52.52:682][620]LogConcert: Display: Synced activity '34' produced by endpoint '80B4926C4ACA717114629DA574A5CE06': Jacob unlocked /Game/FBX/JacobBuildBlocks/MiddleGlassBuild/SideTop__1_.
+[2024.04.19-17.52.52:683][620]LogConcert: Display: Synced activity '35' produced by endpoint '80B4926C4ACA717114629DA574A5CE06': Jacob locked /Game/FBX/JacobBuildBlocks/MiddleGlassBuild/SideBottom__1_.
+[2024.04.19-17.52.52:684][620]LogConcert: Display: Synced activity '36' produced by endpoint '80B4926C4ACA717114629DA574A5CE06': Jacob added package /Game/FBX/JacobBuildBlocks/MiddleGlassBuild/SideBottom__1_.
+[2024.04.19-17.52.52:684][620]LogConcert: Display: Synced activity '37' produced by endpoint '80B4926C4ACA717114629DA574A5CE06': Jacob unlocked /Game/FBX/JacobBuildBlocks/MiddleGlassBuild/SideBottom__1_.
+[2024.04.19-17.52.52:689][620]AssetCheck: New page: Asset Save: multiple assets
+[2024.04.19-17.52.52:689][620]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/FBX/JacobBuildBlocks/MiddleGlassBuild/SideTop__1_.SideTop__1_
+[2024.04.19-17.52.52:689][620]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/FBX/JacobBuildBlocks/MiddleGlassBuild/SideBottom__1_.SideBottom__1_
+[2024.04.19-17.52.58:933][795]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/BluePrints/Jacob/MiddleGlassBuild.MiddleGlassBuild
+[2024.04.19-17.52.58:933][795]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.19-17.52.58:934][795]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.19-17.53.01:013][832]LogViewport: Scene viewport resized to 2288x1845, mode Windowed.
+[2024.04.19-17.53.21:235][296]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.19-17.53.21:345][296]LogSavePackage: Moving output files for package: /Game/FBX/JacobBuildBlocks/MiddleGlassBuild/SideBottom__1_
+[2024.04.19-17.53.21:346][296]LogSavePackage: Moving 'D:/CyberPlace/Port5_Cyberpunk/Saved/SideBottom__1_12CAF239417F9F21B136E682614CC50B.tmp' to 'D:/CyberPlace/Port5_Cyberpunk/Content/FBX/JacobBuildBlocks/MiddleGlassBuild/SideBottom__1_.uasset'
+[2024.04.19-17.53.21:366][296]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FBX/JacobBuildBlocks/MiddleGlassBuild/SideTop__1_" FILE="D:/CyberPlace/Port5_Cyberpunk/Content/FBX/JacobBuildBlocks/MiddleGlassBuild/SideTop__1_.uasset" SILENT=true
+[2024.04.19-17.53.21:376][296]LogSavePackage: Moving output files for package: /Game/FBX/JacobBuildBlocks/MiddleGlassBuild/SideTop__1_
+[2024.04.19-17.53.21:376][296]LogSavePackage: Moving 'D:/CyberPlace/Port5_Cyberpunk/Saved/SideTop__1_F09CC4454F40B1D53B2E96A2A396672A.tmp' to 'D:/CyberPlace/Port5_Cyberpunk/Content/FBX/JacobBuildBlocks/MiddleGlassBuild/SideTop__1_.uasset'
+[2024.04.19-17.53.21:390][296]LogFileHelpers: InternalPromptForCheckoutAndSave took 154 ms (total: 1.16 sec)
+[2024.04.19-17.53.21:391][296]AssetCheck: New page: Asset Save: multiple assets
+[2024.04.19-17.53.21:391][296]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/FBX/JacobBuildBlocks/MiddleGlassBuild/SideBottom__1_.SideBottom__1_
+[2024.04.19-17.53.21:391][296]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/FBX/JacobBuildBlocks/MiddleGlassBuild/SideTop__1_.SideTop__1_
+[2024.04.19-17.53.21:470][298]LogConcert: Display: Synced activity '38' produced by endpoint '80B4926C4ACA717114629DA574A5CE06': Jacob saved package /Game/FBX/JacobBuildBlocks/MiddleGlassBuild/SideBottom__1_.
+[2024.04.19-17.53.21:471][298]LogConcert: Display: Synced activity '39' produced by endpoint '80B4926C4ACA717114629DA574A5CE06': Jacob saved package /Game/FBX/JacobBuildBlocks/MiddleGlassBuild/SideTop__1_.
+[2024.04.19-17.53.28:472][452]LogContentBrowser: Attempting asset rename: SideTop__1_ -> SideTop
+[2024.04.19-17.53.28:527][452]LogMetaData: Removing '/Game/FBX/JacobBuildBlocks/MiddleGlassBuild/SideTop.SideTop' ref from Metadata '/Game/FBX/JacobBuildBlocks/MiddleGlassBuild/SideTop__1_.PackageMetaData'
+[2024.04.19-17.53.28:528][452]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.19-17.53.28:587][452]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FBX/JacobBuildBlocks/MiddleGlassBuild/SideTop" FILE="D:/CyberPlace/Port5_Cyberpunk/Content/FBX/JacobBuildBlocks/MiddleGlassBuild/SideTop.uasset" SILENT=true
+[2024.04.19-17.53.28:596][452]LogSavePackage: Moving output files for package: /Game/FBX/JacobBuildBlocks/MiddleGlassBuild/SideTop
+[2024.04.19-17.53.28:596][452]LogSavePackage: Moving 'D:/CyberPlace/Port5_Cyberpunk/Saved/SideTop007F220D4FF7AEA9F431B9B6BE46FD5F.tmp' to 'D:/CyberPlace/Port5_Cyberpunk/Content/FBX/JacobBuildBlocks/MiddleGlassBuild/SideTop.uasset'
+[2024.04.19-17.53.28:599][452]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FBX/JacobBuildBlocks/MiddleGlassBuild/SideTop__1_" FILE="D:/CyberPlace/Port5_Cyberpunk/Content/FBX/JacobBuildBlocks/MiddleGlassBuild/SideTop__1_.uasset" SILENT=true
+[2024.04.19-17.53.28:600][452]LogSavePackage: Moving output files for package: /Game/FBX/JacobBuildBlocks/MiddleGlassBuild/SideTop__1_
+[2024.04.19-17.53.28:600][452]LogSavePackage: Moving 'D:/CyberPlace/Port5_Cyberpunk/Saved/SideTop__1_DF2F852B4634F091ECAA8BBDAE30064E.tmp' to 'D:/CyberPlace/Port5_Cyberpunk/Content/FBX/JacobBuildBlocks/MiddleGlassBuild/SideTop__1_.uasset'
+[2024.04.19-17.53.28:610][452]LogFileHelpers: InternalPromptForCheckoutAndSave took 82 ms (total: 1.24 sec)
+[2024.04.19-17.53.28:615][452]AssetCheck: New page: Asset Save: multiple assets
+[2024.04.19-17.53.28:616][452]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/FBX/JacobBuildBlocks/MiddleGlassBuild/SideTop.SideTop
+[2024.04.19-17.53.28:616][452]LogContentValidation: Display: Validating /Script/CoreUObject.ObjectRedirector /Game/FBX/JacobBuildBlocks/MiddleGlassBuild/SideTop__1_.SideTop__1_
+[2024.04.19-17.53.28:694][453]LogConcert: Display: Synced activity '40' produced by endpoint '80B4926C4ACA717114629DA574A5CE06': Jacob locked /Game/FBX/JacobBuildBlocks/MiddleGlassBuild/SideTop__1_.
+[2024.04.19-17.53.28:694][453]LogConcert: Display: Synced activity '41' produced by endpoint '80B4926C4ACA717114629DA574A5CE06': Jacob locked /Game/FBX/JacobBuildBlocks/MiddleGlassBuild/SideTop.
+[2024.04.19-17.53.28:780][454]LogConcert: Display: Synced activity '42' produced by endpoint '80B4926C4ACA717114629DA574A5CE06': Jacob saved package /Game/FBX/JacobBuildBlocks/MiddleGlassBuild/SideTop.
+[2024.04.19-17.53.28:780][454]LogConcert: Display: Synced activity '43' produced by endpoint '80B4926C4ACA717114629DA574A5CE06': Jacob unlocked /Game/FBX/JacobBuildBlocks/MiddleGlassBuild/SideTop.
+[2024.04.19-17.53.28:781][454]LogConcert: Display: Synced activity '44' produced by endpoint '80B4926C4ACA717114629DA574A5CE06': Jacob renamed package /Game/FBX/JacobBuildBlocks/MiddleGlassBuild/SideTop__1_ to /Game/FBX/JacobBuildBlocks/MiddleGlassBuild/SideTop.
+[2024.04.19-17.53.28:781][454]LogConcert: Display: Synced activity '45' produced by endpoint '80B4926C4ACA717114629DA574A5CE06': Jacob unlocked /Game/FBX/JacobBuildBlocks/MiddleGlassBuild/SideTop__1_.
+[2024.04.19-17.53.31:999][639]LogContentBrowser: Attempting asset rename: SideTop -> SideTop
+[2024.04.19-17.53.34:763][694]LogContentBrowser: Attempting asset rename: SideBottom__1_ -> SideBottom
+[2024.04.19-17.53.34:812][694]LogMetaData: Removing '/Game/FBX/JacobBuildBlocks/MiddleGlassBuild/SideBottom.SideBottom' ref from Metadata '/Game/FBX/JacobBuildBlocks/MiddleGlassBuild/SideBottom__1_.PackageMetaData'
+[2024.04.19-17.53.34:813][694]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.19-17.53.34:855][694]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FBX/JacobBuildBlocks/MiddleGlassBuild/SideBottom" FILE="D:/CyberPlace/Port5_Cyberpunk/Content/FBX/JacobBuildBlocks/MiddleGlassBuild/SideBottom.uasset" SILENT=true
+[2024.04.19-17.53.34:864][694]LogSavePackage: Moving output files for package: /Game/FBX/JacobBuildBlocks/MiddleGlassBuild/SideBottom
+[2024.04.19-17.53.34:864][694]LogSavePackage: Moving 'D:/CyberPlace/Port5_Cyberpunk/Saved/SideBottomA859D1DF425702C66655D9A361B37611.tmp' to 'D:/CyberPlace/Port5_Cyberpunk/Content/FBX/JacobBuildBlocks/MiddleGlassBuild/SideBottom.uasset'
+[2024.04.19-17.53.34:868][694]LogSavePackage: Moving output files for package: /Game/FBX/JacobBuildBlocks/MiddleGlassBuild/SideBottom__1_
+[2024.04.19-17.53.34:869][694]LogSavePackage: Moving 'D:/CyberPlace/Port5_Cyberpunk/Saved/SideBottom__1_88A8DF054950353C84050588573AED2E.tmp' to 'D:/CyberPlace/Port5_Cyberpunk/Content/FBX/JacobBuildBlocks/MiddleGlassBuild/SideBottom__1_.uasset'
+[2024.04.19-17.53.34:882][694]LogFileHelpers: InternalPromptForCheckoutAndSave took 69 ms (total: 1.31 sec)
+[2024.04.19-17.53.34:884][694]AssetCheck: New page: Asset Save: multiple assets
+[2024.04.19-17.53.34:884][694]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/FBX/JacobBuildBlocks/MiddleGlassBuild/SideBottom.SideBottom
+[2024.04.19-17.53.34:884][694]LogContentValidation: Display: Validating /Script/CoreUObject.ObjectRedirector /Game/FBX/JacobBuildBlocks/MiddleGlassBuild/SideBottom__1_.SideBottom__1_
+[2024.04.19-17.53.34:928][695]LogConcert: Display: Synced activity '46' produced by endpoint '80B4926C4ACA717114629DA574A5CE06': Jacob locked /Game/FBX/JacobBuildBlocks/MiddleGlassBuild/SideBottom__1_.
+[2024.04.19-17.53.34:928][695]LogConcert: Display: Synced activity '47' produced by endpoint '80B4926C4ACA717114629DA574A5CE06': Jacob locked /Game/FBX/JacobBuildBlocks/MiddleGlassBuild/SideBottom.
+[2024.04.19-17.53.35:011][696]LogConcert: Display: Synced activity '48' produced by endpoint '80B4926C4ACA717114629DA574A5CE06': Jacob saved package /Game/FBX/JacobBuildBlocks/MiddleGlassBuild/SideBottom.
+[2024.04.19-17.53.35:011][696]LogConcert: Display: Synced activity '49' produced by endpoint '80B4926C4ACA717114629DA574A5CE06': Jacob unlocked /Game/FBX/JacobBuildBlocks/MiddleGlassBuild/SideBottom.
+[2024.04.19-17.53.35:012][696]LogConcert: Display: Synced activity '50' produced by endpoint '80B4926C4ACA717114629DA574A5CE06': Jacob renamed package /Game/FBX/JacobBuildBlocks/MiddleGlassBuild/SideBottom__1_ to /Game/FBX/JacobBuildBlocks/MiddleGlassBuild/SideBottom.
+[2024.04.19-17.53.35:013][696]LogConcert: Display: Synced activity '51' produced by endpoint '80B4926C4ACA717114629DA574A5CE06': Jacob unlocked /Game/FBX/JacobBuildBlocks/MiddleGlassBuild/SideBottom__1_.
+[2024.04.19-17.53.37:219][748]LogConcert: Display: Synced activity '52' produced by endpoint '80B4926C4ACA717114629DA574A5CE06': Jacob locked /Game/BluePrints/Jacob/MiddleGlassBuild.
+[2024.04.19-17.53.49:019][958]LogConcert: Display: Synced activity '53' produced by endpoint '80B4926C4ACA717114629DA574A5CE06': Jacob modified MiddleGlassBuild_C_1 in /Game/Scenes/CyberPlace.
+[2024.04.19-17.53.55:467][ 71]LogConcert: Display: Synced activity '54' produced by endpoint '80B4926C4ACA717114629DA574A5CE06': Jacob modified MiddleGlassBuild_C_1 in /Game/Scenes/CyberPlace.
+[2024.04.19-17.54.06:094][274]LogConcert: Display: Synced activity '55' produced by endpoint '80B4926C4ACA717114629DA574A5CE06': Jacob modified MiddleGlassBuild_C_1 in /Game/Scenes/CyberPlace.
+[2024.04.19-17.54.15:572][456]LogConcert: Display: Synced activity '56' produced by endpoint '80B4926C4ACA717114629DA574A5CE06': Jacob modified MiddleGlassBuild_C_1 in /Game/Scenes/CyberPlace.
+[2024.04.19-17.54.22:296][596]LogConcert: Display: Synced activity '57' produced by endpoint '80B4926C4ACA717114629DA574A5CE06': Jacob modified MiddleGlassBuild_C_1 in /Game/Scenes/CyberPlace.
+[2024.04.19-17.54.33:262][832]LogConcert: Display: Synced activity '58' produced by endpoint '80B4926C4ACA717114629DA574A5CE06': Jacob modified MiddleGlassBuild_C_1 in /Game/Scenes/CyberPlace.
+[2024.04.19-17.54.55:343][389]LogConcert: Display: Synced activity '59' produced by endpoint '80B4926C4ACA717114629DA574A5CE06': Jacob modified MiddleGlassBuild_C_1 in /Game/Scenes/CyberPlace.
+[2024.04.19-17.55.03:446][553]LogConcert: Display: Synced activity '60' produced by endpoint '80B4926C4ACA717114629DA574A5CE06': Jacob modified MiddleGlassBuild_C_1 in /Game/Scenes/CyberPlace.
+[2024.04.19-17.55.08:886][662]LogConcert: Display: Synced activity '61' produced by endpoint '80B4926C4ACA717114629DA574A5CE06': Jacob modified MiddleGlassBuild_C_1 in /Game/Scenes/CyberPlace.
+[2024.04.19-17.55.11:580][697]LogConcert: Display: Synced activity '62' produced by endpoint '80B4926C4ACA717114629DA574A5CE06': Jacob modified MiddleGlassBuild_C_1 in /Game/Scenes/CyberPlace.
+[2024.04.19-17.55.19:017][845]LogConcert: Display: Synced activity '63' produced by endpoint '80B4926C4ACA717114629DA574A5CE06': Jacob modified MiddleGlassBuild_C_1 in /Game/Scenes/CyberPlace.
+[2024.04.19-17.55.42:341][265]LogConcert: Display: Synced activity '64' produced by endpoint '80B4926C4ACA717114629DA574A5CE06': Jacob modified MiddleGlassBuild_C_1 in /Game/Scenes/CyberPlace.
+[2024.04.19-17.55.53:543][486]LogConcert: Display: Synced activity '65' produced by endpoint '80B4926C4ACA717114629DA574A5CE06': Jacob modified MiddleGlassBuild_C_1 in /Game/Scenes/CyberPlace.
+[2024.04.19-17.55.56:436][556]BlueprintLog: New page: Compile MiddleGlassBuild
+[2024.04.19-17.55.57:517][556]LogUObjectHash: Compacting FUObjectHashTables data took   2.73ms
+[2024.04.19-17.55.58:578][566]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.19-17.55.58:684][566]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BluePrints/Jacob/MiddleGlassBuild" FILE="D:/CyberPlace/Port5_Cyberpunk/Content/BluePrints/Jacob/MiddleGlassBuild.uasset" SILENT=true
+[2024.04.19-17.55.58:732][566]LogSavePackage: Moving output files for package: /Game/BluePrints/Jacob/MiddleGlassBuild
+[2024.04.19-17.55.58:733][566]LogSavePackage: Moving 'D:/CyberPlace/Port5_Cyberpunk/Saved/MiddleGlassBuild4C9C10824F9DB691A5CCB59757FAE1D3.tmp' to 'D:/CyberPlace/Port5_Cyberpunk/Content/BluePrints/Jacob/MiddleGlassBuild.uasset'
+[2024.04.19-17.55.58:744][566]LogFileHelpers: InternalPromptForCheckoutAndSave took 166 ms (total: 1.47 sec)
+[2024.04.19-17.55.58:764][566]AssetCheck: New page: Asset Save: MiddleGlassBuild
+[2024.04.19-17.55.58:764][566]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/BluePrints/Jacob/MiddleGlassBuild.MiddleGlassBuild
+[2024.04.19-17.55.58:808][568]LogConcert: Display: Synced activity '66' produced by endpoint '80B4926C4ACA717114629DA574A5CE06': Jacob saved package /Game/BluePrints/Jacob/MiddleGlassBuild.
+[2024.04.19-17.55.58:809][568]LogConcert: Display: Synced activity '67' produced by endpoint '80B4926C4ACA717114629DA574A5CE06': Jacob unlocked /Game/BluePrints/Jacob/MiddleGlassBuild.
+[2024.04.19-17.56.00:407][609]LogSlate: Window 'MiddleGlassBuild' being destroyed
+[2024.04.19-17.56.00:420][609]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2024.04.19-17.56.00:420][609]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.19-17.56.39:485][701]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2024.04.19-17.56.50:000][956]Cmd: DELETE
+[2024.04.19-17.56.50:000][956]Cmd: ACTOR DELETE
+[2024.04.19-17.56.50:025][956]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.04.19-17.56.50:027][956]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.04.19-17.56.50:028][956]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.04.19-17.56.50:030][956]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.04.19-17.56.50:031][956]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.04.19-17.56.50:033][956]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.04.19-17.56.50:034][956]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.04.19-17.56.50:036][956]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.04.19-17.56.50:038][956]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.04.19-17.56.50:039][956]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.04.19-17.56.50:041][956]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.04.19-17.56.50:079][956]LogUObjectHash: Compacting FUObjectHashTables data took   1.96ms
+[2024.04.19-17.56.50:088][956]LogEditorActor: Deleted 11 Actors (0.087 secs)
+[2024.04.19-17.56.50:157][960]LogConcert: Display: Synced activity '68' produced by endpoint '80B4926C4ACA717114629DA574A5CE06': Jacob deleted StaticMeshActor_20 in /Game/Scenes/Mason, plus 10 other actions.
+[2024.04.19-17.56.55:440][104]Cmd: DELETE
+[2024.04.19-17.56.55:440][104]Cmd: ACTOR DELETE
+[2024.04.19-17.56.55:446][104]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.04.19-17.56.55:449][104]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.04.19-17.56.55:478][104]LogUObjectHash: Compacting FUObjectHashTables data took   1.80ms
+[2024.04.19-17.56.55:482][104]LogEditorActor: Deleted 2 Actors (0.042 secs)
+[2024.04.19-17.56.55:533][107]LogConcert: Display: Synced activity '69' produced by endpoint '80B4926C4ACA717114629DA574A5CE06': Jacob deleted StaticMeshActor_16 in /Game/Scenes/Mason, plus 1 other action.
+[2024.04.19-17.57.02:970][435]LogViewport: Scene viewport resized to 3052x1603, mode Windowed.
+[2024.04.19-17.57.37:077][429]LogViewport: Scene viewport resized to 3056x1725, mode Windowed.
+[2024.04.19-17.58.35:496][ 36]LogUObjectHash: Compacting FUObjectHashTables data took   2.33ms
+[2024.04.19-17.58.35:499][ 36]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Scenes/CyberPlace" FILE="D:/CyberPlace/Port5_Cyberpunk/Saved/Autosaves/Game/Scenes/CyberPlace_Auto4.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2024.04.19-17.58.35:666][ 36]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Scenes/CyberPlace_Auto4
+[2024.04.19-17.58.35:667][ 36]LogSavePackage: Moving 'D:/CyberPlace/Port5_Cyberpunk/Saved/CyberPlace_Auto4652E288042C0EDCD83683E81863F68C8.tmp' to 'D:/CyberPlace/Port5_Cyberpunk/Saved/Autosaves/Game/Scenes/CyberPlace_Auto4.umap'
+[2024.04.19-17.58.35:668][ 36]LogAssetRegistry: Warning: ScanPathsSynchronous: D:/CyberPlace/Port5_Cyberpunk/Saved/Autosaves/Game/Scenes/CyberPlace_Auto4.umap is in the /Temp path, will not scan.
+[2024.04.19-17.58.35:670][ 36]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Scenes/Mason" FILE="D:/CyberPlace/Port5_Cyberpunk/Saved/Autosaves/Game/Scenes/Mason_Auto4.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2024.04.19-17.58.35:677][ 36]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Scenes/Mason_Auto4
+[2024.04.19-17.58.35:677][ 36]LogSavePackage: Moving 'D:/CyberPlace/Port5_Cyberpunk/Saved/Mason_Auto49D71FEA34EDCF360C5610BBEE6BD076D.tmp' to 'D:/CyberPlace/Port5_Cyberpunk/Saved/Autosaves/Game/Scenes/Mason_Auto4.umap'
+[2024.04.19-17.58.35:678][ 36]LogAssetRegistry: Warning: ScanPathsSynchronous: D:/CyberPlace/Port5_Cyberpunk/Saved/Autosaves/Game/Scenes/Mason_Auto4.umap is in the /Temp path, will not scan.
+[2024.04.19-17.58.35:678][ 36]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Scenes/CyberPlace' took 0.215
+[2024.04.19-17.58.35:678][ 36]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.215
+[2024.04.19-17.59.03:402][830]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2024.04.19-17.59.03:434][830]LogContentBrowser: Creating deferred item: NewFolder
+[2024.04.19-17.59.03:452][831]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2024.04.19-17.59.07:775][954]LogContentBrowser: Attempting asset rename: NewFolder -> CloseBuilding
+[2024.04.19-17.59.07:776][954]LogContentBrowser: End creating deferred item NewFolder
+[2024.04.19-18.11.36:166][359]LogDerivedDataCache: C:/Users/castudent/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:03.242 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 2086 files in 3393 folders with total size 177 MiB.
+[2024.04.19-18.11.48:599][758]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2024.04.19-18.11.48:624][758]LogContentBrowser: Creating deferred item: NewFolder
+[2024.04.19-18.11.48:642][759]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2024.04.19-18.11.55:426][954]LogContentBrowser: Attempting asset rename: NewFolder -> CloseGlassBuid
+[2024.04.19-18.11.55:427][954]LogContentBrowser: End creating deferred item NewFolder
+[2024.04.19-18.12.00:126][ 89]LogContentBrowser: Attempting asset rename: CloseGlassBuid -> CloseGlassBuild
+[2024.04.19-18.12.21:276][536]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\castudent\Downloads\MainBodyGlass.fbx)
+[2024.04.19-18.12.21:284][536]LogFbx: Loading FBX Scene from C:\Users\castudent\Downloads\MainBodyGlass.fbx
+[2024.04.19-18.12.21:291][536]LogFbx: FBX Scene Loaded Succesfully
+[2024.04.19-18.12.22:690][536]LogSlate: Window 'FBX Import Options' being destroyed
+[2024.04.19-18.12.22:776][536]LogFbx: Display: Triangulating static mesh MainBodyGlass
+[2024.04.19-18.12.22:779][536]LogStaticMesh: Display: Building static mesh MainBodyGlass...
+[2024.04.19-18.12.22:789][536]LogStaticMesh: Built static mesh [0.01s] /Game/FBX/JacobBuildBlocks/CloseGlassBuild/MainBodyGlass.MainBodyGlass
+[2024.04.19-18.12.23:285][536]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\castudent\Downloads\OutterLedges.fbx)
+[2024.04.19-18.12.23:299][536]LogFbx: Loading FBX Scene from C:\Users\castudent\Downloads\OutterLedges.fbx
+[2024.04.19-18.12.23:322][536]LogFbx: FBX Scene Loaded Succesfully
+[2024.04.19-18.12.23:404][536]LogFbx: Display: Triangulating static mesh OutterLedges
+[2024.04.19-18.12.23:898][536]LogStaticMesh: Display: Building static mesh OutterLedges...
+[2024.04.19-18.12.24:056][536]LogStaticMesh: Built static mesh [0.16s] /Game/FBX/JacobBuildBlocks/CloseGlassBuild/OutterLedges.OutterLedges
+[2024.04.19-18.12.24:511][536]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/FBX/JacobBuildBlocks/CloseGlassBuild/OutterLedges) ...
+[2024.04.19-18.12.24:596][536]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\castudent\Downloads\BottomGlassClose.fbx)
+[2024.04.19-18.12.24:610][536]LogFbx: Loading FBX Scene from C:\Users\castudent\Downloads\BottomGlassClose.fbx
+[2024.04.19-18.12.24:623][536]LogFbx: FBX Scene Loaded Succesfully
+[2024.04.19-18.12.24:693][536]LogFbx: Display: Triangulating static mesh BottomGlassClose
+[2024.04.19-18.12.24:819][536]LogStaticMesh: Display: Building static mesh BottomGlassClose...
+[2024.04.19-18.12.24:871][536]LogStaticMesh: Built static mesh [0.05s] /Game/FBX/JacobBuildBlocks/CloseGlassBuild/BottomGlassClose.BottomGlassClose
+[2024.04.19-18.12.25:426][536]LogAutomationController: Ignoring very large delta of 4.17 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2024.04.19-18.12.25:427][537]LogConcert: Display: Synced activity '70' produced by endpoint '80B4926C4ACA717114629DA574A5CE06': Jacob locked /Game/FBX/JacobBuildBlocks/CloseGlassBuild/MainBodyGlass.
+[2024.04.19-18.12.25:428][537]LogConcert: Display: Synced activity '71' produced by endpoint '80B4926C4ACA717114629DA574A5CE06': Jacob added package /Game/FBX/JacobBuildBlocks/CloseGlassBuild/MainBodyGlass.
+[2024.04.19-18.12.25:428][537]LogConcert: Display: Synced activity '72' produced by endpoint '80B4926C4ACA717114629DA574A5CE06': Jacob unlocked /Game/FBX/JacobBuildBlocks/CloseGlassBuild/MainBodyGlass.
+[2024.04.19-18.12.25:429][537]LogConcert: Display: Synced activity '73' produced by endpoint '80B4926C4ACA717114629DA574A5CE06': Jacob locked /Game/FBX/JacobBuildBlocks/CloseGlassBuild/OutterLedges.
+[2024.04.19-18.12.25:432][537]LogConcert: Display: Synced activity '74' produced by endpoint '80B4926C4ACA717114629DA574A5CE06': Jacob added package /Game/FBX/JacobBuildBlocks/CloseGlassBuild/OutterLedges.
+[2024.04.19-18.12.25:433][537]LogConcert: Display: Synced activity '75' produced by endpoint '80B4926C4ACA717114629DA574A5CE06': Jacob unlocked /Game/FBX/JacobBuildBlocks/CloseGlassBuild/OutterLedges.
+[2024.04.19-18.12.25:433][537]LogConcert: Display: Synced activity '76' produced by endpoint '80B4926C4ACA717114629DA574A5CE06': Jacob locked /Game/FBX/JacobBuildBlocks/CloseGlassBuild/BottomGlassClose.
+[2024.04.19-18.12.25:434][537]LogConcert: Display: Synced activity '77' produced by endpoint '80B4926C4ACA717114629DA574A5CE06': Jacob added package /Game/FBX/JacobBuildBlocks/CloseGlassBuild/BottomGlassClose.
+[2024.04.19-18.12.25:434][537]LogConcert: Display: Synced activity '78' produced by endpoint '80B4926C4ACA717114629DA574A5CE06': Jacob unlocked /Game/FBX/JacobBuildBlocks/CloseGlassBuild/BottomGlassClose.
+[2024.04.19-18.12.25:442][537]AssetCheck: New page: Asset Save: multiple assets
+[2024.04.19-18.12.25:442][537]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/FBX/JacobBuildBlocks/CloseGlassBuild/MainBodyGlass.MainBodyGlass
+[2024.04.19-18.12.25:442][537]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/FBX/JacobBuildBlocks/CloseGlassBuild/OutterLedges.OutterLedges
+[2024.04.19-18.12.25:442][537]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/FBX/JacobBuildBlocks/CloseGlassBuild/BottomGlassClose.BottomGlassClose
+[2024.04.19-18.12.29:653][641]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.19-18.12.29:892][641]LogSavePackage: Moving output files for package: /Game/FBX/JacobBuildBlocks/CloseGlassBuild/BottomGlassClose
+[2024.04.19-18.12.29:893][641]LogSavePackage: Moving 'D:/CyberPlace/Port5_Cyberpunk/Saved/BottomGlassClose5830C4A7447D0C30DF02A8AE93EDA509.tmp' to 'D:/CyberPlace/Port5_Cyberpunk/Content/FBX/JacobBuildBlocks/CloseGlassBuild/BottomGlassClose.uasset'
+[2024.04.19-18.12.29:909][641]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FBX/JacobBuildBlocks/CloseGlassBuild/OutterLedges" FILE="D:/CyberPlace/Port5_Cyberpunk/Content/FBX/JacobBuildBlocks/CloseGlassBuild/OutterLedges.uasset" SILENT=true
+[2024.04.19-18.12.29:930][641]LogSavePackage: Moving output files for package: /Game/FBX/JacobBuildBlocks/CloseGlassBuild/OutterLedges
+[2024.04.19-18.12.29:930][641]LogSavePackage: Moving 'D:/CyberPlace/Port5_Cyberpunk/Saved/OutterLedges7854B9E944A7E8AED00EFAB9FBDB2A7A.tmp' to 'D:/CyberPlace/Port5_Cyberpunk/Content/FBX/JacobBuildBlocks/CloseGlassBuild/OutterLedges.uasset'
+[2024.04.19-18.12.29:948][641]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FBX/JacobBuildBlocks/CloseGlassBuild/MainBodyGlass" FILE="D:/CyberPlace/Port5_Cyberpunk/Content/FBX/JacobBuildBlocks/CloseGlassBuild/MainBodyGlass.uasset" SILENT=true
+[2024.04.19-18.12.29:954][641]LogSavePackage: Moving output files for package: /Game/FBX/JacobBuildBlocks/CloseGlassBuild/MainBodyGlass
+[2024.04.19-18.12.29:955][641]LogSavePackage: Moving 'D:/CyberPlace/Port5_Cyberpunk/Saved/MainBodyGlass43DEA6754E857A8F88BD7E9993B43186.tmp' to 'D:/CyberPlace/Port5_Cyberpunk/Content/FBX/JacobBuildBlocks/CloseGlassBuild/MainBodyGlass.uasset'
+[2024.04.19-18.12.29:971][641]LogFileHelpers: InternalPromptForCheckoutAndSave took 318 ms (total: 1.79 sec)
+[2024.04.19-18.12.29:976][641]AssetCheck: New page: Asset Save: multiple assets
+[2024.04.19-18.12.29:976][641]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/FBX/JacobBuildBlocks/CloseGlassBuild/BottomGlassClose.BottomGlassClose
+[2024.04.19-18.12.29:976][641]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/FBX/JacobBuildBlocks/CloseGlassBuild/OutterLedges.OutterLedges
+[2024.04.19-18.12.29:976][641]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/FBX/JacobBuildBlocks/CloseGlassBuild/MainBodyGlass.MainBodyGlass
+[2024.04.19-18.12.30:042][643]LogConcert: Display: Synced activity '79' produced by endpoint '80B4926C4ACA717114629DA574A5CE06': Jacob saved package /Game/FBX/JacobBuildBlocks/CloseGlassBuild/BottomGlassClose.
+[2024.04.19-18.12.30:079][644]LogConcert: Display: Synced activity '80' produced by endpoint '80B4926C4ACA717114629DA574A5CE06': Jacob saved package /Game/FBX/JacobBuildBlocks/CloseGlassBuild/OutterLedges.
+[2024.04.19-18.12.30:080][644]LogConcert: Display: Synced activity '81' produced by endpoint '80B4926C4ACA717114629DA574A5CE06': Jacob saved package /Game/FBX/JacobBuildBlocks/CloseGlassBuild/MainBodyGlass.
+[2024.04.19-18.16.35:354][958]LogSlate: Window 'Pick Parent Class' being destroyed
+[2024.04.19-18.16.35:367][958]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2024.04.19-18.16.35:383][958]LogContentBrowser: Creating deferred item: NewBlueprint
+[2024.04.19-18.16.35:417][959]LogContentBrowser: Renaming the item being created (Deferred Item: NewBlueprint).
+[2024.04.19-18.16.44:097][211]LogContentBrowser: Attempting asset rename: NewBlueprint -> CloseGlassBuild
+[2024.04.19-18.16.44:125][211]LogContentBrowser: End creating deferred item NewBlueprint
+[2024.04.19-18.16.44:137][211]AssetCheck: New page: Asset Save: CloseGlassBuild
+[2024.04.19-18.16.44:137][211]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/BluePrints/Jacob/CloseGlassBuild.CloseGlassBuild
+[2024.04.19-18.16.44:172][212]LogConcert: Display: Synced activity '82' produced by endpoint '80B4926C4ACA717114629DA574A5CE06': Jacob added package /Game/BluePrints/Jacob/CloseGlassBuild.
+[2024.04.19-18.16.44:172][212]LogConcert: Display: Synced activity '83' produced by endpoint '80B4926C4ACA717114629DA574A5CE06': Jacob locked /Game/BluePrints/Jacob/CloseGlassBuild.
+[2024.04.19-18.16.46:119][261]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.19-18.16.46:233][261]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BluePrints/Jacob/CloseGlassBuild" FILE="D:/CyberPlace/Port5_Cyberpunk/Content/BluePrints/Jacob/CloseGlassBuild.uasset" SILENT=true
+[2024.04.19-18.16.46:240][261]LogSavePackage: Moving output files for package: /Game/BluePrints/Jacob/CloseGlassBuild
+[2024.04.19-18.16.46:240][261]LogSavePackage: Moving 'D:/CyberPlace/Port5_Cyberpunk/Saved/CloseGlassBuildE41CE74D42DABD1AA3C92DB3810D162C.tmp' to 'D:/CyberPlace/Port5_Cyberpunk/Content/BluePrints/Jacob/CloseGlassBuild.uasset'
+[2024.04.19-18.16.46:253][261]LogFileHelpers: InternalPromptForCheckoutAndSave took 133 ms (total: 1.93 sec)
+[2024.04.19-18.16.46:264][261]AssetCheck: New page: Asset Save: CloseGlassBuild
+[2024.04.19-18.16.46:264][261]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/BluePrints/Jacob/CloseGlassBuild.CloseGlassBuild
+[2024.04.19-18.16.46:318][263]LogConcert: Display: Synced activity '84' produced by endpoint '80B4926C4ACA717114629DA574A5CE06': Jacob saved package /Game/BluePrints/Jacob/CloseGlassBuild.
+[2024.04.19-18.16.46:318][263]LogConcert: Display: Synced activity '85' produced by endpoint '80B4926C4ACA717114629DA574A5CE06': Jacob unlocked /Game/BluePrints/Jacob/CloseGlassBuild.
+[2024.04.19-18.16.48:352][316]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/BluePrints/Jacob/CloseGlassBuild.CloseGlassBuild
+[2024.04.19-18.16.48:353][316]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.19-18.16.48:353][316]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.19-18.16.48:722][316]LogViewport: Scene viewport resized to 2288x1845, mode Windowed.
+[2024.04.19-18.17.00:621][588]LogConcert: Display: Synced activity '86' produced by endpoint '80B4926C4ACA717114629DA574A5CE06': Jacob locked /Game/BluePrints/Jacob/CloseGlassBuild.
+[2024.04.19-18.17.15:820][924]BlueprintLog: New page: Compile CloseGlassBuild
+[2024.04.19-18.17.15:891][924]LogUObjectHash: Compacting FUObjectHashTables data took   2.39ms
+[2024.04.19-18.17.16:401][937]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.19-18.17.16:464][937]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.19-18.17.16:599][937]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BluePrints/Jacob/CloseGlassBuild" FILE="D:/CyberPlace/Port5_Cyberpunk/Content/BluePrints/Jacob/CloseGlassBuild.uasset" SILENT=true
+[2024.04.19-18.17.16:605][937]LogSavePackage: Moving output files for package: /Game/BluePrints/Jacob/CloseGlassBuild
+[2024.04.19-18.17.16:605][937]LogSavePackage: Moving 'D:/CyberPlace/Port5_Cyberpunk/Saved/CloseGlassBuild97EBBDE64C4F0849339105A53540B10B.tmp' to 'D:/CyberPlace/Port5_Cyberpunk/Content/BluePrints/Jacob/CloseGlassBuild.uasset'
+[2024.04.19-18.17.16:620][937]LogFileHelpers: InternalPromptForCheckoutAndSave took 220 ms (total: 2.15 sec)
+[2024.04.19-18.17.16:636][937]AssetCheck: New page: Asset Save: CloseGlassBuild
+[2024.04.19-18.17.16:636][937]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/BluePrints/Jacob/CloseGlassBuild.CloseGlassBuild
+[2024.04.19-18.17.16:682][939]LogConcert: Display: Synced activity '87' produced by endpoint '80B4926C4ACA717114629DA574A5CE06': Jacob saved package /Game/BluePrints/Jacob/CloseGlassBuild.
+[2024.04.19-18.17.16:682][939]LogConcert: Display: Synced activity '88' produced by endpoint '80B4926C4ACA717114629DA574A5CE06': Jacob unlocked /Game/BluePrints/Jacob/CloseGlassBuild.
+[2024.04.19-18.17.17:481][957]LogSlate: Window 'CloseGlassBuild' being destroyed
+[2024.04.19-18.17.17:499][957]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2024.04.19-18.17.17:499][957]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.19-18.17.34:425][406]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/BluePrints/Jacob/MiddleGlassBuild.MiddleGlassBuild_C
+[2024.04.19-18.17.34:425][406]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/BluePrints/Jacob/MiddleGlassBuild.MiddleGlassBuild_C
+[2024.04.19-18.17.34:457][406]LogActorFactory: Actor Factory spawned Blueprint /Game/BluePrints/Jacob/MiddleGlassBuild.MiddleGlassBuild as actor: MiddleGlassBuild_C /Game/Scenes/CyberPlace.CyberPlace:PersistentLevel.MiddleGlassBuild_C_2
+[2024.04.19-18.17.34:583][406]LogActorFactory: Actor Factory spawned Blueprint /Game/BluePrints/Jacob/MiddleGlassBuild.MiddleGlassBuild as actor: MiddleGlassBuild_C /Game/Scenes/CyberPlace.CyberPlace:PersistentLevel.MiddleGlassBuild_C_2
+[2024.04.19-18.17.35:154][407]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/BluePrints/Jacob/MiddleGlassBuild.MiddleGlassBuild_C
+[2024.04.19-18.17.35:154][407]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/BluePrints/Jacob/MiddleGlassBuild.MiddleGlassBuild_C
+[2024.04.19-18.17.35:266][407]LogActorFactory: Actor Factory spawned Blueprint /Game/BluePrints/Jacob/MiddleGlassBuild.MiddleGlassBuild as actor: MiddleGlassBuild_C /Game/Scenes/CyberPlace.CyberPlace:PersistentLevel.MiddleGlassBuild_C_3
+[2024.04.19-18.17.35:390][407]LogActorFactory: Actor Factory spawned Blueprint /Game/BluePrints/Jacob/MiddleGlassBuild.MiddleGlassBuild as actor: MiddleGlassBuild_C /Game/Scenes/CyberPlace.CyberPlace:PersistentLevel.MiddleGlassBuild_C_3
+[2024.04.19-18.17.36:076][407]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/BluePrints/Jacob/MiddleGlassBuild.MiddleGlassBuild_C
+[2024.04.19-18.17.36:076][407]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/BluePrints/Jacob/MiddleGlassBuild.MiddleGlassBuild_C
+[2024.04.19-18.17.36:195][407]LogActorFactory: Actor Factory spawned Blueprint /Game/BluePrints/Jacob/MiddleGlassBuild.MiddleGlassBuild as actor: MiddleGlassBuild_C /Game/Scenes/CyberPlace.CyberPlace:PersistentLevel.MiddleGlassBuild_C_4
+[2024.04.19-18.17.36:323][407]LogActorFactory: Actor Factory spawned Blueprint /Game/BluePrints/Jacob/MiddleGlassBuild.MiddleGlassBuild as actor: MiddleGlassBuild_C /Game/Scenes/CyberPlace.CyberPlace:PersistentLevel.MiddleGlassBuild_C_4
+[2024.04.19-18.17.37:240][413]LogConcert: Display: Synced activity '89' produced by endpoint '80B4926C4ACA717114629DA574A5CE06': Jacob created MiddleGlassBuild_C_4 in /Game/Scenes/CyberPlace.
+[2024.04.19-18.17.38:264][444]Cmd: DELETE
+[2024.04.19-18.17.38:264][444]Cmd: ACTOR DELETE
+[2024.04.19-18.17.38:292][444]LogEditorActor: Deleted Actor: MiddleGlassBuild_C
+[2024.04.19-18.17.38:417][444]LogUObjectHash: Compacting FUObjectHashTables data took   2.09ms
+[2024.04.19-18.17.38:424][444]LogEditorActor: Deleted 1 Actors (0.159 secs)
+[2024.04.19-18.17.38:505][448]LogConcert: Display: Synced activity '90' produced by endpoint '80B4926C4ACA717114629DA574A5CE06': Jacob deleted MiddleGlassBuild_C_4 in /Game/Scenes/CyberPlace.
+[2024.04.19-18.17.40:544][499]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/BluePrints/Jacob/CloseGlassBuild.CloseGlassBuild_C
+[2024.04.19-18.17.40:544][499]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/BluePrints/Jacob/CloseGlassBuild.CloseGlassBuild_C
+[2024.04.19-18.17.40:548][499]LogActorFactory: Actor Factory spawned Blueprint /Game/BluePrints/Jacob/CloseGlassBuild.CloseGlassBuild as actor: CloseGlassBuild_C /Game/Scenes/CyberPlace.CyberPlace:PersistentLevel.CloseGlassBuild_C_0
+[2024.04.19-18.17.40:551][499]LogActorFactory: Actor Factory spawned Blueprint /Game/BluePrints/Jacob/CloseGlassBuild.CloseGlassBuild as actor: CloseGlassBuild_C /Game/Scenes/CyberPlace.CyberPlace:PersistentLevel.CloseGlassBuild_C_0
+[2024.04.19-18.17.45:815][785]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/BluePrints/Jacob/CloseGlassBuild.CloseGlassBuild_C
+[2024.04.19-18.17.45:815][785]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/BluePrints/Jacob/CloseGlassBuild.CloseGlassBuild_C
+[2024.04.19-18.17.45:821][785]LogActorFactory: Actor Factory spawned Blueprint /Game/BluePrints/Jacob/CloseGlassBuild.CloseGlassBuild as actor: CloseGlassBuild_C /Game/Scenes/CyberPlace.CyberPlace:PersistentLevel.CloseGlassBuild_C_1
+[2024.04.19-18.17.45:824][785]LogActorFactory: Actor Factory spawned Blueprint /Game/BluePrints/Jacob/CloseGlassBuild.CloseGlassBuild as actor: CloseGlassBuild_C /Game/Scenes/CyberPlace.CyberPlace:PersistentLevel.CloseGlassBuild_C_1
+[2024.04.19-18.17.46:049][788]LogConcert: Display: Synced activity '91' produced by endpoint '80B4926C4ACA717114629DA574A5CE06': Jacob created CloseGlassBuild_C_1 in /Game/Scenes/CyberPlace.
+[2024.04.19-18.17.54:198][  1]LogConcert: Display: Synced activity '92' produced by endpoint '80B4926C4ACA717114629DA574A5CE06': Jacob modified CloseGlassBuild_C_1 in /Game/Scenes/CyberPlace.
+[2024.04.19-18.17.56:009][ 48]Cmd: DELETE
+[2024.04.19-18.17.56:009][ 48]Cmd: ACTOR DELETE
+[2024.04.19-18.17.56:021][ 48]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.04.19-18.17.56:058][ 48]LogUObjectHash: Compacting FUObjectHashTables data took   2.42ms
+[2024.04.19-18.17.56:067][ 48]LogEditorActor: Deleted 1 Actors (0.058 secs)
+[2024.04.19-18.17.56:112][ 51]LogConcert: Display: Synced activity '93' produced by endpoint '80B4926C4ACA717114629DA574A5CE06': Jacob deleted StaticMeshActor_43 in /Game/Scenes/CyberPlace.
+[2024.04.19-18.18.34:904][148]LogSlateStyle: Warning: Missing Resource from 'CoreStyle' Style: 'Unable to find Brush 'ContentBrowser.ListViewFolderIcon.Base'.'
+[2024.04.19-18.18.34:904][148]LogSlateStyle: Warning: Missing Resource from 'CoreStyle' Style: 'Unable to find Brush 'ContentBrowser.ListViewFolderIcon.Mask'.'
+[2024.04.19-18.18.43:083][751]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/FBX/JacobBuildBlocks/CloseGlassBuild/OutterLedges.OutterLedges
+[2024.04.19-18.18.43:204][751]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.19-18.18.43:204][751]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.19-18.18.43:262][751]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Engine/EditorMeshes/AssetViewer/Sphere_inversenormals) ...
+[2024.04.19-18.18.44:338][751]LogViewport: Scene viewport resized to 2815x1893, mode Windowed.
+[2024.04.19-18.19.14:592][299]LogUObjectHash: Compacting FUObjectHashTables data took   2.16ms
+[2024.04.19-18.19.14:596][299]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Scenes/CyberPlace" FILE="D:/CyberPlace/Port5_Cyberpunk/Saved/Autosaves/Game/Scenes/CyberPlace_Auto5.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2024.04.19-18.19.14:772][299]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Scenes/CyberPlace_Auto5
+[2024.04.19-18.19.14:772][299]LogSavePackage: Moving 'D:/CyberPlace/Port5_Cyberpunk/Saved/CyberPlace_Auto54FC8FE504424CC138FFB088A5D8F0466.tmp' to 'D:/CyberPlace/Port5_Cyberpunk/Saved/Autosaves/Game/Scenes/CyberPlace_Auto5.umap'
+[2024.04.19-18.19.14:774][299]LogAssetRegistry: Warning: ScanPathsSynchronous: D:/CyberPlace/Port5_Cyberpunk/Saved/Autosaves/Game/Scenes/CyberPlace_Auto5.umap is in the /Temp path, will not scan.
+[2024.04.19-18.19.14:775][299]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Scenes/CyberPlace' took 0.214
+[2024.04.19-18.19.14:775][299]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.214
+[2024.04.19-18.20.28:976][789]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2024.04.19-18.20.29:001][789]LogContentBrowser: Creating deferred item: NewFolder
+[2024.04.19-18.20.29:030][790]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2024.04.19-18.20.35:752][907]LogContentBrowser: Attempting asset rename: NewFolder -> ScratchedSteel
+[2024.04.19-18.20.35:753][907]LogContentBrowser: End creating deferred item NewFolder
+[2024.04.19-18.20.56:910][ 55]LogInterchangeEngine: [Pending] Importing
+[2024.04.19-18.20.56:910][ 55]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/castudent/D...tal_Painted_sefmdgqc/sefmdgqc_2K_Metalness.jpg]
+[2024.04.19-18.20.56:911][ 55]LogInterchangeEngine: [Pending] Importing -  (2)
+[2024.04.19-18.20.56:911][ 55]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/castudent/D...tal_Painted_sefmdgqc/sefmdgqc_2K_Normal.jpg]
+[2024.04.19-18.20.56:912][ 55]LogInterchangeEngine: [Pending] Importing -  (3)
+[2024.04.19-18.20.56:913][ 55]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/castudent/D...tal_Painted_sefmdgqc/sefmdgqc_2K_Roughness.jpg]
+[2024.04.19-18.20.56:914][ 55]LogInterchangeEngine: [Pending] Importing -  (4)
+[2024.04.19-18.20.56:914][ 55]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/castudent/D...tal_Painted_sefmdgqc/sefmdgqc_2K_Albedo.jpg]
+[2024.04.19-18.20.56:916][ 55]LogInterchangeImport: JPEG file [C:/Users/castudent/Desktop/Downloaded/surface/Metal_Painted_sefmdgqc/sefmdgqc_2K_Metalness.jpg]: Pipeline setting 'bPreferCompressedSourceData' has been overridden by Editor setting 'RetainJpegFormat'
+[2024.04.19-18.20.56:917][ 55]LogInterchangeImport: JPEG file [C:/Users/castudent/Desktop/Downloaded/surface/Metal_Painted_sefmdgqc/sefmdgqc_2K_Normal.jpg]: Pipeline setting 'bPreferCompressedSourceData' has been overridden by Editor setting 'RetainJpegFormat'
+[2024.04.19-18.20.56:918][ 55]LogInterchangeImport: JPEG file [C:/Users/castudent/Desktop/Downloaded/surface/Metal_Painted_sefmdgqc/sefmdgqc_2K_Roughness.jpg]: Pipeline setting 'bPreferCompressedSourceData' has been overridden by Editor setting 'RetainJpegFormat'
+[2024.04.19-18.20.56:918][ 55]LogInterchangeImport: JPEG file [C:/Users/castudent/Desktop/Downloaded/surface/Metal_Painted_sefmdgqc/sefmdgqc_2K_Albedo.jpg]: Pipeline setting 'bPreferCompressedSourceData' has been overridden by Editor setting 'RetainJpegFormat'
+[2024.04.19-18.20.56:994][ 56]LogInterchangePipeline: Display: Auto-detected normal map
+[2024.04.19-18.20.57:018][ 56]LogTexture: Display: Waiting for textures to be ready 0/1 (/Game/Textures/Jacob/ScratchedSteel/sefmdgqc_2K_Normal) ...
+[2024.04.19-18.20.57:038][ 56]LogTexture: Display: Building textures: /Game/Textures/Jacob/ScratchedSteel/sefmdgqc_2K_Normal.sefmdgqc_2K_Normal (TFO_BC5, 2048x2048 x1x1x1) (Required Memory Estimate: 561.562488 MB), EncodeSpeed: Fast
+[2024.04.19-18.20.57:220][ 56]LogTexture: Display: Waiting for textures to be ready 0/1 (/Game/Textures/Jacob/ScratchedSteel/sefmdgqc_2K_Metalness) ...
+[2024.04.19-18.20.57:262][ 56]LogTexture: Display: Building textures: /Game/Textures/Jacob/ScratchedSteel/sefmdgqc_2K_Metalness.sefmdgqc_2K_Metalness (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 350.145823 MB), EncodeSpeed: Fast
+[2024.04.19-18.20.57:497][ 56]LogTexture: Display: Waiting for textures to be ready 0/1 (/Game/Textures/Jacob/ScratchedSteel/sefmdgqc_2K_Albedo) ...
+[2024.04.19-18.20.57:551][ 56]LogTexture: Display: Building textures: /Game/Textures/Jacob/ScratchedSteel/sefmdgqc_2K_Albedo.sefmdgqc_2K_Albedo (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 350.145823 MB), EncodeSpeed: Fast
+[2024.04.19-18.20.57:850][ 56]LogTexture: Display: Waiting for textures to be ready 0/1 (/Game/Textures/Jacob/ScratchedSteel/sefmdgqc_2K_Roughness) ...
+[2024.04.19-18.20.57:910][ 56]LogTexture: Display: Building textures: /Game/Textures/Jacob/ScratchedSteel/sefmdgqc_2K_Roughness.sefmdgqc_2K_Roughness (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 350.145823 MB), EncodeSpeed: Fast
+[2024.04.19-18.20.58:168][ 56]LogInterchangeEngine: [Pending] Importing -  (3)
+[2024.04.19-18.20.58:169][ 56]LogInterchangeEngine: [Pending] Importing -  (2)
+[2024.04.19-18.20.58:169][ 56]LogInterchangeEngine: [Pending] Importing -  (1)
+[2024.04.19-18.20.58:222][ 56]LogInterchangeEngine: [Success] Import Done
+[2024.04.19-18.20.58:224][ 56]LogConcert: Display: Synced activity '94' produced by endpoint '80B4926C4ACA717114629DA574A5CE06': Jacob locked /Game/Textures/Jacob/ScratchedSteel/sefmdgqc_2K_Normal.
+[2024.04.19-18.20.58:227][ 56]LogConcert: Display: Synced activity '95' produced by endpoint '80B4926C4ACA717114629DA574A5CE06': Jacob added package /Game/Textures/Jacob/ScratchedSteel/sefmdgqc_2K_Normal.
+[2024.04.19-18.20.58:228][ 56]LogConcert: Display: Synced activity '96' produced by endpoint '80B4926C4ACA717114629DA574A5CE06': Jacob unlocked /Game/Textures/Jacob/ScratchedSteel/sefmdgqc_2K_Normal.
+[2024.04.19-18.20.58:228][ 56]LogConcert: Display: Synced activity '97' produced by endpoint '80B4926C4ACA717114629DA574A5CE06': Jacob locked /Game/Textures/Jacob/ScratchedSteel/sefmdgqc_2K_Metalness.
+[2024.04.19-18.20.58:238][ 56]LogConcert: Display: Synced activity '98' produced by endpoint '80B4926C4ACA717114629DA574A5CE06': Jacob added package /Game/Textures/Jacob/ScratchedSteel/sefmdgqc_2K_Metalness.
+[2024.04.19-18.20.58:238][ 56]LogConcert: Display: Synced activity '99' produced by endpoint '80B4926C4ACA717114629DA574A5CE06': Jacob unlocked /Game/Textures/Jacob/ScratchedSteel/sefmdgqc_2K_Metalness.
+[2024.04.19-18.20.58:239][ 56]LogConcert: Display: Synced activity '100' produced by endpoint '80B4926C4ACA717114629DA574A5CE06': Jacob locked /Game/Textures/Jacob/ScratchedSteel/sefmdgqc_2K_Albedo.
+[2024.04.19-18.20.58:243][ 56]LogConcert: Display: Synced activity '101' produced by endpoint '80B4926C4ACA717114629DA574A5CE06': Jacob added package /Game/Textures/Jacob/ScratchedSteel/sefmdgqc_2K_Albedo.
+[2024.04.19-18.20.58:244][ 56]LogConcert: Display: Synced activity '102' produced by endpoint '80B4926C4ACA717114629DA574A5CE06': Jacob unlocked /Game/Textures/Jacob/ScratchedSteel/sefmdgqc_2K_Albedo.
+[2024.04.19-18.20.58:245][ 56]LogConcert: Display: Synced activity '103' produced by endpoint '80B4926C4ACA717114629DA574A5CE06': Jacob locked /Game/Textures/Jacob/ScratchedSteel/sefmdgqc_2K_Roughness.
+[2024.04.19-18.20.58:273][ 56]LogInterchangeEngine: [Success] Import Done
+[2024.04.19-18.20.58:277][ 56]AssetCheck: New page: Asset Save: multiple assets
+[2024.04.19-18.20.58:277][ 56]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Textures/Jacob/ScratchedSteel/sefmdgqc_2K_Normal.sefmdgqc_2K_Normal
+[2024.04.19-18.20.58:278][ 56]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Textures/Jacob/ScratchedSteel/sefmdgqc_2K_Metalness.sefmdgqc_2K_Metalness
+[2024.04.19-18.20.58:278][ 56]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Textures/Jacob/ScratchedSteel/sefmdgqc_2K_Albedo.sefmdgqc_2K_Albedo
+[2024.04.19-18.20.58:278][ 56]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Textures/Jacob/ScratchedSteel/sefmdgqc_2K_Roughness.sefmdgqc_2K_Roughness
+[2024.04.19-18.20.58:660][ 58]LogConcert: Display: Synced activity '104' produced by endpoint '80B4926C4ACA717114629DA574A5CE06': Jacob added package /Game/Textures/Jacob/ScratchedSteel/sefmdgqc_2K_Roughness.
+[2024.04.19-18.20.58:660][ 58]LogConcert: Display: Synced activity '105' produced by endpoint '80B4926C4ACA717114629DA574A5CE06': Jacob unlocked /Game/Textures/Jacob/ScratchedSteel/sefmdgqc_2K_Roughness.
+[2024.04.19-18.21.03:034][ 87]LogAssetEditorSubsystem: Opening Asset editor for Texture2D /Game/Textures/Jacob/ScratchedSteel/sefmdgqc_2K_Normal.sefmdgqc_2K_Normal
+[2024.04.19-18.21.03:310][ 87]LogViewport: Scene viewport resized to 2857x1887, mode Windowed.
+[2024.04.19-18.21.14:174][375]LogConcert: Display: Synced activity '106' produced by endpoint '80B4926C4ACA717114629DA574A5CE06': Jacob locked /Game/Textures/Jacob/ScratchedSteel/sefmdgqc_2K_Normal.
+[2024.04.19-18.21.14:182][375]LogTexture: Display: Building textures: /Game/Textures/Jacob/ScratchedSteel/sefmdgqc_2K_Normal.sefmdgqc_2K_Normal (TFO_BC5, 2048x2048 x1x1x1) (Required Memory Estimate: 561.562488 MB), EncodeSpeed: Final
+[2024.04.19-18.21.20:683][539]LogAssetEditorSubsystem: Opening Asset editor for Texture2D /Game/Textures/Jacob/ScratchedSteel/sefmdgqc_2K_Roughness.sefmdgqc_2K_Roughness
+[2024.04.19-18.21.20:971][539]LogViewport: Scene viewport resized to 2857x1887, mode Windowed.
+[2024.04.19-18.21.23:675][606]LogConcert: Display: Synced activity '107' produced by endpoint '80B4926C4ACA717114629DA574A5CE06': Jacob locked /Game/Textures/Jacob/ScratchedSteel/sefmdgqc_2K_Roughness.
+[2024.04.19-18.21.23:685][606]LogTexture: Display: Building textures: /Game/Textures/Jacob/ScratchedSteel/sefmdgqc_2K_Roughness.sefmdgqc_2K_Roughness (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 350.145823 MB), EncodeSpeed: Final
+[2024.04.19-18.21.28:791][715]LogAssetEditorSubsystem: Opening Asset editor for Texture2D /Game/Textures/Jacob/ScratchedSteel/sefmdgqc_2K_Metalness.sefmdgqc_2K_Metalness
+[2024.04.19-18.21.29:022][715]LogViewport: Scene viewport resized to 2857x1887, mode Windowed.
+[2024.04.19-18.21.31:473][777]LogTexture: Display: Building textures: /Game/Textures/Jacob/ScratchedSteel/sefmdgqc_2K_Metalness.sefmdgqc_2K_Metalness (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 350.145823 MB), EncodeSpeed: Final
+[2024.04.19-18.21.31:530][778]LogConcert: Display: Synced activity '108' produced by endpoint '80B4926C4ACA717114629DA574A5CE06': Jacob locked /Game/Textures/Jacob/ScratchedSteel/sefmdgqc_2K_Metalness.
+[2024.04.19-18.21.49:161][ 89]LogShaderCompilers: Display: ================================================
+[2024.04.19-18.21.49:161][ 89]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.04.19-18.21.49:161][ 89]LogShaderCompilers: Display: Total job queries 82, among them cache hits 31 (37.80%)
+[2024.04.19-18.21.49:161][ 89]LogShaderCompilers: Display: Tracking 51 distinct input hashes that result in 47 distinct outputs (92.16%)
+[2024.04.19-18.21.49:161][ 89]LogShaderCompilers: Display: RAM used: 1.24 MiB of 3.20 GiB budget. Usage: 0.04%
+[2024.04.19-18.21.49:161][ 89]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.04.19-18.21.49:161][ 89]LogShaderCompilers: Display: Shaders Compiled: 13
+[2024.04.19-18.21.49:161][ 89]LogShaderCompilers: Display: Jobs assigned 13, completed 13 (100%)
+[2024.04.19-18.21.49:161][ 89]LogShaderCompilers: Display: Average time worker was idle: 7.70 s
+[2024.04.19-18.21.49:161][ 89]LogShaderCompilers: Display: Time job spent in pending queue: average 0.08 s, longest 0.14 s
+[2024.04.19-18.21.49:161][ 89]LogShaderCompilers: Display: Job execution time: average 2.81 s, max 5.64 s
+[2024.04.19-18.21.49:161][ 89]LogShaderCompilers: Display: Job life time (pending + execution): average 2.89 s, max 5.77
+[2024.04.19-18.21.49:161][ 89]LogShaderCompilers: Display: Shader code size: average 46.621 KiB, min 29.746 KiB, max 95.504 KiB
+[2024.04.19-18.21.49:161][ 89]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 8.99 s
+[2024.04.19-18.21.49:161][ 89]LogShaderCompilers: Display: Jobs were issued in 13 batches (only local compilation was used), average 1.00 jobs/batch
+[2024.04.19-18.21.49:161][ 89]LogShaderCompilers: Display: Average processing rate: 1.45 jobs/sec
+[2024.04.19-18.21.49:161][ 89]LogShaderCompilers: Display: Total thread time: 16.05 s
+[2024.04.19-18.21.49:161][ 89]LogShaderCompilers: Display: Total thread preprocess time: 2.155 s
+[2024.04.19-18.21.49:162][ 89]LogShaderCompilers: Display: Percentage time preprocessing: 13.42%
+[2024.04.19-18.21.49:162][ 89]LogShaderCompilers: Display: Effective parallelization: 1.78 (times faster than compiling all shaders on one thread). Compare with number of workers: 16
+[2024.04.19-18.21.49:162][ 89]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2024.04.19-18.21.49:162][ 89]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight (compiled    1 times, average 4.00 sec, max 4.00 sec, min 4.00 sec)
+[2024.04.19-18.21.49:162][ 89]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled    2 times, average 2.06 sec, max 3.10 sec, min 1.03 sec)
+[2024.04.19-18.21.49:162][ 89]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy (compiled    2 times, average 1.43 sec, max 1.83 sec, min 1.03 sec)
+[2024.04.19-18.21.49:162][ 89]LogShaderCompilers: Display:                        FLumenTranslucencyRadianceCacheMarkVS (compiled    1 times, average 0.87 sec, max 0.87 sec, min 0.87 sec)
+[2024.04.19-18.21.49:162][ 89]LogShaderCompilers: Display:                                            FDistortionMeshVS (compiled    1 times, average 0.81 sec, max 0.81 sec, min 0.81 sec)
+[2024.04.19-18.21.49:162][ 89]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2024.04.19-18.21.49:162][ 89]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 25.71% of total time (compiled    2 times, average 2.06 sec, max 3.10 sec, min 1.03 sec)
+[2024.04.19-18.21.49:162][ 89]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight - 24.89% of total time (compiled    1 times, average 4.00 sec, max 4.00 sec, min 4.00 sec)
+[2024.04.19-18.21.49:162][ 89]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 17.78% of total time (compiled    2 times, average 1.43 sec, max 1.83 sec, min 1.03 sec)
+[2024.04.19-18.21.49:162][ 89]LogShaderCompilers: Display:                        FLumenTranslucencyRadianceCacheMarkVS - 5.39% of total time (compiled    1 times, average 0.87 sec, max 0.87 sec, min 0.87 sec)
+[2024.04.19-18.21.49:162][ 89]LogShaderCompilers: Display:                                            FDistortionMeshVS - 5.04% of total time (compiled    1 times, average 0.81 sec, max 0.81 sec, min 0.81 sec)
+[2024.04.19-18.21.49:162][ 89]LogShaderCompilers: Display: ================================================
+[2024.04.19-18.21.52:733][183]LogContentBrowser: Deferred new asset file creation: PM_Master_Inst
+[2024.04.19-18.21.53:159][183]LogContentBrowser: Creating deferred item: PM_Master_Inst
+[2024.04.19-18.21.53:194][184]LogContentBrowser: Renaming the item being created (Deferred Item: PM_Master_Inst).
+[2024.04.19-18.22.07:052][433]LogContentBrowser: Attempting asset rename: PM_Master_Inst -> CM_ScratchedSteel
+[2024.04.19-18.22.07:072][433]LogContentBrowser: End creating deferred item PM_Master_Inst
+[2024.04.19-18.22.07:075][433]AssetCheck: New page: Asset Save: CM_ScratchedSteel
+[2024.04.19-18.22.07:075][433]LogContentValidation: Display: Validating /Script/Engine.MaterialInstanceConstant /Game/Materials/Parent/CM_ScratchedSteel.CM_ScratchedSteel
+[2024.04.19-18.22.07:134][434]LogConcert: Display: Synced activity '109' produced by endpoint '80B4926C4ACA717114629DA574A5CE06': Jacob added package /Game/Materials/Parent/CM_ScratchedSteel.
+[2024.04.19-18.22.07:135][434]LogConcert: Display: Synced activity '110' produced by endpoint '80B4926C4ACA717114629DA574A5CE06': Jacob locked /Game/Materials/Parent/CM_ScratchedSteel.
+[2024.04.19-18.22.08:933][464]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.19-18.22.09:070][464]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/Parent/CM_ScratchedSteel" FILE="D:/CyberPlace/Port5_Cyberpunk/Content/Materials/Parent/CM_ScratchedSteel.uasset" SILENT=true
+[2024.04.19-18.22.09:072][464]LogSavePackage: Moving output files for package: /Game/Materials/Parent/CM_ScratchedSteel
+[2024.04.19-18.22.09:072][464]LogSavePackage: Moving 'D:/CyberPlace/Port5_Cyberpunk/Saved/CM_ScratchedSteel66A8BA9D4913A222EBC5AA90573D1479.tmp' to 'D:/CyberPlace/Port5_Cyberpunk/Content/Materials/Parent/CM_ScratchedSteel.uasset'
+[2024.04.19-18.22.09:088][464]LogFileHelpers: InternalPromptForCheckoutAndSave took 154 ms (total: 2.30 sec)
+[2024.04.19-18.22.09:090][464]AssetCheck: New page: Asset Save: CM_ScratchedSteel
+[2024.04.19-18.22.09:090][464]LogContentValidation: Display: Validating /Script/Engine.MaterialInstanceConstant /Game/Materials/Parent/CM_ScratchedSteel.CM_ScratchedSteel
+[2024.04.19-18.22.09:163][466]LogConcert: Display: Synced activity '111' produced by endpoint '80B4926C4ACA717114629DA574A5CE06': Jacob saved package /Game/Materials/Parent/CM_ScratchedSteel.
+[2024.04.19-18.22.09:163][466]LogConcert: Display: Synced activity '112' produced by endpoint '80B4926C4ACA717114629DA574A5CE06': Jacob unlocked /Game/Materials/Parent/CM_ScratchedSteel.
+[2024.04.19-18.22.15:771][723]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.19-18.22.15:838][723]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/Jacob/CM_ScratchedSteel" FILE="D:/CyberPlace/Port5_Cyberpunk/Content/Materials/Jacob/CM_ScratchedSteel.uasset" SILENT=true
+[2024.04.19-18.22.15:841][723]LogSavePackage: Moving output files for package: /Game/Materials/Jacob/CM_ScratchedSteel
+[2024.04.19-18.22.15:841][723]LogSavePackage: Moving 'D:/CyberPlace/Port5_Cyberpunk/Saved/CM_ScratchedSteel97BD6DE944B14E489A5D8DBED5EB7930.tmp' to 'D:/CyberPlace/Port5_Cyberpunk/Content/Materials/Jacob/CM_ScratchedSteel.uasset'
+[2024.04.19-18.22.15:844][723]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/Parent/CM_ScratchedSteel" FILE="D:/CyberPlace/Port5_Cyberpunk/Content/Materials/Parent/CM_ScratchedSteel.uasset" SILENT=true
+[2024.04.19-18.22.15:845][723]LogSavePackage: Moving output files for package: /Game/Materials/Parent/CM_ScratchedSteel
+[2024.04.19-18.22.15:846][723]LogSavePackage: Moving 'D:/CyberPlace/Port5_Cyberpunk/Saved/CM_ScratchedSteelD95D9B3D4194E2FD960FABBDF0FB3708.tmp' to 'D:/CyberPlace/Port5_Cyberpunk/Content/Materials/Parent/CM_ScratchedSteel.uasset'
+[2024.04.19-18.22.15:861][723]LogFileHelpers: InternalPromptForCheckoutAndSave took 89 ms (total: 2.39 sec)
+[2024.04.19-18.22.15:886][723]AssetCheck: New page: Asset Save: multiple assets
+[2024.04.19-18.22.15:886][723]LogContentValidation: Display: Validating /Script/Engine.MaterialInstanceConstant /Game/Materials/Jacob/CM_ScratchedSteel.CM_ScratchedSteel
+[2024.04.19-18.22.15:886][723]LogContentValidation: Display: Validating /Script/CoreUObject.ObjectRedirector /Game/Materials/Parent/CM_ScratchedSteel.CM_ScratchedSteel
+[2024.04.19-18.22.15:904][724]LogConcert: Display: Synced activity '113' produced by endpoint '80B4926C4ACA717114629DA574A5CE06': Jacob locked /Game/Materials/Parent/CM_ScratchedSteel.
+[2024.04.19-18.22.15:904][724]LogConcert: Display: Synced activity '114' produced by endpoint '80B4926C4ACA717114629DA574A5CE06': Jacob locked /Game/Materials/Jacob/CM_ScratchedSteel.
+[2024.04.19-18.22.15:975][725]LogConcert: Display: Synced activity '115' produced by endpoint '80B4926C4ACA717114629DA574A5CE06': Jacob saved package /Game/Materials/Jacob/CM_ScratchedSteel.
+[2024.04.19-18.22.15:975][725]LogConcert: Display: Synced activity '116' produced by endpoint '80B4926C4ACA717114629DA574A5CE06': Jacob unlocked /Game/Materials/Jacob/CM_ScratchedSteel.
+[2024.04.19-18.22.15:976][725]LogConcert: Display: Synced activity '117' produced by endpoint '80B4926C4ACA717114629DA574A5CE06': Jacob renamed package /Game/Materials/Parent/CM_ScratchedSteel to /Game/Materials/Jacob/CM_ScratchedSteel.
+[2024.04.19-18.22.15:976][725]LogConcert: Display: Synced activity '118' produced by endpoint '80B4926C4ACA717114629DA574A5CE06': Jacob unlocked /Game/Materials/Parent/CM_ScratchedSteel.
+[2024.04.19-18.22.18:627][793]LogAssetEditorSubsystem: Opening Asset editor for MaterialInstanceConstant /Game/Materials/Jacob/CM_ScratchedSteel.CM_ScratchedSteel
+[2024.04.19-18.22.18:637][793]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.19-18.22.18:637][793]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.19-18.22.19:057][793]LogViewport: Scene viewport resized to 2674x1893, mode Windowed.
+[2024.04.19-18.22.19:103][793]LogSlate: Took 0.000382 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2024.04.19-18.22.24:438][929]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.19-18.22.24:509][929]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Textures/Jacob/ScratchedSteel/sefmdgqc_2K_Albedo" FILE="D:/CyberPlace/Port5_Cyberpunk/Content/Textures/Jacob/ScratchedSteel/sefmdgqc_2K_Albedo.uasset" SILENT=true
+[2024.04.19-18.22.24:514][929]LogSavePackage: Moving output files for package: /Game/Textures/Jacob/ScratchedSteel/sefmdgqc_2K_Albedo
+[2024.04.19-18.22.24:514][929]LogSavePackage: Moving 'D:/CyberPlace/Port5_Cyberpunk/Saved/sefmdgqc_2K_Albedo0E9BA9FB462C988D82E6A6A62AB0FA01.tmp' to 'D:/CyberPlace/Port5_Cyberpunk/Content/Textures/Jacob/ScratchedSteel/sefmdgqc_2K_Albedo.uasset'
+[2024.04.19-18.22.24:519][929]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Textures/Jacob/ScratchedSteel/sefmdgqc_2K_Roughness" FILE="D:/CyberPlace/Port5_Cyberpunk/Content/Textures/Jacob/ScratchedSteel/sefmdgqc_2K_Roughness.uasset" SILENT=true
+[2024.04.19-18.22.24:525][929]LogSavePackage: Moving output files for package: /Game/Textures/Jacob/ScratchedSteel/sefmdgqc_2K_Roughness
+[2024.04.19-18.22.24:525][929]LogSavePackage: Moving 'D:/CyberPlace/Port5_Cyberpunk/Saved/sefmdgqc_2K_Roughness0F4B97A449FBB34FAB57679A1EEAE1A0.tmp' to 'D:/CyberPlace/Port5_Cyberpunk/Content/Textures/Jacob/ScratchedSteel/sefmdgqc_2K_Roughness.uasset'
+[2024.04.19-18.22.24:529][929]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Textures/Jacob/ScratchedSteel/sefmdgqc_2K_Normal" FILE="D:/CyberPlace/Port5_Cyberpunk/Content/Textures/Jacob/ScratchedSteel/sefmdgqc_2K_Normal.uasset" SILENT=true
+[2024.04.19-18.22.24:533][929]LogSavePackage: Moving output files for package: /Game/Textures/Jacob/ScratchedSteel/sefmdgqc_2K_Normal
+[2024.04.19-18.22.24:533][929]LogSavePackage: Moving 'D:/CyberPlace/Port5_Cyberpunk/Saved/sefmdgqc_2K_Normal61C901814F006B00E7AC4898B15B4782.tmp' to 'D:/CyberPlace/Port5_Cyberpunk/Content/Textures/Jacob/ScratchedSteel/sefmdgqc_2K_Normal.uasset'
+[2024.04.19-18.22.24:537][929]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Textures/Jacob/ScratchedSteel/sefmdgqc_2K_Metalness" FILE="D:/CyberPlace/Port5_Cyberpunk/Content/Textures/Jacob/ScratchedSteel/sefmdgqc_2K_Metalness.uasset" SILENT=true
+[2024.04.19-18.22.24:541][929]LogSavePackage: Moving output files for package: /Game/Textures/Jacob/ScratchedSteel/sefmdgqc_2K_Metalness
+[2024.04.19-18.22.24:541][929]LogSavePackage: Moving 'D:/CyberPlace/Port5_Cyberpunk/Saved/sefmdgqc_2K_Metalness459AD47A4514588201B5D19D86398D4F.tmp' to 'D:/CyberPlace/Port5_Cyberpunk/Content/Textures/Jacob/ScratchedSteel/sefmdgqc_2K_Metalness.uasset'
+[2024.04.19-18.22.24:557][929]LogFileHelpers: InternalPromptForCheckoutAndSave took 119 ms (total: 2.51 sec)
+[2024.04.19-18.22.24:581][929]AssetCheck: New page: Asset Save: multiple assets
+[2024.04.19-18.22.24:581][929]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Textures/Jacob/ScratchedSteel/sefmdgqc_2K_Albedo.sefmdgqc_2K_Albedo
+[2024.04.19-18.22.24:581][929]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Textures/Jacob/ScratchedSteel/sefmdgqc_2K_Roughness.sefmdgqc_2K_Roughness
+[2024.04.19-18.22.24:582][929]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Textures/Jacob/ScratchedSteel/sefmdgqc_2K_Normal.sefmdgqc_2K_Normal
+[2024.04.19-18.22.24:582][929]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Textures/Jacob/ScratchedSteel/sefmdgqc_2K_Metalness.sefmdgqc_2K_Metalness
+[2024.04.19-18.22.25:005][931]LogConcert: Display: Synced activity '119' produced by endpoint '80B4926C4ACA717114629DA574A5CE06': Jacob saved package /Game/Textures/Jacob/ScratchedSteel/sefmdgqc_2K_Albedo.
+[2024.04.19-18.22.25:144][934]LogConcert: Display: Synced activity '120' produced by endpoint '80B4926C4ACA717114629DA574A5CE06': Jacob saved package /Game/Textures/Jacob/ScratchedSteel/sefmdgqc_2K_Roughness.
+[2024.04.19-18.22.25:144][934]LogConcert: Display: Synced activity '121' produced by endpoint '80B4926C4ACA717114629DA574A5CE06': Jacob unlocked /Game/Textures/Jacob/ScratchedSteel/sefmdgqc_2K_Roughness.
+[2024.04.19-18.22.25:149][934]LogConcert: Display: Synced activity '122' produced by endpoint '80B4926C4ACA717114629DA574A5CE06': Jacob saved package /Game/Textures/Jacob/ScratchedSteel/sefmdgqc_2K_Normal.
+[2024.04.19-18.22.25:149][934]LogConcert: Display: Synced activity '123' produced by endpoint '80B4926C4ACA717114629DA574A5CE06': Jacob unlocked /Game/Textures/Jacob/ScratchedSteel/sefmdgqc_2K_Normal.
+[2024.04.19-18.22.25:248][937]LogConcert: Display: Synced activity '124' produced by endpoint '80B4926C4ACA717114629DA574A5CE06': Jacob saved package /Game/Textures/Jacob/ScratchedSteel/sefmdgqc_2K_Metalness.
+[2024.04.19-18.22.25:249][937]LogConcert: Display: Synced activity '125' produced by endpoint '80B4926C4ACA717114629DA574A5CE06': Jacob unlocked /Game/Textures/Jacob/ScratchedSteel/sefmdgqc_2K_Metalness.
+[2024.04.19-18.22.29:504][ 55]LogConcert: Display: Synced activity '126' produced by endpoint '80B4926C4ACA717114629DA574A5CE06': Jacob locked /Game/Materials/Jacob/CM_ScratchedSteel.
+[2024.04.19-18.23.26:029][455]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.19-18.23.26:188][455]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/Jacob/CM_ScratchedSteel" FILE="D:/CyberPlace/Port5_Cyberpunk/Content/Materials/Jacob/CM_ScratchedSteel.uasset" SILENT=true
+[2024.04.19-18.23.26:227][455]LogUObjectHash: Compacting FUObjectHashTables data took   2.62ms
+[2024.04.19-18.23.26:984][455]LogUObjectHash: Compacting FUObjectHashTables data took   1.74ms
+[2024.04.19-18.23.26:990][455]LogSavePackage: Moving output files for package: /Game/Materials/Jacob/CM_ScratchedSteel
+[2024.04.19-18.23.26:990][455]LogSavePackage: Moving 'D:/CyberPlace/Port5_Cyberpunk/Saved/CM_ScratchedSteel4F1F69C142540CD344AFEE901F86CD20.tmp' to 'D:/CyberPlace/Port5_Cyberpunk/Content/Materials/Jacob/CM_ScratchedSteel.uasset'
+[2024.04.19-18.23.27:001][455]LogFileHelpers: InternalPromptForCheckoutAndSave took 971 ms (total: 3.48 sec)
+[2024.04.19-18.23.27:007][455]AssetCheck: New page: Asset Save: CM_ScratchedSteel
+[2024.04.19-18.23.27:007][455]LogContentValidation: Display: Validating /Script/Engine.MaterialInstanceConstant /Game/Materials/Jacob/CM_ScratchedSteel.CM_ScratchedSteel
+[2024.04.19-18.23.27:049][457]LogConcert: Display: Synced activity '127' produced by endpoint '80B4926C4ACA717114629DA574A5CE06': Jacob saved package /Game/Materials/Jacob/CM_ScratchedSteel.
+[2024.04.19-18.23.27:049][457]LogConcert: Display: Synced activity '128' produced by endpoint '80B4926C4ACA717114629DA574A5CE06': Jacob unlocked /Game/Materials/Jacob/CM_ScratchedSteel.
+[2024.04.19-18.23.32:946][724]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/FBX/JacobBuildBlocks/CloseGlassBuild/OutterLedges) ...
+[2024.04.19-18.23.33:126][725]LogConcert: Display: Synced activity '129' produced by endpoint '80B4926C4ACA717114629DA574A5CE06': Jacob locked /Game/FBX/JacobBuildBlocks/CloseGlassBuild/OutterLedges.
+[2024.04.19-18.23.41:791][871]LogViewport: Scene viewport resized to 2670x1929, mode Windowed.
+[2024.04.19-18.23.42:044][873]LogViewport: Scene viewport resized to 542x266, mode Windowed.
+[2024.04.19-18.23.42:729][886]LogViewport: Scene viewport resized to 826x502, mode Windowed.
+[2024.04.19-18.23.51:944][ 58]LogViewport: Scene viewport resized to 826x508, mode Windowed.
+[2024.04.19-18.23.52:045][ 58]LogViewport: Scene viewport resized to 826x614, mode Windowed.
+[2024.04.19-18.23.52:127][ 58]LogViewport: Scene viewport resized to 826x739, mode Windowed.
+[2024.04.19-18.23.52:210][ 58]LogViewport: Scene viewport resized to 826x840, mode Windowed.
+[2024.04.19-18.23.52:294][ 58]LogViewport: Scene viewport resized to 826x913, mode Windowed.
+[2024.04.19-18.23.52:378][ 58]LogViewport: Scene viewport resized to 826x968, mode Windowed.
+[2024.04.19-18.23.52:460][ 58]LogViewport: Scene viewport resized to 826x987, mode Windowed.
+[2024.04.19-18.23.52:544][ 58]LogViewport: Scene viewport resized to 826x993, mode Windowed.
+[2024.04.19-18.23.55:377][104]LogConcert: Display: Synced activity '130' produced by endpoint '80B4926C4ACA717114629DA574A5CE06': Jacob locked /Game/Materials/Jacob/CM_ScratchedSteel.
+[2024.04.19-18.24.18:105][469]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.19-18.24.18:241][469]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FBX/JacobBuildBlocks/CloseGlassBuild/OutterLedges" FILE="D:/CyberPlace/Port5_Cyberpunk/Content/FBX/JacobBuildBlocks/CloseGlassBuild/OutterLedges.uasset" SILENT=true
+[2024.04.19-18.24.18:261][469]LogSavePackage: Moving output files for package: /Game/FBX/JacobBuildBlocks/CloseGlassBuild/OutterLedges
+[2024.04.19-18.24.18:262][469]LogSavePackage: Moving 'D:/CyberPlace/Port5_Cyberpunk/Saved/OutterLedges1A8C3A224C008E9969D505ADD0325526.tmp' to 'D:/CyberPlace/Port5_Cyberpunk/Content/FBX/JacobBuildBlocks/CloseGlassBuild/OutterLedges.uasset'
+[2024.04.19-18.24.18:279][469]LogFileHelpers: InternalPromptForCheckoutAndSave took 174 ms (total: 3.66 sec)
+[2024.04.19-18.24.18:287][469]AssetCheck: New page: Asset Save: OutterLedges
+[2024.04.19-18.24.18:287][469]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/FBX/JacobBuildBlocks/CloseGlassBuild/OutterLedges.OutterLedges
+[2024.04.19-18.24.18:427][472]LogConcert: Display: Synced activity '131' produced by endpoint '80B4926C4ACA717114629DA574A5CE06': Jacob saved package /Game/FBX/JacobBuildBlocks/CloseGlassBuild/OutterLedges.
+[2024.04.19-18.24.18:427][472]LogConcert: Display: Synced activity '132' produced by endpoint '80B4926C4ACA717114629DA574A5CE06': Jacob unlocked /Game/FBX/JacobBuildBlocks/CloseGlassBuild/OutterLedges.
+[2024.04.19-18.24.18:967][482]LogSlate: Window 'OutterLedges' being destroyed
+[2024.04.19-18.24.19:113][482]LogWorld: UWorld::CleanupWorld for World_13, bSessionEnded=true, bCleanupResources=true
+[2024.04.19-18.24.19:113][482]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.19-18.24.36:388][957]LogViewport: Scene viewport resized to 3052x1603, mode Windowed.
+[2024.04.19-18.24.48:699][276]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.19-18.24.48:875][276]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/Jacob/CM_ScratchedSteel" FILE="D:/CyberPlace/Port5_Cyberpunk/Content/Materials/Jacob/CM_ScratchedSteel.uasset" SILENT=true
+[2024.04.19-18.24.48:919][276]LogUObjectHash: Compacting FUObjectHashTables data took   2.31ms
+[2024.04.19-18.24.48:956][276]LogUObjectHash: Compacting FUObjectHashTables data took   3.70ms
+[2024.04.19-18.24.48:962][276]LogSavePackage: Moving output files for package: /Game/Materials/Jacob/CM_ScratchedSteel
+[2024.04.19-18.24.48:963][276]LogSavePackage: Moving 'D:/CyberPlace/Port5_Cyberpunk/Saved/CM_ScratchedSteel4226AAB84290E8E6C9C1F9A379A3CF90.tmp' to 'D:/CyberPlace/Port5_Cyberpunk/Content/Materials/Jacob/CM_ScratchedSteel.uasset'
+[2024.04.19-18.24.48:971][276]LogFileHelpers: InternalPromptForCheckoutAndSave took 272 ms (total: 3.93 sec)
+[2024.04.19-18.24.48:978][276]AssetCheck: New page: Asset Save: CM_ScratchedSteel
+[2024.04.19-18.24.48:978][276]LogContentValidation: Display: Validating /Script/Engine.MaterialInstanceConstant /Game/Materials/Jacob/CM_ScratchedSteel.CM_ScratchedSteel
+[2024.04.19-18.24.49:029][278]LogConcert: Display: Synced activity '133' produced by endpoint '80B4926C4ACA717114629DA574A5CE06': Jacob saved package /Game/Materials/Jacob/CM_ScratchedSteel.
+[2024.04.19-18.24.49:029][278]LogConcert: Display: Synced activity '134' produced by endpoint '80B4926C4ACA717114629DA574A5CE06': Jacob unlocked /Game/Materials/Jacob/CM_ScratchedSteel.
+[2024.04.19-18.24.59:285][550]LogSlate: Window 'CM_ScratchedSteel' being destroyed
+[2024.04.19-18.24.59:314][550]LogWorld: UWorld::CleanupWorld for World_14, bSessionEnded=true, bCleanupResources=true
+[2024.04.19-18.24.59:315][550]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.19-18.25.06:289][716]LogViewport: Scene viewport resized to 3056x1725, mode Windowed.
+[2024.04.19-18.26.02:464][461]LogContentBrowser: Deferred new asset file creation: PM_Glass_Inst
+[2024.04.19-18.26.02:708][461]LogContentBrowser: Creating deferred item: PM_Glass_Inst
+[2024.04.19-18.26.02:733][462]LogContentBrowser: Renaming the item being created (Deferred Item: PM_Glass_Inst).
+[2024.04.19-18.26.07:622][618]LogContentBrowser: Attempting asset rename: PM_Glass_Inst -> CM_GlassClose
+[2024.04.19-18.26.07:634][618]LogContentBrowser: End creating deferred item PM_Glass_Inst
+[2024.04.19-18.26.07:636][618]AssetCheck: New page: Asset Save: CM_GlassClose
+[2024.04.19-18.26.07:636][618]LogContentValidation: Display: Validating /Script/Engine.MaterialInstanceConstant /Game/Materials/Parent/CM_GlassClose.CM_GlassClose
+[2024.04.19-18.26.07:671][619]LogConcert: Display: Synced activity '135' produced by endpoint '80B4926C4ACA717114629DA574A5CE06': Jacob added package /Game/Materials/Parent/CM_GlassClose.
+[2024.04.19-18.26.07:671][619]LogConcert: Display: Synced activity '136' produced by endpoint '80B4926C4ACA717114629DA574A5CE06': Jacob locked /Game/Materials/Parent/CM_GlassClose.
+[2024.04.19-18.26.09:769][672]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.19-18.26.09:867][672]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/Parent/CM_GlassClose" FILE="D:/CyberPlace/Port5_Cyberpunk/Content/Materials/Parent/CM_GlassClose.uasset" SILENT=true
+[2024.04.19-18.26.09:870][672]LogSavePackage: Moving output files for package: /Game/Materials/Parent/CM_GlassClose
+[2024.04.19-18.26.09:871][672]LogSavePackage: Moving 'D:/CyberPlace/Port5_Cyberpunk/Saved/CM_GlassClose700DE43A48C95FFED62130B97592FE10.tmp' to 'D:/CyberPlace/Port5_Cyberpunk/Content/Materials/Parent/CM_GlassClose.uasset'
+[2024.04.19-18.26.09:883][672]LogFileHelpers: InternalPromptForCheckoutAndSave took 114 ms (total: 4.04 sec)
+[2024.04.19-18.26.09:887][672]AssetCheck: New page: Asset Save: CM_GlassClose
+[2024.04.19-18.26.09:887][672]LogContentValidation: Display: Validating /Script/Engine.MaterialInstanceConstant /Game/Materials/Parent/CM_GlassClose.CM_GlassClose
+[2024.04.19-18.26.09:933][674]LogConcert: Display: Synced activity '137' produced by endpoint '80B4926C4ACA717114629DA574A5CE06': Jacob saved package /Game/Materials/Parent/CM_GlassClose.
+[2024.04.19-18.26.09:933][674]LogConcert: Display: Synced activity '138' produced by endpoint '80B4926C4ACA717114629DA574A5CE06': Jacob unlocked /Game/Materials/Parent/CM_GlassClose.
+[2024.04.19-18.26.13:895][895]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.19-18.26.13:939][895]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/Jacob/CM_GlassClose" FILE="D:/CyberPlace/Port5_Cyberpunk/Content/Materials/Jacob/CM_GlassClose.uasset" SILENT=true
+[2024.04.19-18.26.13:941][895]LogSavePackage: Moving output files for package: /Game/Materials/Jacob/CM_GlassClose
+[2024.04.19-18.26.13:941][895]LogSavePackage: Moving 'D:/CyberPlace/Port5_Cyberpunk/Saved/CM_GlassClose434C68EC49DE3C0FE88F069CD283D30C.tmp' to 'D:/CyberPlace/Port5_Cyberpunk/Content/Materials/Jacob/CM_GlassClose.uasset'
+[2024.04.19-18.26.13:942][895]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/Parent/CM_GlassClose" FILE="D:/CyberPlace/Port5_Cyberpunk/Content/Materials/Parent/CM_GlassClose.uasset" SILENT=true
+[2024.04.19-18.26.13:943][895]LogSavePackage: Moving output files for package: /Game/Materials/Parent/CM_GlassClose
+[2024.04.19-18.26.13:944][895]LogSavePackage: Moving 'D:/CyberPlace/Port5_Cyberpunk/Saved/CM_GlassClose624768AA4B6704513977EC80A8942145.tmp' to 'D:/CyberPlace/Port5_Cyberpunk/Content/Materials/Parent/CM_GlassClose.uasset'
+[2024.04.19-18.26.13:957][895]LogFileHelpers: InternalPromptForCheckoutAndSave took 61 ms (total: 4.11 sec)
+[2024.04.19-18.26.13:977][895]AssetCheck: New page: Asset Save: multiple assets
+[2024.04.19-18.26.13:977][895]LogContentValidation: Display: Validating /Script/Engine.MaterialInstanceConstant /Game/Materials/Jacob/CM_GlassClose.CM_GlassClose
+[2024.04.19-18.26.13:977][895]LogContentValidation: Display: Validating /Script/CoreUObject.ObjectRedirector /Game/Materials/Parent/CM_GlassClose.CM_GlassClose
+[2024.04.19-18.26.14:023][896]LogConcert: Display: Synced activity '139' produced by endpoint '80B4926C4ACA717114629DA574A5CE06': Jacob locked /Game/Materials/Parent/CM_GlassClose.
+[2024.04.19-18.26.14:023][896]LogConcert: Display: Synced activity '140' produced by endpoint '80B4926C4ACA717114629DA574A5CE06': Jacob locked /Game/Materials/Jacob/CM_GlassClose.
+[2024.04.19-18.26.14:045][897]LogConcert: Display: Synced activity '141' produced by endpoint '80B4926C4ACA717114629DA574A5CE06': Jacob saved package /Game/Materials/Jacob/CM_GlassClose.
+[2024.04.19-18.26.14:046][897]LogConcert: Display: Synced activity '142' produced by endpoint '80B4926C4ACA717114629DA574A5CE06': Jacob unlocked /Game/Materials/Jacob/CM_GlassClose.
+[2024.04.19-18.26.14:046][897]LogConcert: Display: Synced activity '143' produced by endpoint '80B4926C4ACA717114629DA574A5CE06': Jacob renamed package /Game/Materials/Parent/CM_GlassClose to /Game/Materials/Jacob/CM_GlassClose.
+[2024.04.19-18.26.14:047][897]LogConcert: Display: Synced activity '144' produced by endpoint '80B4926C4ACA717114629DA574A5CE06': Jacob unlocked /Game/Materials/Parent/CM_GlassClose.
+[2024.04.19-18.26.40:664][ 82]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/FBX/JacobBuildBlocks/CloseGlassBuild/BottomGlassClose.BottomGlassClose
+[2024.04.19-18.26.40:776][ 82]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.19-18.26.40:776][ 82]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.19-18.26.41:892][ 82]LogViewport: Scene viewport resized to 2815x1893, mode Windowed.
+[2024.04.19-18.26.54:467][404]LogConcert: Display: Synced activity '145' produced by endpoint '80B4926C4ACA717114629DA574A5CE06': Jacob locked /Game/FBX/JacobBuildBlocks/CloseGlassBuild/BottomGlassClose.
+[2024.04.19-18.27.11:893][780]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.19-18.27.12:069][780]LogSavePackage: Moving output files for package: /Game/FBX/JacobBuildBlocks/CloseGlassBuild/BottomGlassClose
+[2024.04.19-18.27.12:069][780]LogSavePackage: Moving 'D:/CyberPlace/Port5_Cyberpunk/Saved/BottomGlassClose682DA6254BC8CAAA0319568AC43A81E9.tmp' to 'D:/CyberPlace/Port5_Cyberpunk/Content/FBX/JacobBuildBlocks/CloseGlassBuild/BottomGlassClose.uasset'
+[2024.04.19-18.27.12:083][780]LogFileHelpers: InternalPromptForCheckoutAndSave took 190 ms (total: 4.30 sec)
+[2024.04.19-18.27.12:090][780]AssetCheck: New page: Asset Save: BottomGlassClose
+[2024.04.19-18.27.12:090][780]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/FBX/JacobBuildBlocks/CloseGlassBuild/BottomGlassClose.BottomGlassClose
+[2024.04.19-18.27.12:212][782]LogConcert: Display: Synced activity '146' produced by endpoint '80B4926C4ACA717114629DA574A5CE06': Jacob saved package /Game/FBX/JacobBuildBlocks/CloseGlassBuild/BottomGlassClose.
+[2024.04.19-18.27.12:212][782]LogConcert: Display: Synced activity '147' produced by endpoint '80B4926C4ACA717114629DA574A5CE06': Jacob unlocked /Game/FBX/JacobBuildBlocks/CloseGlassBuild/BottomGlassClose.
+[2024.04.19-18.27.12:688][791]LogSlate: Window 'BottomGlassClose' being destroyed
+[2024.04.19-18.27.12:841][791]LogWorld: UWorld::CleanupWorld for World_15, bSessionEnded=true, bCleanupResources=true
+[2024.04.19-18.27.12:841][791]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.19-18.27.33:127][386]LogAssetEditorSubsystem: Opening Asset editor for MaterialInstanceConstant /Game/Materials/Jacob/CM_GlassClose.CM_GlassClose
+[2024.04.19-18.27.33:131][386]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.19-18.27.33:131][386]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.19-18.27.33:546][386]LogViewport: Scene viewport resized to 2674x1893, mode Windowed.
+[2024.04.19-18.27.37:196][488]LogViewport: Scene viewport resized to 1573x931, mode Windowed.
+[2024.04.19-18.27.38:667][515]LogSlate: Window 'CM_GlassClose' being destroyed
+[2024.04.19-18.27.38:674][515]LogSlate: Window 'CM_GlassClose' being destroyed
+[2024.04.19-18.27.38:698][515]LogWorld: UWorld::CleanupWorld for World_16, bSessionEnded=true, bCleanupResources=true
+[2024.04.19-18.27.38:698][515]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.19-18.27.48:574][875]LogContentBrowser: Deferred new asset file creation: PM_Glass1
+[2024.04.19-18.27.48:599][875]LogContentBrowser: Creating deferred item: PM_Glass1
+[2024.04.19-18.27.48:619][876]LogContentBrowser: Renaming the item being created (Deferred Item: PM_Glass1).
+[2024.04.19-18.27.52:231][997]LogContentBrowser: Attempting asset rename: PM_Glass1 -> PM_GlassClose
+[2024.04.19-18.27.52:258][997]LogContentBrowser: End creating deferred item PM_Glass1
+[2024.04.19-18.27.52:270][997]AssetCheck: New page: Asset Save: PM_GlassClose
+[2024.04.19-18.27.52:270][997]LogContentValidation: Display: Validating /Script/Engine.Material /Game/Materials/Parent/PM_GlassClose.PM_GlassClose
+[2024.04.19-18.27.52:290][998]LogConcert: Display: Synced activity '148' produced by endpoint '80B4926C4ACA717114629DA574A5CE06': Jacob locked /Game/Materials/Parent/PM_GlassClose.
+[2024.04.19-18.27.52:290][998]LogConcert: Display: Synced activity '149' produced by endpoint '80B4926C4ACA717114629DA574A5CE06': Jacob added package /Game/Materials/Parent/PM_GlassClose.
+[2024.04.19-18.27.52:291][998]LogConcert: Display: Synced activity '150' produced by endpoint '80B4926C4ACA717114629DA574A5CE06': Jacob unlocked /Game/Materials/Parent/PM_GlassClose.
+[2024.04.19-18.27.52:422][999]LogShaderCompilers: Display: ================================================
+[2024.04.19-18.27.52:422][999]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.04.19-18.27.52:422][999]LogShaderCompilers: Display: Total job queries 116, among them cache hits 45 (38.79%)
+[2024.04.19-18.27.52:422][999]LogShaderCompilers: Display: Tracking 71 distinct input hashes that result in 58 distinct outputs (81.69%)
+[2024.04.19-18.27.52:423][999]LogShaderCompilers: Display: RAM used: 1.66 MiB of 3.20 GiB budget. Usage: 0.05%
+[2024.04.19-18.27.52:423][999]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.04.19-18.27.52:423][999]LogShaderCompilers: Display: Shaders Compiled: 31
+[2024.04.19-18.27.52:423][999]LogShaderCompilers: Display: Jobs assigned 31, completed 31 (100%)
+[2024.04.19-18.27.52:423][999]LogShaderCompilers: Display: Average time worker was idle: 925.35 s
+[2024.04.19-18.27.52:423][999]LogShaderCompilers: Display: Time job spent in pending queue: average 0.06 s, longest 0.14 s
+[2024.04.19-18.27.52:423][999]LogShaderCompilers: Display: Job execution time: average 1.47 s, max 5.64 s
+[2024.04.19-18.27.52:423][999]LogShaderCompilers: Display: Job life time (pending + execution): average 1.53 s, max 5.77
+[2024.04.19-18.27.52:423][999]LogShaderCompilers: Display: Shader code size: average 40.351 KiB, min 29.746 KiB, max 95.504 KiB
+[2024.04.19-18.27.52:423][999]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 12.12 s
+[2024.04.19-18.27.52:423][999]LogShaderCompilers: Display: Jobs were issued in 31 batches (only local compilation was used), average 1.00 jobs/batch
+[2024.04.19-18.27.52:423][999]LogShaderCompilers: Display: Average processing rate: 2.56 jobs/sec
+[2024.04.19-18.27.52:423][999]LogShaderCompilers: Display: Total thread time: 22.505 s
+[2024.04.19-18.27.52:423][999]LogShaderCompilers: Display: Total thread preprocess time: 2.97 s
+[2024.04.19-18.27.52:423][999]LogShaderCompilers: Display: Percentage time preprocessing: 13.20%
+[2024.04.19-18.27.52:423][999]LogShaderCompilers: Display: Effective parallelization: 1.86 (times faster than compiling all shaders on one thread). Compare with number of workers: 16
+[2024.04.19-18.27.52:423][999]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2024.04.19-18.27.52:424][999]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight (compiled    1 times, average 4.00 sec, max 4.00 sec, min 4.00 sec)
+[2024.04.19-18.27.52:424][999]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled    6 times, average 0.99 sec, max 3.10 sec, min 0.44 sec)
+[2024.04.19-18.27.52:424][999]LogShaderCompilers: Display:                        FLumenTranslucencyRadianceCacheMarkVS (compiled    1 times, average 0.87 sec, max 0.87 sec, min 0.87 sec)
+[2024.04.19-18.27.52:424][999]LogShaderCompilers: Display:                                            FDistortionMeshVS (compiled    1 times, average 0.81 sec, max 0.81 sec, min 0.81 sec)
+[2024.04.19-18.27.52:424][999]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy (compiled    6 times, average 0.74 sec, max 1.83 sec, min 0.40 sec)
+[2024.04.19-18.27.52:424][999]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2024.04.19-18.27.52:424][999]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 26.51% of total time (compiled    6 times, average 0.99 sec, max 3.10 sec, min 0.44 sec)
+[2024.04.19-18.27.52:424][999]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 19.82% of total time (compiled    6 times, average 0.74 sec, max 1.83 sec, min 0.40 sec)
+[2024.04.19-18.27.52:424][999]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight - 17.75% of total time (compiled    1 times, average 4.00 sec, max 4.00 sec, min 4.00 sec)
+[2024.04.19-18.27.52:424][999]LogShaderCompilers: Display:                                                 FLumenCardVS - 10.43% of total time (compiled    5 times, average 0.47 sec, max 0.78 sec, min 0.36 sec)
+[2024.04.19-18.27.52:424][999]LogShaderCompilers: Display:                                          FLumenCardPS<false> - 5.14% of total time (compiled    5 times, average 0.23 sec, max 0.41 sec, min 0.17 sec)
+[2024.04.19-18.27.52:424][999]LogShaderCompilers: Display: ================================================
+[2024.04.19-18.27.55:537][ 79]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.19-18.27.57:655][ 79]LogStall: Stall detector 'FShaderCompilingManager::BlockOnShaderMapCompletion' exceeded budget of 2.000000s, reporting...
+[2024.04.19-18.27.57:861][ 79]LogStall: Stall detector 'FShaderCompilingManager::BlockOnShaderMapCompletion' report submitted, and took 0.206431s
+[2024.04.19-18.28.00:259][ 79]LogStall: Stall detector 'FShaderCompilingManager::BlockOnShaderMapCompletion' complete in 4.607960s (2.607960s overbudget)
+[2024.04.19-18.28.00:414][ 79]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/Parent/PM_GlassClose" FILE="D:/CyberPlace/Port5_Cyberpunk/Content/Materials/Parent/PM_GlassClose.uasset" SILENT=true
+[2024.04.19-18.28.00:424][ 79]LogSavePackage: Moving output files for package: /Game/Materials/Parent/PM_GlassClose
+[2024.04.19-18.28.00:424][ 79]LogSavePackage: Moving 'D:/CyberPlace/Port5_Cyberpunk/Saved/PM_GlassCloseE3C6E61E4200B99018556FA8364364E0.tmp' to 'D:/CyberPlace/Port5_Cyberpunk/Content/Materials/Parent/PM_GlassClose.uasset'
+[2024.04.19-18.28.00:437][ 79]LogFileHelpers: InternalPromptForCheckoutAndSave took 4.89 sec (total: 9.20 sec)
+[2024.04.19-18.28.00:439][ 79]AssetCheck: New page: Asset Save: PM_GlassClose
+[2024.04.19-18.28.00:439][ 79]LogContentValidation: Display: Validating /Script/Engine.Material /Game/Materials/Parent/PM_GlassClose.PM_GlassClose
+[2024.04.19-18.28.00:453][ 80]LogAutomationController: Ignoring very large delta of 4.93 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2024.04.19-18.28.00:482][ 81]LogConcert: Display: Synced activity '151' produced by endpoint '80B4926C4ACA717114629DA574A5CE06': Jacob saved package /Game/Materials/Parent/PM_GlassClose.
+[2024.04.19-18.28.04:874][199]LogUObjectHash: Compacting FUObjectHashTables data took   2.50ms
+[2024.04.19-18.28.08:566][199]LogSlate: Window 'Delete Assets' being destroyed
+[2024.04.19-18.28.08:654][199]LogUObjectGlobals: Force Deleting 1 Package(s):
+	Asset Name: /Game/Materials/Jacob/CM_GlassClose.CM_GlassClose
+	Asset Type: MaterialInstanceConstant
+[2024.04.19-18.28.09:158][199]LogUObjectHash: Compacting FUObjectHashTables data took   2.28ms
+[2024.04.19-18.28.09:195][199]LogUObjectHash: Compacting FUObjectHashTables data took   3.90ms
+[2024.04.19-18.28.09:222][199]LogUObjectHash: Compacting FUObjectHashTables data took   1.73ms
+[2024.04.19-18.28.09:301][200]LogAutomationController: Ignoring very large delta of 4.46 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2024.04.19-18.28.09:303][200]LogConcert: Display: Synced activity '152' produced by endpoint '80B4926C4ACA717114629DA574A5CE06': Jacob locked /Game/Materials/Parent/CM_GlassClose.
+[2024.04.19-18.28.09:303][200]LogConcert: Display: Synced activity '153' produced by endpoint '80B4926C4ACA717114629DA574A5CE06': Jacob locked /Game/FBX/JacobBuildBlocks/CloseGlassBuild/BottomGlassClose.
+[2024.04.19-18.28.09:304][200]LogConcert: Display: Synced activity '154' produced by endpoint '80B4926C4ACA717114629DA574A5CE06': Jacob locked /Game/Materials/Jacob/CM_GlassClose.
+[2024.04.19-18.28.09:304][200]LogConcert: Display: Synced activity '155' produced by endpoint '80B4926C4ACA717114629DA574A5CE06': Jacob deleted package /Game/Materials/Jacob/CM_GlassClose.
+[2024.04.19-18.28.09:305][200]LogConcert: Display: Synced activity '156' produced by endpoint '80B4926C4ACA717114629DA574A5CE06': Jacob unlocked /Game/Materials/Jacob/CM_GlassClose.
+[2024.04.19-18.28.27:995][104]LogActorFactory: Loading ActorFactory Class /Script/Engine.LevelInstance
+[2024.04.19-18.28.42:154][560]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/FBX/JacobBuildBlocks/CloseGlassBuild/BottomGlassClose.BottomGlassClose
+[2024.04.19-18.28.42:274][560]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.19-18.28.42:274][560]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.19-18.28.43:392][560]LogViewport: Scene viewport resized to 1659x934, mode Windowed.
+[2024.04.19-18.28.51:297][857]LogSlate: Window 'BottomGlassClose' being destroyed
+[2024.04.19-18.28.51:304][857]LogSlate: Window 'BottomGlassClose' being destroyed
+[2024.04.19-18.28.51:361][857]LogWorld: UWorld::CleanupWorld for World_17, bSessionEnded=true, bCleanupResources=true
+[2024.04.19-18.28.51:361][857]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.19-18.29.09:619][343]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/Materials/Parent/PM_GlassClose.PM_GlassClose
+[2024.04.19-18.29.09:632][343]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.19-18.29.09:632][343]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.19-18.29.10:025][343]MaterialEditorStats: Texture samplers: 0/16
+[2024.04.19-18.29.10:025][343]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.04.19-18.29.10:025][343]MaterialEditorStats: Shader Count: 0
+[2024.04.19-18.29.10:038][343]LogViewport: Scene viewport resized to 442x465, mode Windowed.
+[2024.04.19-18.29.10:323][345]MaterialEditorStats: Base pass vertex shader: 282 instructions
+[2024.04.19-18.29.10:323][345]MaterialEditorStats: Texture samplers: 6/16
+[2024.04.19-18.29.10:323][345]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.04.19-18.29.10:323][345]MaterialEditorStats: Shader Count: 4
+[2024.04.19-18.29.14:920][449]LogViewport: Scene viewport resized to 442x464, mode Windowed.
+[2024.04.19-18.29.15:004][449]LogViewport: Scene viewport resized to 442x487, mode Windowed.
+[2024.04.19-18.29.15:105][449]LogViewport: Scene viewport resized to 442x538, mode Windowed.
+[2024.04.19-18.29.15:188][449]LogViewport: Scene viewport resized to 442x563, mode Windowed.
+[2024.04.19-18.29.15:271][449]LogViewport: Scene viewport resized to 442x592, mode Windowed.
+[2024.04.19-18.29.15:353][449]LogViewport: Scene viewport resized to 442x629, mode Windowed.
+[2024.04.19-18.29.15:454][449]LogViewport: Scene viewport resized to 442x668, mode Windowed.
+[2024.04.19-18.29.15:556][449]LogViewport: Scene viewport resized to 442x679, mode Windowed.
+[2024.04.19-18.29.15:655][449]LogViewport: Scene viewport resized to 442x691, mode Windowed.
+[2024.04.19-18.29.15:755][449]LogViewport: Scene viewport resized to 442x693, mode Windowed.
+[2024.04.19-18.29.48:098][792]LogUObjectHash: Compacting FUObjectHashTables data took   2.73ms
+[2024.04.19-18.29.48:104][792]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Scenes/CyberPlace' took 0.036
+[2024.04.19-18.29.48:105][792]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/FBX/JacobBuildBlocks/CloseGlassBuild/BottomGlassClose] ([1] browsable assets)...
+[2024.04.19-18.29.48:273][792]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/FBX/JacobBuildBlocks/CloseGlassBuild/BottomGlassClose.BottomGlassClose]
+[2024.04.19-18.29.48:273][792]OBJ SavePackage: Finished generating thumbnails for package [/Game/FBX/JacobBuildBlocks/CloseGlassBuild/BottomGlassClose]
+[2024.04.19-18.29.48:285][792]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/FBX/JacobBuildBlocks/CloseGlassBuild/BottomGlassClose_Auto6
+[2024.04.19-18.29.48:285][792]LogSavePackage: Moving 'D:/CyberPlace/Port5_Cyberpunk/Saved/BottomGlassClose_Auto62C51395749465A90B82EAA88F183C37B.tmp' to 'D:/CyberPlace/Port5_Cyberpunk/Saved/Autosaves/Game/FBX/JacobBuildBlocks/CloseGlassBuild/BottomGlassClose_Auto6.uasset'
+[2024.04.19-18.29.48:286][792]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Materials/Parent/CM_GlassClose] ([1] browsable assets)...
+[2024.04.19-18.29.48:286][792]OBJ SavePackage: Finished generating thumbnails for package [/Game/Materials/Parent/CM_GlassClose]
+[2024.04.19-18.29.48:286][792]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/Parent/CM_GlassClose" FILE="D:/CyberPlace/Port5_Cyberpunk/Saved/Autosaves/Game/Materials/Parent/CM_GlassClose_Auto6.uasset" SILENT=false AUTOSAVING=true
+[2024.04.19-18.29.48:287][792]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Materials/Parent/CM_GlassClose_Auto6
+[2024.04.19-18.29.48:287][792]LogSavePackage: Moving 'D:/CyberPlace/Port5_Cyberpunk/Saved/CM_GlassClose_Auto6F6861D9A4808A2DE310405B714F39DF2.tmp' to 'D:/CyberPlace/Port5_Cyberpunk/Saved/Autosaves/Game/Materials/Parent/CM_GlassClose_Auto6.uasset'
+[2024.04.19-18.29.48:288][792]LogFileHelpers: Auto-saving content packages took 0.184
+[2024.04.19-18.30.00:846][861]LogViewport: Scene viewport resized to 1547x1725, mode Windowed.
+[2024.04.19-18.30.00:960][861]LogViewport: Scene viewport resized to 1547x739, mode Windowed.
+[2024.04.19-18.30.12:652][926]LogSlate: Window 'Color Picker' being destroyed
+[2024.04.19-18.30.28:046][272]LogSlate: Window 'Color Picker' being destroyed
+[2024.04.19-18.30.28:061][272]MaterialEditorStats: Texture samplers: 0/16
+[2024.04.19-18.30.28:061][272]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.04.19-18.30.28:061][272]MaterialEditorStats: Shader Count: 0
+[2024.04.19-18.30.29:047][299]MaterialEditorStats: Texture samplers: 1/16
+[2024.04.19-18.30.29:047][299]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.04.19-18.30.29:047][299]MaterialEditorStats: Shader Count: 1
+[2024.04.19-18.30.29:349][309]MaterialEditorStats: Base pass vertex shader: 282 instructions
+[2024.04.19-18.30.29:349][309]MaterialEditorStats: Texture samplers: 3/16
+[2024.04.19-18.30.29:350][309]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.04.19-18.30.29:350][309]MaterialEditorStats: Shader Count: 3
+[2024.04.19-18.30.32:560][399]MaterialEditorStats: Base pass vertex shader: 282 instructions
+[2024.04.19-18.30.32:560][399]MaterialEditorStats: Texture samplers: 6/16
+[2024.04.19-18.30.32:560][399]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.04.19-18.30.32:560][399]MaterialEditorStats: Shader Count: 4
+[2024.04.19-18.30.34:464][447]LogSlate: Window 'Color Picker' being destroyed
+[2024.04.19-18.30.34:501][447]MaterialEditorStats: Texture samplers: 0/16
+[2024.04.19-18.30.34:501][447]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.04.19-18.30.34:501][447]MaterialEditorStats: Shader Count: 0
+[2024.04.19-18.30.34:916][461]MaterialEditorStats: Texture samplers: 1/16
+[2024.04.19-18.30.34:916][461]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.04.19-18.30.34:917][461]MaterialEditorStats: Shader Count: 1
+[2024.04.19-18.30.35:346][476]MaterialEditorStats: Base pass vertex shader: 282 instructions
+[2024.04.19-18.30.35:346][476]MaterialEditorStats: Texture samplers: 3/16
+[2024.04.19-18.30.35:346][476]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.04.19-18.30.35:346][476]MaterialEditorStats: Shader Count: 3
+[2024.04.19-18.30.38:314][597]MaterialEditorStats: Texture samplers: 0/16
+[2024.04.19-18.30.38:314][597]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.04.19-18.30.38:314][597]MaterialEditorStats: Shader Count: 0
+[2024.04.19-18.30.39:123][614]LogSlate: Window 'Color Picker' being destroyed
+[2024.04.19-18.30.39:180][616]MaterialEditorStats: Texture samplers: 1/16
+[2024.04.19-18.30.39:180][616]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.04.19-18.30.39:180][616]MaterialEditorStats: Shader Count: 1
+[2024.04.19-18.30.39:437][624]MaterialEditorStats: Base pass vertex shader: 282 instructions
+[2024.04.19-18.30.39:437][624]MaterialEditorStats: Texture samplers: 3/16
+[2024.04.19-18.30.39:437][624]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.04.19-18.30.39:437][624]MaterialEditorStats: Shader Count: 3
+[2024.04.19-18.30.40:971][675]LogMaterialEditor: Saving and Compiling material PM_GlassClose
+[2024.04.19-18.30.41:203][675]LogUObjectHash: Compacting FUObjectHashTables data took   1.98ms
+[2024.04.19-18.30.41:915][675]LogUObjectHash: Compacting FUObjectHashTables data took   1.99ms
+[2024.04.19-18.30.41:929][675]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.19-18.30.44:030][675]LogStall: Stall detector 'FShaderCompilingManager::BlockOnShaderMapCompletion' exceeded budget of 2.000000s
+[2024.04.19-18.30.46:648][675]LogStall: Stall detector 'FShaderCompilingManager::BlockOnShaderMapCompletion' complete in 4.622081s (2.622081s overbudget)
+[2024.04.19-18.30.47:085][675]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/Parent/PM_GlassClose" FILE="D:/CyberPlace/Port5_Cyberpunk/Content/Materials/Parent/PM_GlassClose.uasset" SILENT=true
+[2024.04.19-18.30.47:094][675]LogSavePackage: Moving output files for package: /Game/Materials/Parent/PM_GlassClose
+[2024.04.19-18.30.47:095][675]LogSavePackage: Moving 'D:/CyberPlace/Port5_Cyberpunk/Saved/PM_GlassClose9BE89D964A37A55CE46602BA27083744.tmp' to 'D:/CyberPlace/Port5_Cyberpunk/Content/Materials/Parent/PM_GlassClose.uasset'
+[2024.04.19-18.30.47:104][675]LogFileHelpers: InternalPromptForCheckoutAndSave took 5.17 sec (total: 14.3 sec)
+[2024.04.19-18.30.47:113][675]AssetCheck: New page: Asset Save: PM_GlassClose
+[2024.04.19-18.30.47:113][675]LogContentValidation: Display: Validating /Script/Engine.Material /Game/Materials/Parent/PM_GlassClose.PM_GlassClose
+[2024.04.19-18.30.47:117][675]MaterialEditorStats: Base pass shader: 1543 instructions
+[2024.04.19-18.30.47:117][675]MaterialEditorStats: Base pass vertex shader: 282 instructions
+[2024.04.19-18.30.47:117][675]MaterialEditorStats: Texture samplers: 6/16
+[2024.04.19-18.30.47:117][675]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.04.19-18.30.47:117][675]MaterialEditorStats: Shader Count: 26
+[2024.04.19-18.30.47:141][676]LogAutomationController: Ignoring very large delta of 6.17 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2024.04.19-18.30.47:142][676]LogConcert: Display: Synced activity '157' produced by endpoint '80B4926C4ACA717114629DA574A5CE06': Jacob locked /Game/Materials/Parent/PM_GlassClose.
+[2024.04.19-18.30.47:182][677]LogConcert: Display: Synced activity '158' produced by endpoint '80B4926C4ACA717114629DA574A5CE06': Jacob saved package /Game/Materials/Parent/PM_GlassClose.
+[2024.04.19-18.30.47:182][677]LogConcert: Display: Synced activity '159' produced by endpoint '80B4926C4ACA717114629DA574A5CE06': Jacob unlocked /Game/Materials/Parent/PM_GlassClose.
+[2024.04.19-18.30.48:147][701]LogViewport: Scene viewport resized to 1548x739, mode Windowed.
+[2024.04.19-18.30.48:318][701]LogViewport: Scene viewport resized to 3056x1725, mode Windowed.
+[2024.04.19-18.30.57:762][919]LogMaterialEditor: Saving and Compiling material PM_GlassClose
+[2024.04.19-18.30.57:767][919]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.19-18.30.57:816][919]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/Parent/PM_GlassClose" FILE="D:/CyberPlace/Port5_Cyberpunk/Content/Materials/Parent/PM_GlassClose.uasset" SILENT=true
+[2024.04.19-18.30.57:820][919]LogSavePackage: Moving output files for package: /Game/Materials/Parent/PM_GlassClose
+[2024.04.19-18.30.57:820][919]LogSavePackage: Moving 'D:/CyberPlace/Port5_Cyberpunk/Saved/PM_GlassCloseB9B903374B66FB7306B5718291E1D600.tmp' to 'D:/CyberPlace/Port5_Cyberpunk/Content/Materials/Parent/PM_GlassClose.uasset'
+[2024.04.19-18.30.57:830][919]LogFileHelpers: InternalPromptForCheckoutAndSave took 62 ms (total: 14.4 sec)
+[2024.04.19-18.30.57:835][919]AssetCheck: New page: Asset Save: PM_GlassClose
+[2024.04.19-18.30.57:835][919]LogContentValidation: Display: Validating /Script/Engine.Material /Game/Materials/Parent/PM_GlassClose.PM_GlassClose
+[2024.04.19-18.30.58:038][921]LogConcert: Display: Synced activity '160' produced by endpoint '80B4926C4ACA717114629DA574A5CE06': Jacob saved package /Game/Materials/Parent/PM_GlassClose.
+[2024.04.19-18.31.00:967][998]LogSlate: Window 'PM_GlassClose' being destroyed
+[2024.04.19-18.31.00:973][998]LogSlate: Window 'PM_GlassClose' being destroyed
+[2024.04.19-18.31.00:997][998]LogWorld: UWorld::CleanupWorld for World_18, bSessionEnded=true, bCleanupResources=true
+[2024.04.19-18.31.00:997][998]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.19-18.31.07:097][229]LogContentBrowser: Deferred new asset file creation: PM_GlassClose_Inst
+[2024.04.19-18.31.07:130][229]LogContentBrowser: Creating deferred item: PM_GlassClose_Inst
+[2024.04.19-18.31.07:150][230]LogContentBrowser: Renaming the item being created (Deferred Item: PM_GlassClose_Inst).
+[2024.04.19-18.31.15:483][710]LogContentBrowser: Attempting asset rename: PM_GlassClose_Inst -> PM_GlassClose_Inst
+[2024.04.19-18.31.15:506][710]LogContentBrowser: End creating deferred item PM_GlassClose_Inst
+[2024.04.19-18.31.15:509][710]AssetCheck: New page: Asset Save: PM_GlassClose_Inst
+[2024.04.19-18.31.15:509][710]LogContentValidation: Display: Validating /Script/Engine.MaterialInstanceConstant /Game/Materials/Parent/PM_GlassClose_Inst.PM_GlassClose_Inst
+[2024.04.19-18.31.15:526][711]LogConcert: Display: Synced activity '161' produced by endpoint '80B4926C4ACA717114629DA574A5CE06': Jacob added package /Game/Materials/Parent/PM_GlassClose_Inst.
+[2024.04.19-18.31.15:526][711]LogConcert: Display: Synced activity '162' produced by endpoint '80B4926C4ACA717114629DA574A5CE06': Jacob locked /Game/Materials/Parent/PM_GlassClose_Inst.
+[2024.04.19-18.31.17:499][758]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.19-18.31.17:632][758]LogUObjectHash: Compacting FUObjectHashTables data took   1.80ms
+[2024.04.19-18.31.17:747][758]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/Parent/PM_GlassClose_Inst" FILE="D:/CyberPlace/Port5_Cyberpunk/Content/Materials/Parent/PM_GlassClose_Inst.uasset" SILENT=true
+[2024.04.19-18.31.17:750][758]LogSavePackage: Moving output files for package: /Game/Materials/Parent/PM_GlassClose_Inst
+[2024.04.19-18.31.17:751][758]LogSavePackage: Moving 'D:/CyberPlace/Port5_Cyberpunk/Saved/PM_GlassClose_Inst4721F3C04DF17409E46C80BE86209EC8.tmp' to 'D:/CyberPlace/Port5_Cyberpunk/Content/Materials/Parent/PM_GlassClose_Inst.uasset'
+[2024.04.19-18.31.17:764][758]LogFileHelpers: InternalPromptForCheckoutAndSave took 264 ms (total: 14.7 sec)
+[2024.04.19-18.31.17:767][758]AssetCheck: New page: Asset Save: PM_GlassClose_Inst
+[2024.04.19-18.31.17:767][758]LogContentValidation: Display: Validating /Script/Engine.MaterialInstanceConstant /Game/Materials/Parent/PM_GlassClose_Inst.PM_GlassClose_Inst
+[2024.04.19-18.31.17:805][760]LogConcert: Display: Synced activity '163' produced by endpoint '80B4926C4ACA717114629DA574A5CE06': Jacob saved package /Game/Materials/Parent/PM_GlassClose_Inst.
+[2024.04.19-18.31.17:805][760]LogConcert: Display: Synced activity '164' produced by endpoint '80B4926C4ACA717114629DA574A5CE06': Jacob unlocked /Game/Materials/Parent/PM_GlassClose_Inst.
+[2024.04.19-18.31.23:085][148]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.19-18.31.23:130][148]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/Jacob/PM_GlassClose_Inst" FILE="D:/CyberPlace/Port5_Cyberpunk/Content/Materials/Jacob/PM_GlassClose_Inst.uasset" SILENT=true
+[2024.04.19-18.31.23:132][148]LogSavePackage: Moving output files for package: /Game/Materials/Jacob/PM_GlassClose_Inst
+[2024.04.19-18.31.23:132][148]LogSavePackage: Moving 'D:/CyberPlace/Port5_Cyberpunk/Saved/PM_GlassClose_InstB0710E284132B7B5E81A588413CC1555.tmp' to 'D:/CyberPlace/Port5_Cyberpunk/Content/Materials/Jacob/PM_GlassClose_Inst.uasset'
+[2024.04.19-18.31.23:134][148]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/Parent/PM_GlassClose_Inst" FILE="D:/CyberPlace/Port5_Cyberpunk/Content/Materials/Parent/PM_GlassClose_Inst.uasset" SILENT=true
+[2024.04.19-18.31.23:135][148]LogSavePackage: Moving output files for package: /Game/Materials/Parent/PM_GlassClose_Inst
+[2024.04.19-18.31.23:136][148]LogSavePackage: Moving 'D:/CyberPlace/Port5_Cyberpunk/Saved/PM_GlassClose_InstD11CE9C047F657B820C1B7B26DECE932.tmp' to 'D:/CyberPlace/Port5_Cyberpunk/Content/Materials/Parent/PM_GlassClose_Inst.uasset'
+[2024.04.19-18.31.23:150][148]LogFileHelpers: InternalPromptForCheckoutAndSave took 65 ms (total: 14.7 sec)
+[2024.04.19-18.31.23:175][148]AssetCheck: New page: Asset Save: multiple assets
+[2024.04.19-18.31.23:175][148]LogContentValidation: Display: Validating /Script/Engine.MaterialInstanceConstant /Game/Materials/Jacob/PM_GlassClose_Inst.PM_GlassClose_Inst
+[2024.04.19-18.31.23:175][148]LogContentValidation: Display: Validating /Script/CoreUObject.ObjectRedirector /Game/Materials/Parent/PM_GlassClose_Inst.PM_GlassClose_Inst
+[2024.04.19-18.31.23:193][149]LogConcert: Display: Synced activity '165' produced by endpoint '80B4926C4ACA717114629DA574A5CE06': Jacob locked /Game/Materials/Parent/PM_GlassClose_Inst.
+[2024.04.19-18.31.23:194][149]LogConcert: Display: Synced activity '166' produced by endpoint '80B4926C4ACA717114629DA574A5CE06': Jacob locked /Game/Materials/Jacob/PM_GlassClose_Inst.
+[2024.04.19-18.31.23:216][150]LogConcert: Display: Synced activity '167' produced by endpoint '80B4926C4ACA717114629DA574A5CE06': Jacob saved package /Game/Materials/Jacob/PM_GlassClose_Inst.
+[2024.04.19-18.31.23:216][150]LogConcert: Display: Synced activity '168' produced by endpoint '80B4926C4ACA717114629DA574A5CE06': Jacob unlocked /Game/Materials/Jacob/PM_GlassClose_Inst.
+[2024.04.19-18.31.23:217][150]LogConcert: Display: Synced activity '169' produced by endpoint '80B4926C4ACA717114629DA574A5CE06': Jacob renamed package /Game/Materials/Parent/PM_GlassClose_Inst to /Game/Materials/Jacob/PM_GlassClose_Inst.
+[2024.04.19-18.31.23:218][150]LogConcert: Display: Synced activity '170' produced by endpoint '80B4926C4ACA717114629DA574A5CE06': Jacob unlocked /Game/Materials/Parent/PM_GlassClose_Inst.
+[2024.04.19-18.31.35:242][ 64]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/BluePrints/Jacob/CloseGlassBuild.CloseGlassBuild
+[2024.04.19-18.31.35:243][ 64]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.19-18.31.35:243][ 64]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.19-18.31.37:953][124]LogSlate: Window 'CloseGlassBuild' being destroyed
+[2024.04.19-18.31.37:961][124]LogSlate: Window 'CloseGlassBuild' being destroyed
+[2024.04.19-18.31.37:966][124]LogWorld: UWorld::CleanupWorld for World_19, bSessionEnded=true, bCleanupResources=true
+[2024.04.19-18.31.37:966][124]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.19-18.31.42:600][239]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/FBX/JacobBuildBlocks/CloseGlassBuild/BottomGlassClose.BottomGlassClose
+[2024.04.19-18.31.42:736][239]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.19-18.31.42:736][239]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.19-18.31.43:802][239]LogViewport: Scene viewport resized to 1665x1399, mode Windowed.
+[2024.04.19-18.31.44:099][241]LogUObjectHash: Compacting FUObjectHashTables data took   4.27ms
+[2024.04.19-18.31.44:109][241]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.19-18.31.44:237][241]LogUObjectHash: Compacting FUObjectHashTables data took   2.14ms
+[2024.04.19-18.31.44:239][241]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Scenes/CyberPlace" FILE="D:/CyberPlace/Port5_Cyberpunk/Content/Scenes/CyberPlace.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.04.19-18.31.44:307][241]LogUObjectHash: Compacting FUObjectHashTables data took   1.76ms
+[2024.04.19-18.31.44:518][241]LogSavePackage: Moving output files for package: /Game/Scenes/CyberPlace
+[2024.04.19-18.31.44:518][241]LogSavePackage: Moving 'D:/CyberPlace/Port5_Cyberpunk/Saved/CyberPlace3E07D109459ED035DDB29AB58365D3BF.tmp' to 'D:/CyberPlace/Port5_Cyberpunk/Content/Scenes/CyberPlace.umap'
+[2024.04.19-18.31.44:538][241]LogFileHelpers: Saving map 'CyberPlace' took 0.300
+[2024.04.19-18.31.44:540][241]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Scenes/Mason" FILE="D:/CyberPlace/Port5_Cyberpunk/Content/Scenes/Mason.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.04.19-18.31.44:575][241]LogUObjectHash: Compacting FUObjectHashTables data took   1.91ms
+[2024.04.19-18.31.44:585][241]LogSavePackage: Moving output files for package: /Game/Scenes/Mason
+[2024.04.19-18.31.44:585][241]LogSavePackage: Moving 'D:/CyberPlace/Port5_Cyberpunk/Saved/Mason575C17FA4E5C09C447ADDB86096587E6.tmp' to 'D:/CyberPlace/Port5_Cyberpunk/Content/Scenes/Mason.umap'
+[2024.04.19-18.31.44:595][241]LogFileHelpers: Saving map 'Mason' took 0.056
+[2024.04.19-18.31.44:602][241]LogSavePackage: Moving output files for package: /Game/FBX/JacobBuildBlocks/CloseGlassBuild/BottomGlassClose
+[2024.04.19-18.31.44:602][241]LogSavePackage: Moving 'D:/CyberPlace/Port5_Cyberpunk/Saved/BottomGlassCloseCE9E1122458B7BF4754962AF1DB871F3.tmp' to 'D:/CyberPlace/Port5_Cyberpunk/Content/FBX/JacobBuildBlocks/CloseGlassBuild/BottomGlassClose.uasset'
+[2024.04.19-18.31.44:611][241]LogFileHelpers: InternalPromptForCheckoutAndSave took 501 ms (total: 15.2 sec)
+[2024.04.19-18.31.44:622][241]AssetCheck: New page: Asset Save: multiple assets
+[2024.04.19-18.31.44:622][241]LogContentValidation: Display: Validating /Script/Engine.World /Game/Scenes/CyberPlace.CyberPlace
+[2024.04.19-18.31.44:622][241]LogContentValidation: Display: Validating /Script/Engine.World /Game/Scenes/Mason.Mason
+[2024.04.19-18.31.44:622][241]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/FBX/JacobBuildBlocks/CloseGlassBuild/BottomGlassClose.BottomGlassClose
+[2024.04.19-18.31.44:739][244]LogConcert: Display: Synced activity '171' produced by endpoint '80B4926C4ACA717114629DA574A5CE06': Jacob saved package /Game/Scenes/CyberPlace.
+[2024.04.19-18.31.44:739][244]LogConcert: Display: Synced activity '172' produced by endpoint '80B4926C4ACA717114629DA574A5CE06': Jacob saved package /Game/Scenes/Mason.
+[2024.04.19-18.31.44:740][244]LogConcert: Display: Synced activity '173' produced by endpoint '80B4926C4ACA717114629DA574A5CE06': Jacob saved package /Game/FBX/JacobBuildBlocks/CloseGlassBuild/BottomGlassClose.
+[2024.04.19-18.31.44:740][244]LogConcert: Display: Synced activity '174' produced by endpoint '80B4926C4ACA717114629DA574A5CE06': Jacob unlocked /Game/FBX/JacobBuildBlocks/CloseGlassBuild/BottomGlassClose.
+[2024.04.19-18.32.09:544][145]LogConcert: Display: Synced activity '175' produced by endpoint '80B4926C4ACA717114629DA574A5CE06': Jacob locked /Game/FBX/JacobBuildBlocks/CloseGlassBuild/BottomGlassClose.
+[2024.04.19-18.32.12:409][200]LogAssetEditorSubsystem: Opening Asset editor for MaterialInstanceConstant /Game/Materials/Jacob/PM_GlassClose_Inst.PM_GlassClose_Inst
+[2024.04.19-18.32.12:414][200]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.19-18.32.12:414][200]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.19-18.32.12:899][200]LogViewport: Scene viewport resized to 1582x1399, mode Windowed.
+[2024.04.19-18.32.16:848][304]LogConcert: Display: Synced activity '176' produced by endpoint '80B4926C4ACA717114629DA574A5CE06': Jacob locked /Game/Materials/Jacob/PM_GlassClose_Inst.
+[2024.04.19-18.33.37:257][266]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.19-18.33.37:448][266]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/Jacob/PM_GlassClose_Inst" FILE="D:/CyberPlace/Port5_Cyberpunk/Content/Materials/Jacob/PM_GlassClose_Inst.uasset" SILENT=true
+[2024.04.19-18.33.37:477][266]LogUObjectHash: Compacting FUObjectHashTables data took   2.37ms
+[2024.04.19-18.33.37:506][266]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
+[2024.04.19-18.33.37:510][266]LogSavePackage: Moving output files for package: /Game/Materials/Jacob/PM_GlassClose_Inst
+[2024.04.19-18.33.37:511][266]LogSavePackage: Moving 'D:/CyberPlace/Port5_Cyberpunk/Saved/PM_GlassClose_InstF96B287F48CB8E354194B998261623F3.tmp' to 'D:/CyberPlace/Port5_Cyberpunk/Content/Materials/Jacob/PM_GlassClose_Inst.uasset'
+[2024.04.19-18.33.37:521][266]LogFileHelpers: InternalPromptForCheckoutAndSave took 264 ms (total: 15.5 sec)
+[2024.04.19-18.33.37:534][266]AssetCheck: New page: Asset Save: PM_GlassClose_Inst
+[2024.04.19-18.33.37:534][266]LogContentValidation: Display: Validating /Script/Engine.MaterialInstanceConstant /Game/Materials/Jacob/PM_GlassClose_Inst.PM_GlassClose_Inst
+[2024.04.19-18.33.37:571][268]LogConcert: Display: Synced activity '177' produced by endpoint '80B4926C4ACA717114629DA574A5CE06': Jacob saved package /Game/Materials/Jacob/PM_GlassClose_Inst.
+[2024.04.19-18.33.37:669][269]LogConcert: Display: Synced activity '178' produced by endpoint '80B4926C4ACA717114629DA574A5CE06': Jacob unlocked /Game/Materials/Jacob/PM_GlassClose_Inst.
+[2024.04.19-18.33.38:798][299]LogSlate: Window 'PM_GlassClose_Inst' being destroyed
+[2024.04.19-18.33.38:807][299]LogSlate: Window 'PM_GlassClose_Inst' being destroyed
+[2024.04.19-18.33.38:869][299]LogWorld: UWorld::CleanupWorld for World_20, bSessionEnded=true, bCleanupResources=true
+[2024.04.19-18.33.38:869][299]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.19-18.33.38:916][299]LogWorld: UWorld::CleanupWorld for World_21, bSessionEnded=true, bCleanupResources=true
+[2024.04.19-18.33.38:916][299]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.19-18.33.43:877][498]LogViewport: Scene viewport resized to 3052x1603, mode Windowed.
+[2024.04.19-18.34.24:973][599]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/FBX/JacobBuildBlocks/CloseGlassBuild/MainBodyGlass.MainBodyGlass
+[2024.04.19-18.34.25:109][599]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.19-18.34.25:109][599]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.19-18.34.26:168][599]LogViewport: Scene viewport resized to 1667x1402, mode Windowed.
+[2024.04.19-18.34.34:883][ 18]LogConcert: Display: Synced activity '179' produced by endpoint '80B4926C4ACA717114629DA574A5CE06': Jacob locked /Game/FBX/JacobBuildBlocks/CloseGlassBuild/MainBodyGlass.
+[2024.04.19-18.34.36:680][ 50]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.19-18.34.36:837][ 50]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FBX/JacobBuildBlocks/CloseGlassBuild/MainBodyGlass" FILE="D:/CyberPlace/Port5_Cyberpunk/Content/FBX/JacobBuildBlocks/CloseGlassBuild/MainBodyGlass.uasset" SILENT=true
+[2024.04.19-18.34.36:843][ 50]LogSavePackage: Moving output files for package: /Game/FBX/JacobBuildBlocks/CloseGlassBuild/MainBodyGlass
+[2024.04.19-18.34.36:844][ 50]LogSavePackage: Moving 'D:/CyberPlace/Port5_Cyberpunk/Saved/MainBodyGlass7E059A4C4366ACF4D711BBB80B883E4A.tmp' to 'D:/CyberPlace/Port5_Cyberpunk/Content/FBX/JacobBuildBlocks/CloseGlassBuild/MainBodyGlass.uasset'
+[2024.04.19-18.34.36:855][ 50]LogFileHelpers: InternalPromptForCheckoutAndSave took 175 ms (total: 15.7 sec)
+[2024.04.19-18.34.36:867][ 50]AssetCheck: New page: Asset Save: MainBodyGlass
+[2024.04.19-18.34.36:867][ 50]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/FBX/JacobBuildBlocks/CloseGlassBuild/MainBodyGlass.MainBodyGlass
+[2024.04.19-18.34.36:995][ 52]LogConcert: Display: Synced activity '180' produced by endpoint '80B4926C4ACA717114629DA574A5CE06': Jacob saved package /Game/FBX/JacobBuildBlocks/CloseGlassBuild/MainBodyGlass.
+[2024.04.19-18.34.36:995][ 52]LogConcert: Display: Synced activity '181' produced by endpoint '80B4926C4ACA717114629DA574A5CE06': Jacob unlocked /Game/FBX/JacobBuildBlocks/CloseGlassBuild/MainBodyGlass.
+[2024.04.19-18.34.38:830][ 88]LogSlate: Window 'MainBodyGlass' being destroyed
+[2024.04.19-18.34.38:888][ 88]LogSlate: Window 'MainBodyGlass' being destroyed
+[2024.04.19-18.34.38:961][ 88]LogWorld: UWorld::CleanupWorld for World_22, bSessionEnded=true, bCleanupResources=true
+[2024.04.19-18.34.38:961][ 88]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.19-18.34.41:799][152]LogViewport: Scene viewport resized to 3056x1725, mode Windowed.
+[2024.04.19-18.35.03:112][777]LogViewport: Scene viewport resized to 3052x1603, mode Windowed.
+[2024.04.19-18.35.19:256][218]LogViewport: Scene viewport resized to 3056x1725, mode Windowed.
+[2024.04.19-18.35.55:133][224]LogAssetEditorSubsystem: Opening Asset editor for MaterialInstanceConstant /Game/Materials/Jacob/CM_ApartmentGlass.CM_ApartmentGlass
+[2024.04.19-18.35.55:136][224]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.19-18.35.55:136][224]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.19-18.35.55:597][224]LogViewport: Scene viewport resized to 1586x1405, mode Windowed.
+[2024.04.19-18.35.58:041][292]LogConcert: Display: Synced activity '182' produced by endpoint '80B4926C4ACA717114629DA574A5CE06': Jacob locked /Game/Materials/Jacob/CM_ApartmentGlass.
+[2024.04.19-18.36.08:147][493]LogAutomationController: Ignoring very large delta of 2.55 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2024.04.19-18.36.36:844][267]LogSlate: Window 'CM_ApartmentGlass' being destroyed
+[2024.04.19-18.36.36:851][267]LogSlate: Window 'CM_ApartmentGlass' being destroyed
+[2024.04.19-18.36.36:881][267]LogUObjectHash: Compacting FUObjectHashTables data took   2.02ms
+[2024.04.19-18.36.37:063][267]LogShaderCompilers: Display: ================================================
+[2024.04.19-18.36.37:063][267]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.04.19-18.36.37:063][267]LogShaderCompilers: Display: Total job queries 240, among them cache hits 102 (42.50%)
+[2024.04.19-18.36.37:063][267]LogShaderCompilers: Display: Tracking 132 distinct input hashes that result in 78 distinct outputs (59.09%)
+[2024.04.19-18.36.37:063][267]LogShaderCompilers: Display: RAM used: 3.92 MiB of 3.20 GiB budget. Usage: 0.12%
+[2024.04.19-18.36.37:064][267]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.04.19-18.36.37:064][267]LogShaderCompilers: Display: Shaders Compiled: 92
+[2024.04.19-18.36.37:064][267]LogShaderCompilers: Display: Jobs assigned 92, completed 92 (100%)
+[2024.04.19-18.36.37:064][267]LogShaderCompilers: Display: Average time worker was idle: 772.48 s
+[2024.04.19-18.36.37:064][267]LogShaderCompilers: Display: Time job spent in pending queue: average 0.11 s, longest 1.00 s
+[2024.04.19-18.36.37:064][267]LogShaderCompilers: Display: Job execution time: average 1.85 s, max 5.64 s
+[2024.04.19-18.36.37:064][267]LogShaderCompilers: Display: Job life time (pending + execution): average 1.95 s, max 5.77
+[2024.04.19-18.36.37:064][267]LogShaderCompilers: Display: Shader code size: average 57.802 KiB, min 29.746 KiB, max 98.832 KiB
+[2024.04.19-18.36.37:064][267]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 34.13 s
+[2024.04.19-18.36.37:064][267]LogShaderCompilers: Display: Jobs were issued in 92 batches (only local compilation was used), average 1.00 jobs/batch
+[2024.04.19-18.36.37:064][267]LogShaderCompilers: Display: Average processing rate: 2.70 jobs/sec
+[2024.04.19-18.36.37:064][267]LogShaderCompilers: Display: Total thread time: 128.306 s
+[2024.04.19-18.36.37:064][267]LogShaderCompilers: Display: Total thread preprocess time: 6.604 s
+[2024.04.19-18.36.37:064][267]LogShaderCompilers: Display: Percentage time preprocessing: 5.15%
+[2024.04.19-18.36.37:064][267]LogShaderCompilers: Display: Effective parallelization: 3.76 (times faster than compiling all shaders on one thread). Compare with number of workers: 16
+[2024.04.19-18.36.37:064][267]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2024.04.19-18.36.37:064][267]LogShaderCompilers: Display:                TBasePassPSFCachedPointIndirectLightingPolicy (compiled    2 times, average 3.94 sec, max 3.99 sec, min 3.88 sec)
+[2024.04.19-18.36.37:064][267]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight (compiled    2 times, average 3.87 sec, max 3.94 sec, min 3.81 sec)
+[2024.04.19-18.36.37:064][267]LogShaderCompilers: Display: TBasePassPSFSelfShadowedCachedPointIndirectLightingPolicySkylight (compiled    2 times, average 3.83 sec, max 3.88 sec, min 3.78 sec)
+[2024.04.19-18.36.37:064][267]LogShaderCompilers: Display:      TBasePassPSFPrecomputedVolumetricLightmapLightingPolicy (compiled    2 times, average 3.83 sec, max 3.91 sec, min 3.75 sec)
+[2024.04.19-18.36.37:064][267]LogShaderCompilers: Display:           TBasePassPSFSelfShadowedTranslucencyPolicySkylight (compiled    2 times, average 3.76 sec, max 3.82 sec, min 3.70 sec)
+[2024.04.19-18.36.37:065][267]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2024.04.19-18.36.37:065][267]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight - 11.65% of total time (compiled    4 times, average 3.74 sec, max 4.00 sec, min 3.63 sec)
+[2024.04.19-18.36.37:065][267]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 9.18% of total time (compiled   12 times, average 0.98 sec, max 3.83 sec, min 0.35 sec)
+[2024.04.19-18.36.37:065][267]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 6.54% of total time (compiled   14 times, average 0.60 sec, max 1.83 sec, min 0.36 sec)
+[2024.04.19-18.36.37:065][267]LogShaderCompilers: Display:                TBasePassPSFCachedPointIndirectLightingPolicy - 6.14% of total time (compiled    2 times, average 3.94 sec, max 3.99 sec, min 3.88 sec)
+[2024.04.19-18.36.37:065][267]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight - 6.04% of total time (compiled    2 times, average 3.87 sec, max 3.94 sec, min 3.81 sec)
+[2024.04.19-18.36.37:065][267]LogShaderCompilers: Display: ================================================
+[2024.04.19-18.36.37:103][267]LogUObjectHash: Compacting FUObjectHashTables data took   3.81ms
+[2024.04.19-18.36.37:215][267]LogWorld: UWorld::CleanupWorld for World_23, bSessionEnded=true, bCleanupResources=true
+[2024.04.19-18.36.37:216][267]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.19-18.37.20:527][576]LogConcert: Display: Synced activity '183' produced by endpoint '80B4926C4ACA717114629DA574A5CE06': Jacob locked StaticMeshActor_44.StaticMeshComponent0 in /Game/Scenes/CyberPlace.
+[2024.04.19-18.37.28:824][782]LogConcert: Display: Synced activity '184' produced by endpoint '80B4926C4ACA717114629DA574A5CE06': Jacob modified StaticMeshActor_44.StaticMeshComponent0 in /Game/Scenes/CyberPlace.
+[2024.04.19-18.37.28:825][782]LogConcert: Display: Synced activity '185' produced by endpoint '80B4926C4ACA717114629DA574A5CE06': Jacob unlocked StaticMeshActor_44.StaticMeshComponent0 in /Game/Scenes/CyberPlace.
+[2024.04.19-18.37.35:178][956]LogConcert: Display: Synced activity '186' produced by endpoint '80B4926C4ACA717114629DA574A5CE06': Jacob locked StaticMeshActor_44.StaticMeshComponent0 in /Game/Scenes/CyberPlace.
+[2024.04.19-18.37.35:864][968]LogConcert: Display: Synced activity '187' produced by endpoint '80B4926C4ACA717114629DA574A5CE06': Jacob modified StaticMeshActor_44.StaticMeshComponent0 in /Game/Scenes/CyberPlace.
+[2024.04.19-18.37.35:865][968]LogConcert: Display: Synced activity '188' produced by endpoint '80B4926C4ACA717114629DA574A5CE06': Jacob unlocked StaticMeshActor_44.StaticMeshComponent0 in /Game/Scenes/CyberPlace.
+[2024.04.19-18.38.31:472][357]Cmd: DELETE
+[2024.04.19-18.38.31:472][357]Cmd: ACTOR DELETE
+[2024.04.19-18.38.31:487][357]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.04.19-18.38.31:489][357]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.04.19-18.38.31:491][357]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.04.19-18.38.31:493][357]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.04.19-18.38.31:494][357]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.04.19-18.38.31:496][357]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.04.19-18.38.31:498][357]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.04.19-18.38.31:500][357]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.04.19-18.38.31:501][357]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.04.19-18.38.31:528][357]LogUObjectHash: Compacting FUObjectHashTables data took   2.59ms
+[2024.04.19-18.38.31:535][357]LogEditorActor: Deleted 9 Actors (0.062 secs)
+[2024.04.19-18.38.31:747][361]LogConcert: Display: Synced activity '189' produced by endpoint '80B4926C4ACA717114629DA574A5CE06': Jacob deleted StaticMeshActor_10 in /Game/Scenes/CyberPlace, plus 8 other actions.
+[2024.04.19-18.38.37:937][530]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.19-18.38.38:090][531]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.19-18.38.52:004][909]Cmd: DELETE
+[2024.04.19-18.38.52:004][909]Cmd: ACTOR DELETE
+[2024.04.19-18.38.52:023][909]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.04.19-18.38.52:063][909]LogUObjectHash: Compacting FUObjectHashTables data took   4.12ms
+[2024.04.19-18.38.52:069][909]LogEditorActor: Deleted 1 Actors (0.065 secs)
+[2024.04.19-18.38.52:365][912]LogConcert: Display: Synced activity '190' produced by endpoint '80B4926C4ACA717114629DA574A5CE06': Jacob deleted StaticMeshActor_19 in /Game/Scenes/Mason.
+[2024.04.19-18.39.06:669][297]Cmd: DELETE
+[2024.04.19-18.39.06:669][297]Cmd: ACTOR DELETE
+[2024.04.19-18.39.06:673][297]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.04.19-18.39.06:675][297]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.04.19-18.39.06:676][297]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.04.19-18.39.06:678][297]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.04.19-18.39.06:678][297]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.04.19-18.39.06:680][297]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.04.19-18.39.06:705][297]LogUObjectHash: Compacting FUObjectHashTables data took   1.75ms
+[2024.04.19-18.39.06:713][297]LogEditorActor: Deleted 6 Actors (0.044 secs)
+[2024.04.19-18.39.06:802][301]LogConcert: Display: Synced activity '191' produced by endpoint '80B4926C4ACA717114629DA574A5CE06': Jacob deleted StaticMeshActor_12 in /Game/Scenes/CyberPlace, plus 5 other actions.
+[2024.04.19-18.39.10:050][427]Cmd: DELETE
+[2024.04.19-18.39.10:050][427]Cmd: ACTOR DELETE
+[2024.04.19-18.39.10:070][427]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.04.19-18.39.10:105][427]LogUObjectHash: Compacting FUObjectHashTables data took   1.77ms
+[2024.04.19-18.39.10:109][427]LogEditorActor: Deleted 1 Actors (0.059 secs)
+[2024.04.19-18.39.10:175][431]LogConcert: Display: Synced activity '192' produced by endpoint '80B4926C4ACA717114629DA574A5CE06': Jacob deleted StaticMeshActor_11 in /Game/Scenes/CyberPlace.
+[2024.04.19-18.39.18:712][798]LogViewport: Scene viewport resized to 3052x1603, mode Windowed.
+[2024.04.19-18.39.57:264][901]LogUObjectHash: Compacting FUObjectHashTables data took   1.94ms
+[2024.04.19-18.40.01:088][901]LogSlate: Window 'Delete Assets' being destroyed
+[2024.04.19-18.40.01:143][901]LogUObjectGlobals: Force Deleting 5 Package(s):
+	Asset Name: /Game/FBX/Jake/RoadLeft.RoadLeft
+	Asset Type: StaticMesh
+	Asset Name: /Game/FBX/Jake/RoadMedian.RoadMedian
+	Asset Type: StaticMesh
+	Asset Name: /Game/FBX/Jake/RoadT.RoadT
+	Asset Type: StaticMesh
+	Asset Name: /Game/FBX/Jake/SIdewalkLeft.SIdewalkLeft
+	Asset Type: StaticMesh
+	Asset Name: /Game/FBX/Jake/TSidewalkLBack.TSidewalkLBack
+	Asset Type: StaticMesh
+[2024.04.19-18.40.01:697][901]LogUObjectHash: Compacting FUObjectHashTables data took   2.28ms
+[2024.04.19-18.40.01:725][901]LogUObjectHash: Compacting FUObjectHashTables data took   2.09ms
+[2024.04.19-18.40.01:767][901]LogUObjectHash: Compacting FUObjectHashTables data took   1.33ms
+[2024.04.19-18.40.01:841][902]LogAutomationController: Ignoring very large delta of 4.64 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2024.04.19-18.40.01:843][902]LogConcert: Display: Synced activity '193' produced by endpoint '80B4926C4ACA717114629DA574A5CE06': Jacob locked /Game/FBX/Jake/RoadLeft.
+[2024.04.19-18.40.01:844][902]LogConcert: Display: Synced activity '194' produced by endpoint '80B4926C4ACA717114629DA574A5CE06': Jacob deleted package /Game/FBX/Jake/RoadLeft.
+[2024.04.19-18.40.01:844][902]LogConcert: Display: Synced activity '195' produced by endpoint '80B4926C4ACA717114629DA574A5CE06': Jacob unlocked /Game/FBX/Jake/RoadLeft.
+[2024.04.19-18.40.01:844][902]LogConcert: Display: Synced activity '196' produced by endpoint '80B4926C4ACA717114629DA574A5CE06': Jacob locked /Game/FBX/Jake/RoadMedian.
+[2024.04.19-18.40.01:845][902]LogConcert: Display: Synced activity '197' produced by endpoint '80B4926C4ACA717114629DA574A5CE06': Jacob deleted package /Game/FBX/Jake/RoadMedian.
+[2024.04.19-18.40.01:845][902]LogConcert: Display: Synced activity '198' produced by endpoint '80B4926C4ACA717114629DA574A5CE06': Jacob unlocked /Game/FBX/Jake/RoadMedian.
+[2024.04.19-18.40.01:846][902]LogConcert: Display: Synced activity '199' produced by endpoint '80B4926C4ACA717114629DA574A5CE06': Jacob locked /Game/FBX/Jake/RoadT.
+[2024.04.19-18.40.01:847][902]LogConcert: Display: Synced activity '200' produced by endpoint '80B4926C4ACA717114629DA574A5CE06': Jacob deleted package /Game/FBX/Jake/RoadT.
+[2024.04.19-18.40.01:847][902]LogConcert: Display: Synced activity '201' produced by endpoint '80B4926C4ACA717114629DA574A5CE06': Jacob unlocked /Game/FBX/Jake/RoadT.
+[2024.04.19-18.40.01:847][902]LogConcert: Display: Synced activity '202' produced by endpoint '80B4926C4ACA717114629DA574A5CE06': Jacob locked /Game/FBX/Jake/SIdewalkLeft.
+[2024.04.19-18.40.01:848][902]LogConcert: Display: Synced activity '203' produced by endpoint '80B4926C4ACA717114629DA574A5CE06': Jacob deleted package /Game/FBX/Jake/SIdewalkLeft.
+[2024.04.19-18.40.01:848][902]LogConcert: Display: Synced activity '204' produced by endpoint '80B4926C4ACA717114629DA574A5CE06': Jacob unlocked /Game/FBX/Jake/SIdewalkLeft.
+[2024.04.19-18.40.01:849][902]LogConcert: Display: Synced activity '205' produced by endpoint '80B4926C4ACA717114629DA574A5CE06': Jacob locked /Game/FBX/Jake/TSidewalkLBack.
+[2024.04.19-18.40.01:849][902]LogConcert: Display: Synced activity '206' produced by endpoint '80B4926C4ACA717114629DA574A5CE06': Jacob deleted package /Game/FBX/Jake/TSidewalkLBack.
+[2024.04.19-18.40.01:850][902]LogConcert: Display: Synced activity '207' produced by endpoint '80B4926C4ACA717114629DA574A5CE06': Jacob unlocked /Game/FBX/Jake/TSidewalkLBack.
+[2024.04.19-18.41.22:734][674]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\castudent\Downloads\Road_SidewalkR_Stairs.fbx)
+[2024.04.19-18.41.22:744][674]LogFbx: Loading FBX Scene from C:\Users\castudent\Downloads\Road_SidewalkR_Stairs.fbx
+[2024.04.19-18.41.22:753][674]LogFbx: FBX Scene Loaded Succesfully
+[2024.04.19-18.41.25:451][674]LogSlate: Window 'FBX Import Options' being destroyed
+[2024.04.19-18.41.25:546][674]LogFbx: Display: Triangulating static mesh Road_SidewalkR_Stairs
+[2024.04.19-18.41.25:692][674]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\castudent\Downloads\Road_Sidewalk_Thick.fbx)
+[2024.04.19-18.41.25:701][674]LogFbx: Loading FBX Scene from C:\Users\castudent\Downloads\Road_Sidewalk_Thick.fbx
+[2024.04.19-18.41.25:709][674]LogFbx: FBX Scene Loaded Succesfully
+[2024.04.19-18.41.25:779][674]LogFbx: Display: Triangulating static mesh Road_Sidewalk_Thick
+[2024.04.19-18.41.25:872][674]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\castudent\Downloads\Road_Sidewalk_Curb_Corner.fbx)
+[2024.04.19-18.41.25:881][674]LogFbx: Loading FBX Scene from C:\Users\castudent\Downloads\Road_Sidewalk_Curb_Corner.fbx
+[2024.04.19-18.41.25:888][674]LogFbx: FBX Scene Loaded Succesfully
+[2024.04.19-18.41.25:961][674]LogFbx: Display: Triangulating static mesh Road_Sidewalk_Curb_Corner
+[2024.04.19-18.41.26:068][674]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\castudent\Downloads\Road_Median.fbx)
+[2024.04.19-18.41.26:077][674]LogFbx: Loading FBX Scene from C:\Users\castudent\Downloads\Road_Median.fbx
+[2024.04.19-18.41.26:085][674]LogFbx: FBX Scene Loaded Succesfully
+[2024.04.19-18.41.26:146][674]LogFbx: Display: Triangulating static mesh Road_Median
+[2024.04.19-18.41.26:266][674]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\castudent\Downloads\Road.fbx)
+[2024.04.19-18.41.26:275][674]LogFbx: Loading FBX Scene from C:\Users\castudent\Downloads\Road.fbx
+[2024.04.19-18.41.26:282][674]LogFbx: FBX Scene Loaded Succesfully
+[2024.04.19-18.41.26:347][674]LogFbx: Display: Triangulating static mesh Road
+[2024.04.19-18.41.26:470][675]LogAutomationController: Ignoring very large delta of 3.76 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2024.04.19-18.41.26:470][675]LogConcert: Display: Synced activity '208' produced by endpoint '80B4926C4ACA717114629DA574A5CE06': Jacob locked /Game/FBX/Mason/Road_SidewalkR_Stairs.
+[2024.04.19-18.41.26:471][675]LogConcert: Display: Synced activity '209' produced by endpoint '80B4926C4ACA717114629DA574A5CE06': Jacob added package /Game/FBX/Mason/Road_SidewalkR_Stairs.
+[2024.04.19-18.41.26:471][675]LogConcert: Display: Synced activity '210' produced by endpoint '80B4926C4ACA717114629DA574A5CE06': Jacob unlocked /Game/FBX/Mason/Road_SidewalkR_Stairs.
+[2024.04.19-18.41.26:472][675]LogConcert: Display: Synced activity '211' produced by endpoint '80B4926C4ACA717114629DA574A5CE06': Jacob locked /Game/FBX/Mason/Road_Sidewalk_Thick.
+[2024.04.19-18.41.26:472][675]LogConcert: Display: Synced activity '212' produced by endpoint '80B4926C4ACA717114629DA574A5CE06': Jacob added package /Game/FBX/Mason/Road_Sidewalk_Thick.
+[2024.04.19-18.41.26:472][675]LogConcert: Display: Synced activity '213' produced by endpoint '80B4926C4ACA717114629DA574A5CE06': Jacob unlocked /Game/FBX/Mason/Road_Sidewalk_Thick.
+[2024.04.19-18.41.26:473][675]LogConcert: Display: Synced activity '214' produced by endpoint '80B4926C4ACA717114629DA574A5CE06': Jacob locked /Game/FBX/Mason/Road_Sidewalk_Curb_Corner.
+[2024.04.19-18.41.26:473][675]LogConcert: Display: Synced activity '215' produced by endpoint '80B4926C4ACA717114629DA574A5CE06': Jacob added package /Game/FBX/Mason/Road_Sidewalk_Curb_Corner.
+[2024.04.19-18.41.26:473][675]LogConcert: Display: Synced activity '216' produced by endpoint '80B4926C4ACA717114629DA574A5CE06': Jacob unlocked /Game/FBX/Mason/Road_Sidewalk_Curb_Corner.
+[2024.04.19-18.41.26:474][675]LogConcert: Display: Synced activity '217' produced by endpoint '80B4926C4ACA717114629DA574A5CE06': Jacob locked /Game/FBX/Mason/Road_Median.
+[2024.04.19-18.41.26:474][675]LogConcert: Display: Synced activity '218' produced by endpoint '80B4926C4ACA717114629DA574A5CE06': Jacob added package /Game/FBX/Mason/Road_Median.
+[2024.04.19-18.41.26:474][675]LogConcert: Display: Synced activity '219' produced by endpoint '80B4926C4ACA717114629DA574A5CE06': Jacob unlocked /Game/FBX/Mason/Road_Median.
+[2024.04.19-18.41.26:475][675]LogConcert: Display: Synced activity '220' produced by endpoint '80B4926C4ACA717114629DA574A5CE06': Jacob locked /Game/FBX/Mason/Road.
+[2024.04.19-18.41.26:475][675]LogConcert: Display: Synced activity '221' produced by endpoint '80B4926C4ACA717114629DA574A5CE06': Jacob added package /Game/FBX/Mason/Road.
+[2024.04.19-18.41.26:475][675]LogConcert: Display: Synced activity '222' produced by endpoint '80B4926C4ACA717114629DA574A5CE06': Jacob unlocked /Game/FBX/Mason/Road.
+[2024.04.19-18.41.26:481][675]AssetCheck: New page: Asset Save: multiple assets
+[2024.04.19-18.41.26:481][675]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/FBX/Mason/Road_SidewalkR_Stairs.Road_SidewalkR_Stairs
+[2024.04.19-18.41.26:481][675]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/FBX/Mason/Road_Sidewalk_Thick.Road_Sidewalk_Thick
+[2024.04.19-18.41.26:481][675]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/FBX/Mason/Road_Sidewalk_Curb_Corner.Road_Sidewalk_Curb_Corner
+[2024.04.19-18.41.26:481][675]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/FBX/Mason/Road_Median.Road_Median
+[2024.04.19-18.41.26:481][675]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/FBX/Mason/Road.Road
+[2024.04.19-18.41.39:141][ 31]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/FBX/Mason/Road.Road
+[2024.04.19-18.41.39:141][ 31]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/FBX/Mason/Road.Road
+[2024.04.19-18.41.39:142][ 31]LogActorFactory: Actor Factory spawned StaticMesh /Game/FBX/Mason/Road.Road as actor: StaticMeshActor /Game/Scenes/CyberPlace.CyberPlace:PersistentLevel.StaticMeshActor_3
+[2024.04.19-18.41.40:731][ 91]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/FBX/Mason/Road.Road
+[2024.04.19-18.41.40:731][ 91]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/FBX/Mason/Road.Road
+[2024.04.19-18.41.40:733][ 91]LogActorFactory: Actor Factory spawned StaticMesh /Game/FBX/Mason/Road.Road as actor: StaticMeshActor /Game/Scenes/CyberPlace.CyberPlace:PersistentLevel.StaticMeshActor_4
+[2024.04.19-18.41.41:139][ 94]LogConcert: Display: Synced activity '223' produced by endpoint '80B4926C4ACA717114629DA574A5CE06': Jacob created StaticMeshActor_4 in /Game/Scenes/CyberPlace.
+[2024.04.19-18.41.42:762][138]LogConcert: Display: Synced activity '224' produced by endpoint '80B4926C4ACA717114629DA574A5CE06': Jacob modified StaticMeshActor_4.StaticMeshComponent0 in /Game/Scenes/CyberPlace.
+[2024.04.19-18.41.45:230][200]LogViewport: Scene viewport resized to 3056x1725, mode Windowed.
+[2024.04.19-18.42.13:744][ 17]Cmd: DELETE
+[2024.04.19-18.42.13:745][ 17]Cmd: ACTOR DELETE
+[2024.04.19-18.42.13:761][ 17]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.04.19-18.42.13:790][ 17]LogUObjectHash: Compacting FUObjectHashTables data took   1.90ms
+[2024.04.19-18.42.13:796][ 17]LogEditorActor: Deleted 1 Actors (0.051 secs)
+[2024.04.19-18.42.13:847][ 20]LogConcert: Display: Synced activity '225' produced by endpoint '80B4926C4ACA717114629DA574A5CE06': Jacob deleted StaticMeshActor_4 in /Game/Scenes/CyberPlace.
+[2024.04.19-18.42.15:344][ 66]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/FBX/Mason/Road_Median.Road_Median
+[2024.04.19-18.42.15:344][ 66]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/FBX/Mason/Road_Median.Road_Median
+[2024.04.19-18.42.15:345][ 66]LogActorFactory: Actor Factory spawned StaticMesh /Game/FBX/Mason/Road_Median.Road_Median as actor: StaticMeshActor /Game/Scenes/CyberPlace.CyberPlace:PersistentLevel.StaticMeshActor_6
+[2024.04.19-18.42.15:663][ 80]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/FBX/Mason/Road_Median.Road_Median
+[2024.04.19-18.42.15:663][ 80]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/FBX/Mason/Road_Median.Road_Median
+[2024.04.19-18.42.15:666][ 80]LogActorFactory: Actor Factory spawned StaticMesh /Game/FBX/Mason/Road_Median.Road_Median as actor: StaticMeshActor /Game/Scenes/CyberPlace.CyberPlace:PersistentLevel.StaticMeshActor_10
+[2024.04.19-18.42.16:119][ 83]LogConcert: Display: Synced activity '226' produced by endpoint '80B4926C4ACA717114629DA574A5CE06': Jacob created StaticMeshActor_10 in /Game/Scenes/CyberPlace.
+[2024.04.19-18.42.22:292][261]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/FBX/Mason/Road_Sidewalk_Curb_Corner.Road_Sidewalk_Curb_Corner
+[2024.04.19-18.42.22:293][261]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/FBX/Mason/Road_Sidewalk_Curb_Corner.Road_Sidewalk_Curb_Corner
+[2024.04.19-18.42.22:293][261]LogActorFactory: Actor Factory spawned StaticMesh /Game/FBX/Mason/Road_Sidewalk_Curb_Corner.Road_Sidewalk_Curb_Corner as actor: StaticMeshActor /Game/Scenes/CyberPlace.CyberPlace:PersistentLevel.StaticMeshActor_11
+[2024.04.19-18.42.24:918][391]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/FBX/Mason/Road_Sidewalk_Curb_Corner.Road_Sidewalk_Curb_Corner
+[2024.04.19-18.42.24:918][391]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/FBX/Mason/Road_Sidewalk_Curb_Corner.Road_Sidewalk_Curb_Corner
+[2024.04.19-18.42.24:921][391]LogActorFactory: Actor Factory spawned StaticMesh /Game/FBX/Mason/Road_Sidewalk_Curb_Corner.Road_Sidewalk_Curb_Corner as actor: StaticMeshActor /Game/Scenes/CyberPlace.CyberPlace:PersistentLevel.StaticMeshActor_12
+[2024.04.19-18.42.25:321][394]LogConcert: Display: Synced activity '227' produced by endpoint '80B4926C4ACA717114629DA574A5CE06': Jacob created StaticMeshActor_12 in /Game/Scenes/CyberPlace.
+[2024.04.19-18.42.31:732][558]Cmd: DELETE
+[2024.04.19-18.42.31:732][558]Cmd: ACTOR DELETE
+[2024.04.19-18.42.31:742][558]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.04.19-18.42.31:744][558]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.04.19-18.42.31:777][558]LogUObjectHash: Compacting FUObjectHashTables data took   2.53ms
+[2024.04.19-18.42.31:782][558]LogEditorActor: Deleted 2 Actors (0.050 secs)
+[2024.04.19-18.42.31:861][562]LogConcert: Display: Synced activity '228' produced by endpoint '80B4926C4ACA717114629DA574A5CE06': Jacob deleted StaticMeshActor_10 in /Game/Scenes/CyberPlace, plus 1 other action.
+[2024.04.19-18.42.36:415][704]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.19-18.42.36:550][704]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FBX/Mason/Road" FILE="D:/CyberPlace/Port5_Cyberpunk/Content/FBX/Mason/Road.uasset" SILENT=true
+[2024.04.19-18.42.36:554][704]LogSavePackage: Moving output files for package: /Game/FBX/Mason/Road
+[2024.04.19-18.42.36:554][704]LogSavePackage: Moving 'D:/CyberPlace/Port5_Cyberpunk/Saved/RoadBCBA42774B931FA7DFBEF7929CFA1975.tmp' to 'D:/CyberPlace/Port5_Cyberpunk/Content/FBX/Mason/Road.uasset'
+[2024.04.19-18.42.36:567][704]LogFileHelpers: InternalPromptForCheckoutAndSave took 151 ms (total: 15.8 sec)
+[2024.04.19-18.42.36:570][704]AssetCheck: New page: Asset Save: Road
+[2024.04.19-18.42.36:570][704]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/FBX/Mason/Road.Road
+[2024.04.19-18.42.36:611][706]LogConcert: Display: Synced activity '229' produced by endpoint '80B4926C4ACA717114629DA574A5CE06': Jacob saved package /Game/FBX/Mason/Road.
+[2024.04.19-18.42.38:130][748]LogUObjectHash: Compacting FUObjectHashTables data took   1.78ms
+[2024.04.19-18.42.38:138][748]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.19-18.42.38:229][748]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
+[2024.04.19-18.42.38:231][748]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Scenes/CyberPlace" FILE="D:/CyberPlace/Port5_Cyberpunk/Content/Scenes/CyberPlace.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.04.19-18.42.38:298][748]LogUObjectHash: Compacting FUObjectHashTables data took   1.85ms
+[2024.04.19-18.42.38:466][748]LogSavePackage: Moving output files for package: /Game/Scenes/CyberPlace
+[2024.04.19-18.42.38:466][748]LogSavePackage: Moving 'D:/CyberPlace/Port5_Cyberpunk/Saved/CyberPlaceE0BB8396498A3EAE465C8BBF9D6CE81C.tmp' to 'D:/CyberPlace/Port5_Cyberpunk/Content/Scenes/CyberPlace.umap'
+[2024.04.19-18.42.38:483][748]LogFileHelpers: Saving map 'CyberPlace' took 0.253
+[2024.04.19-18.42.38:484][748]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Scenes/Mason" FILE="D:/CyberPlace/Port5_Cyberpunk/Content/Scenes/Mason.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.04.19-18.42.38:508][748]LogUObjectHash: Compacting FUObjectHashTables data took   1.74ms
+[2024.04.19-18.42.38:515][748]LogSavePackage: Moving output files for package: /Game/Scenes/Mason
+[2024.04.19-18.42.38:516][748]LogSavePackage: Moving 'D:/CyberPlace/Port5_Cyberpunk/Saved/Mason9691079D4A3FFC62C7440D8743460131.tmp' to 'D:/CyberPlace/Port5_Cyberpunk/Content/Scenes/Mason.umap'
+[2024.04.19-18.42.38:526][748]LogFileHelpers: Saving map 'Mason' took 0.042
+[2024.04.19-18.42.38:527][748]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Scenes/Jacob" FILE="D:/CyberPlace/Port5_Cyberpunk/Content/Scenes/Jacob.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.04.19-18.42.38:556][748]LogUObjectHash: Compacting FUObjectHashTables data took   1.13ms
+[2024.04.19-18.42.38:567][748]LogSavePackage: Moving output files for package: /Game/Scenes/Jacob
+[2024.04.19-18.42.38:568][748]LogSavePackage: Moving 'D:/CyberPlace/Port5_Cyberpunk/Saved/Jacob4643F71D44CE52EDBD0FF9BA69F3BD43.tmp' to 'D:/CyberPlace/Port5_Cyberpunk/Content/Scenes/Jacob.umap'
+[2024.04.19-18.42.38:576][748]LogFileHelpers: Saving map 'Jacob' took 0.051
+[2024.04.19-18.42.38:606][748]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/Jacob/CM_ApartmentGlass" FILE="D:/CyberPlace/Port5_Cyberpunk/Content/Materials/Jacob/CM_ApartmentGlass.uasset" SILENT=true
+[2024.04.19-18.42.38:611][748]LogSavePackage: Moving output files for package: /Game/Materials/Jacob/CM_ApartmentGlass
+[2024.04.19-18.42.38:612][748]LogSavePackage: Moving 'D:/CyberPlace/Port5_Cyberpunk/Saved/CM_ApartmentGlass5F68BA4B4EFCB41BF16EEDA58CEFB5B3.tmp' to 'D:/CyberPlace/Port5_Cyberpunk/Content/Materials/Jacob/CM_ApartmentGlass.uasset'
+[2024.04.19-18.42.38:636][748]LogSavePackage: Moving output files for package: /Game/FBX/JacobBuildBlocks/CloseGlassBuild/BottomGlassClose
+[2024.04.19-18.42.38:637][748]LogSavePackage: Moving 'D:/CyberPlace/Port5_Cyberpunk/Saved/BottomGlassCloseB607DC20416BFF6386FD39B7A73B7F5A.tmp' to 'D:/CyberPlace/Port5_Cyberpunk/Content/FBX/JacobBuildBlocks/CloseGlassBuild/BottomGlassClose.uasset'
+[2024.04.19-18.42.38:654][748]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FBX/Mason/Road_SidewalkR_Stairs" FILE="D:/CyberPlace/Port5_Cyberpunk/Content/FBX/Mason/Road_SidewalkR_Stairs.uasset" SILENT=true
+[2024.04.19-18.42.38:664][748]LogSavePackage: Moving output files for package: /Game/FBX/Mason/Road_SidewalkR_Stairs
+[2024.04.19-18.42.38:665][748]LogSavePackage: Moving 'D:/CyberPlace/Port5_Cyberpunk/Saved/Road_SidewalkR_Stairs61E252EF40448F7769F75AB7063C4788.tmp' to 'D:/CyberPlace/Port5_Cyberpunk/Content/FBX/Mason/Road_SidewalkR_Stairs.uasset'
+[2024.04.19-18.42.38:681][748]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FBX/Mason/Road_Sidewalk_Thick" FILE="D:/CyberPlace/Port5_Cyberpunk/Content/FBX/Mason/Road_Sidewalk_Thick.uasset" SILENT=true
+[2024.04.19-18.42.38:688][748]LogSavePackage: Moving output files for package: /Game/FBX/Mason/Road_Sidewalk_Thick
+[2024.04.19-18.42.38:689][748]LogSavePackage: Moving 'D:/CyberPlace/Port5_Cyberpunk/Saved/Road_Sidewalk_Thick5EF1FED14D44C9C32015CE95A38BF4A8.tmp' to 'D:/CyberPlace/Port5_Cyberpunk/Content/FBX/Mason/Road_Sidewalk_Thick.uasset'
+[2024.04.19-18.42.38:704][748]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FBX/Mason/Road_Sidewalk_Curb_Corner" FILE="D:/CyberPlace/Port5_Cyberpunk/Content/FBX/Mason/Road_Sidewalk_Curb_Corner.uasset" SILENT=true
+[2024.04.19-18.42.38:709][748]LogSavePackage: Moving output files for package: /Game/FBX/Mason/Road_Sidewalk_Curb_Corner
+[2024.04.19-18.42.38:709][748]LogSavePackage: Moving 'D:/CyberPlace/Port5_Cyberpunk/Saved/Road_Sidewalk_Curb_Corner283B2DF1445871A698EEC499175AF31B.tmp' to 'D:/CyberPlace/Port5_Cyberpunk/Content/FBX/Mason/Road_Sidewalk_Curb_Corner.uasset'
+[2024.04.19-18.42.38:726][748]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FBX/Mason/Road_Median" FILE="D:/CyberPlace/Port5_Cyberpunk/Content/FBX/Mason/Road_Median.uasset" SILENT=true
+[2024.04.19-18.42.38:730][748]LogSavePackage: Moving output files for package: /Game/FBX/Mason/Road_Median
+[2024.04.19-18.42.38:731][748]LogSavePackage: Moving 'D:/CyberPlace/Port5_Cyberpunk/Saved/Road_MedianA22CDC084AFC0A553D1E99812768E2C4.tmp' to 'D:/CyberPlace/Port5_Cyberpunk/Content/FBX/Mason/Road_Median.uasset'
+[2024.04.19-18.42.38:741][748]LogFileHelpers: InternalPromptForCheckoutAndSave took 602 ms (total: 16.4 sec)
+[2024.04.19-18.42.38:750][748]AssetCheck: New page: Asset Save: multiple assets
+[2024.04.19-18.42.38:751][748]LogContentValidation: Display: Validating /Script/Engine.World /Game/Scenes/CyberPlace.CyberPlace
+[2024.04.19-18.42.38:751][748]LogContentValidation: Display: Validating /Script/Engine.World /Game/Scenes/Mason.Mason
+[2024.04.19-18.42.38:751][748]LogContentValidation: Display: Validating /Script/Engine.World /Game/Scenes/Jacob.Jacob
+[2024.04.19-18.42.38:751][748]LogContentValidation: Display: Validating /Script/Engine.MaterialInstanceConstant /Game/Materials/Jacob/CM_ApartmentGlass.CM_ApartmentGlass
+[2024.04.19-18.42.38:751][748]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/FBX/JacobBuildBlocks/CloseGlassBuild/BottomGlassClose.BottomGlassClose
+[2024.04.19-18.42.38:751][748]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/FBX/Mason/Road_SidewalkR_Stairs.Road_SidewalkR_Stairs
+[2024.04.19-18.42.38:751][748]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/FBX/Mason/Road_Sidewalk_Thick.Road_Sidewalk_Thick
+[2024.04.19-18.42.38:751][748]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/FBX/Mason/Road_Sidewalk_Curb_Corner.Road_Sidewalk_Curb_Corner
+[2024.04.19-18.42.38:751][748]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/FBX/Mason/Road_Median.Road_Median
+[2024.04.19-18.42.38:811][750]LogConcert: Display: Synced activity '230' produced by endpoint '80B4926C4ACA717114629DA574A5CE06': Jacob saved package /Game/Scenes/CyberPlace.
+[2024.04.19-18.42.38:812][750]LogConcert: Display: Synced activity '231' produced by endpoint '80B4926C4ACA717114629DA574A5CE06': Jacob saved package /Game/Scenes/Mason.
+[2024.04.19-18.42.38:813][750]LogConcert: Display: Synced activity '232' produced by endpoint '80B4926C4ACA717114629DA574A5CE06': Jacob saved package /Game/Scenes/Jacob.
+[2024.04.19-18.42.38:845][751]LogConcert: Display: Synced activity '233' produced by endpoint '80B4926C4ACA717114629DA574A5CE06': Jacob saved package /Game/Materials/Jacob/CM_ApartmentGlass.
+[2024.04.19-18.42.38:846][751]LogConcert: Display: Synced activity '234' produced by endpoint '80B4926C4ACA717114629DA574A5CE06': Jacob unlocked /Game/Materials/Jacob/CM_ApartmentGlass.
+[2024.04.19-18.42.38:846][751]LogConcert: Display: Synced activity '235' produced by endpoint '80B4926C4ACA717114629DA574A5CE06': Jacob saved package /Game/FBX/JacobBuildBlocks/CloseGlassBuild/BottomGlassClose.
+[2024.04.19-18.42.38:847][751]LogConcert: Display: Synced activity '236' produced by endpoint '80B4926C4ACA717114629DA574A5CE06': Jacob unlocked /Game/FBX/JacobBuildBlocks/CloseGlassBuild/BottomGlassClose.
+[2024.04.19-18.42.38:847][751]LogConcert: Display: Synced activity '237' produced by endpoint '80B4926C4ACA717114629DA574A5CE06': Jacob saved package /Game/FBX/Mason/Road_SidewalkR_Stairs.
+[2024.04.19-18.42.38:848][751]LogConcert: Display: Synced activity '238' produced by endpoint '80B4926C4ACA717114629DA574A5CE06': Jacob saved package /Game/FBX/Mason/Road_Sidewalk_Thick.
+[2024.04.19-18.42.38:849][751]LogConcert: Display: Synced activity '239' produced by endpoint '80B4926C4ACA717114629DA574A5CE06': Jacob saved package /Game/FBX/Mason/Road_Sidewalk_Curb_Corner.
+[2024.04.19-18.42.38:849][751]LogConcert: Display: Synced activity '240' produced by endpoint '80B4926C4ACA717114629DA574A5CE06': Jacob saved package /Game/FBX/Mason/Road_Median.
+[2024.04.19-18.42.48:652][998]LogEditorFactories: Performing atomic reimport of [C:/Users/castudent/Downloads/Road (1).fbx]
+[2024.04.19-18.42.48:663][998]LogFbx: Loading FBX Scene from C:/Users/castudent/Downloads/Road (1).fbx
+[2024.04.19-18.42.48:672][998]LogFbx: FBX Scene Loaded Succesfully
+[2024.04.19-18.42.48:733][998]LogFbx: Display: Triangulating static mesh Road
+[2024.04.19-18.42.48:745][998]LogStaticMesh: Display: Building static mesh Road...
+[2024.04.19-18.42.48:819][998]LogStaticMesh: Built static mesh [0.07s] /Game/FBX/Mason/Road.Road
+[2024.04.19-18.42.48:841][998]LogEditorFactories: -- imported successfully
+[2024.04.19-18.42.49:055][998]LogAutomationController: Ignoring very large delta of 2.40 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2024.04.19-18.42.49:057][999]LogConcert: Display: Synced activity '241' produced by endpoint '80B4926C4ACA717114629DA574A5CE06': Jacob locked /Game/FBX/Mason/Road.
+[2024.04.19-18.42.50:850][ 43]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.19-18.42.50:953][ 43]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FBX/Mason/Road" FILE="D:/CyberPlace/Port5_Cyberpunk/Content/FBX/Mason/Road.uasset" SILENT=true
+[2024.04.19-18.42.50:959][ 43]LogSavePackage: Moving output files for package: /Game/FBX/Mason/Road
+[2024.04.19-18.42.50:959][ 43]LogSavePackage: Moving 'D:/CyberPlace/Port5_Cyberpunk/Saved/Road5AF3649E4D818616F5BD98B0B28C06E4.tmp' to 'D:/CyberPlace/Port5_Cyberpunk/Content/FBX/Mason/Road.uasset'
+[2024.04.19-18.42.50:976][ 43]LogFileHelpers: InternalPromptForCheckoutAndSave took 125 ms (total: 16.5 sec)
+[2024.04.19-18.42.50:978][ 43]AssetCheck: New page: Asset Save: Road
+[2024.04.19-18.42.50:978][ 43]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/FBX/Mason/Road.Road
+[2024.04.19-18.42.51:068][ 45]LogConcert: Display: Synced activity '242' produced by endpoint '80B4926C4ACA717114629DA574A5CE06': Jacob saved package /Game/FBX/Mason/Road.
+[2024.04.19-18.42.51:069][ 45]LogConcert: Display: Synced activity '243' produced by endpoint '80B4926C4ACA717114629DA574A5CE06': Jacob unlocked /Game/FBX/Mason/Road.
+[2024.04.19-18.42.52:715][ 90]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/FBX/Mason/Road.Road
+[2024.04.19-18.42.52:715][ 90]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/FBX/Mason/Road.Road
+[2024.04.19-18.42.52:716][ 90]LogActorFactory: Actor Factory spawned StaticMesh /Game/FBX/Mason/Road.Road as actor: StaticMeshActor /Game/Scenes/CyberPlace.CyberPlace:PersistentLevel.StaticMeshActor_13
+[2024.04.19-18.42.54:334][180]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/FBX/Mason/Road.Road
+[2024.04.19-18.42.54:334][180]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/FBX/Mason/Road.Road
+[2024.04.19-18.42.54:335][180]LogActorFactory: Actor Factory spawned StaticMesh /Game/FBX/Mason/Road.Road as actor: StaticMeshActor /Game/Scenes/CyberPlace.CyberPlace:PersistentLevel.StaticMeshActor_14
+[2024.04.19-18.42.55:117][209]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/FBX/Mason/Road.Road
+[2024.04.19-18.42.55:117][209]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/FBX/Mason/Road.Road
+[2024.04.19-18.42.55:119][209]LogActorFactory: Actor Factory spawned StaticMesh /Game/FBX/Mason/Road.Road as actor: StaticMeshActor /Game/Scenes/CyberPlace.CyberPlace:PersistentLevel.StaticMeshActor_31
+[2024.04.19-18.42.55:590][212]LogConcert: Display: Synced activity '244' produced by endpoint '80B4926C4ACA717114629DA574A5CE06': Jacob created StaticMeshActor_31 in /Game/Scenes/CyberPlace.
+[2024.04.19-18.42.57:793][280]Cmd: DELETE
+[2024.04.19-18.42.57:794][280]Cmd: ACTOR DELETE
+[2024.04.19-18.42.57:810][280]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.04.19-18.42.57:843][280]LogUObjectHash: Compacting FUObjectHashTables data took   2.11ms
+[2024.04.19-18.42.57:848][280]LogEditorActor: Deleted 1 Actors (0.054 secs)
+[2024.04.19-18.42.57:893][283]LogConcert: Display: Synced activity '245' produced by endpoint '80B4926C4ACA717114629DA574A5CE06': Jacob deleted StaticMeshActor_31 in /Game/Scenes/CyberPlace.
+[2024.04.19-18.43.05:112][535]LogUObjectHash: Compacting FUObjectHashTables data took   2.09ms
+[2024.04.19-18.43.05:120][535]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.19-18.43.05:255][535]LogUObjectHash: Compacting FUObjectHashTables data took   1.23ms
+[2024.04.19-18.43.05:257][535]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Scenes/CyberPlace" FILE="D:/CyberPlace/Port5_Cyberpunk/Content/Scenes/CyberPlace.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.04.19-18.43.05:317][535]LogUObjectHash: Compacting FUObjectHashTables data took   1.46ms
+[2024.04.19-18.43.05:505][535]LogSavePackage: Moving output files for package: /Game/Scenes/CyberPlace
+[2024.04.19-18.43.05:506][535]LogSavePackage: Moving 'D:/CyberPlace/Port5_Cyberpunk/Saved/CyberPlace683276C24D67771528BC7BB4B377CD47.tmp' to 'D:/CyberPlace/Port5_Cyberpunk/Content/Scenes/CyberPlace.umap'
+[2024.04.19-18.43.05:524][535]LogFileHelpers: Saving map 'CyberPlace' took 0.269
+[2024.04.19-18.43.05:566][535]LogFileHelpers: InternalPromptForCheckoutAndSave took 446 ms (total: 17.0 sec)
+[2024.04.19-18.43.05:575][535]AssetCheck: New page: Asset Save: CyberPlace
+[2024.04.19-18.43.05:575][535]LogContentValidation: Display: Validating /Script/Engine.World /Game/Scenes/CyberPlace.CyberPlace
+[2024.04.19-18.43.05:625][538]LogConcert: Display: Synced activity '246' produced by endpoint '80B4926C4ACA717114629DA574A5CE06': Jacob saved package /Game/Scenes/CyberPlace.
+[2024.04.19-18.43.31:434][387]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/FBX/Mason/Road.Road
+[2024.04.19-18.43.31:434][387]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/FBX/Mason/Road.Road
+[2024.04.19-18.43.31:435][387]LogActorFactory: Actor Factory spawned StaticMesh /Game/FBX/Mason/Road.Road as actor: StaticMeshActor /Game/Scenes/CyberPlace.CyberPlace:PersistentLevel.StaticMeshActor_33
+[2024.04.19-18.43.31:891][409]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/FBX/Mason/Road.Road
+[2024.04.19-18.43.31:891][409]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/FBX/Mason/Road.Road
+[2024.04.19-18.43.31:895][409]LogActorFactory: Actor Factory spawned StaticMesh /Game/FBX/Mason/Road.Road as actor: StaticMeshActor /Game/Scenes/CyberPlace.CyberPlace:PersistentLevel.StaticMeshActor_34
+[2024.04.19-18.43.32:352][412]LogConcert: Display: Synced activity '247' produced by endpoint '80B4926C4ACA717114629DA574A5CE06': Jacob created StaticMeshActor_34 in /Game/Scenes/CyberPlace.
+[2024.04.19-18.43.34:010][467]LogConcert: Display: Synced activity '248' produced by endpoint '80B4926C4ACA717114629DA574A5CE06': Jacob modified StaticMeshActor_34.StaticMeshComponent0 in /Game/Scenes/CyberPlace.
+[2024.04.19-18.43.37:617][574]Cmd: DELETE
+[2024.04.19-18.43.37:617][574]Cmd: ACTOR DELETE
+[2024.04.19-18.43.37:639][574]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.04.19-18.43.37:682][574]LogUObjectHash: Compacting FUObjectHashTables data took   1.36ms
+[2024.04.19-18.43.37:687][574]LogEditorActor: Deleted 1 Actors (0.069 secs)
+[2024.04.19-18.43.37:748][578]LogConcert: Display: Synced activity '249' produced by endpoint '80B4926C4ACA717114629DA574A5CE06': Jacob deleted StaticMeshActor_34 in /Game/Scenes/CyberPlace.
