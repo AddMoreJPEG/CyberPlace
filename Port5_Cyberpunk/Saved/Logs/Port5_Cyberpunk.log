@@ -1591,3 +1591,339 @@ LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
 [2024.04.19-21.47.02:748][383]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
 [2024.04.19-21.47.04:880][510]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
 [2024.04.19-21.47.09:287][768]LogViewport: Scene viewport resized to 1345x706, mode Windowed.
+[2024.04.19-21.55.24:258][444]LogViewport: Scene viewport resized to 758x419, mode Windowed.
+[2024.04.19-21.55.24:269][444]LogViewport: Scene viewport resized to 758x419, mode Windowed.
+[2024.04.19-21.55.24:312][444]LogViewport: Scene viewport resized to 758x419, mode Windowed.
+[2024.04.19-21.55.24:403][445]LogViewport: Scene viewport resized to 1504x790, mode Windowed.
+[2024.04.19-21.55.24:440][446]LogViewport: Scene viewport resized to 1682x884, mode Windowed.
+[2024.04.19-21.55.26:797][576]LogViewport: Scene viewport resized to 1924x885, mode Windowed.
+[2024.04.19-21.55.28:569][678]LogViewport: Scene viewport resized to 1830x885, mode Windowed.
+[2024.04.19-21.55.28:584][679]LogViewport: Scene viewport resized to 1759x843, mode Windowed.
+[2024.04.19-21.55.28:610][680]LogViewport: Scene viewport resized to 1665x811, mode Windowed.
+[2024.04.19-21.55.28:640][681]LogViewport: Scene viewport resized to 1594x770, mode Windowed.
+[2024.04.19-21.55.28:666][682]LogViewport: Scene viewport resized to 1554x738, mode Windowed.
+[2024.04.19-21.55.28:723][683]LogViewport: Scene viewport resized to 1525x720, mode Windowed.
+[2024.04.19-21.55.28:772][684]LogViewport: Scene viewport resized to 1523x707, mode Windowed.
+[2024.04.19-21.56.07:387][453]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\jakec\Downloads\Building_R2_Combined.fbx)
+[2024.04.19-21.56.07:394][453]LogFbx: Loading FBX Scene from C:\Users\jakec\Downloads\Building_R2_Combined.fbx
+[2024.04.19-21.56.07:418][453]LogFbx: FBX Scene Loaded Succesfully
+[2024.04.19-21.56.09:449][453]LogSlate: Window 'FBX Import Options' being destroyed
+[2024.04.19-21.56.09:624][453]LogFbx: Display: Triangulating static mesh Building_R2_Combined
+[2024.04.19-21.56.10:451][453]LogStaticMesh: Display: Building static mesh Building_R2_Combined...
+[2024.04.19-21.56.10:831][453]LogStaticMesh: Built static mesh [0.38s] /Game/FBX/Mason/Building_R2_Combined.Building_R2_Combined
+[2024.04.19-21.56.12:166][453]LogMeshUtilities: Finished distance field build in 1.3s - 126x126x126 sparse distance field, 2.0Mb total, 0.1Mb always loaded, 57% occupied, 16244 triangles, Building_R2_Combined
+[2024.04.19-21.56.13:688][528]LogMeshUtilities: Finished distance field build in 1.4s - 126x126x126 sparse distance field, 2.0Mb total, 0.1Mb always loaded, 57% occupied, 16244 triangles, Building_R2_Combined
+[2024.04.19-21.56.16:925][715]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2024.04.19-21.56.28:166][370]Cmd: DELETE
+[2024.04.19-21.56.28:167][370]Cmd: ACTOR DELETE
+[2024.04.19-21.56.28:188][370]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.04.19-21.56.28:197][370]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2024.04.19-21.56.28:201][370]LogEditorActor: Deleted 1 Actors (0.023 secs)
+[2024.04.19-21.56.31:077][534]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/FBX/Mason/Building_R2_Combined.Building_R2_Combined
+[2024.04.19-21.56.31:078][534]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/FBX/Mason/Building_R2_Combined.Building_R2_Combined
+[2024.04.19-21.56.31:079][534]LogActorFactory: Actor Factory spawned StaticMesh /Game/FBX/Mason/Building_R2_Combined.Building_R2_Combined as actor: StaticMeshActor /Game/Scenes/CyberPlace.CyberPlace:PersistentLevel.StaticMeshActor_162
+[2024.04.19-21.56.31:931][585]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/FBX/Mason/Building_R2_Combined.Building_R2_Combined
+[2024.04.19-21.56.31:931][585]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/FBX/Mason/Building_R2_Combined.Building_R2_Combined
+[2024.04.19-21.56.31:932][585]LogActorFactory: Actor Factory spawned StaticMesh /Game/FBX/Mason/Building_R2_Combined.Building_R2_Combined as actor: StaticMeshActor /Game/Scenes/CyberPlace.CyberPlace:PersistentLevel.StaticMeshActor_163
+[2024.04.19-21.56.48:064][511]Cmd: DELETE
+[2024.04.19-21.56.48:064][511]Cmd: ACTOR DELETE
+[2024.04.19-21.56.48:068][511]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.04.19-21.56.48:072][511]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2024.04.19-21.56.48:075][511]LogEditorActor: Deleted 1 Actors (0.012 secs)
+[2024.04.19-21.57.08:069][681]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.19-21.57.08:218][681]LogD3D12RHI: Warning: Waited for PSO creation for 100.000000ms
+[2024.04.19-21.57.08:309][682]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.19-21.57.08:334][683]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.19-21.57.08:353][684]LogShaderCompilers: Display: ================================================
+[2024.04.19-21.57.08:353][684]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.04.19-21.57.08:353][684]LogShaderCompilers: Display: Total job queries 164, among them cache hits 87 (53.05%)
+[2024.04.19-21.57.08:353][684]LogShaderCompilers: Display: Tracking 73 distinct input hashes that result in 34 distinct outputs (46.58%)
+[2024.04.19-21.57.08:353][684]LogShaderCompilers: Display: RAM used: 2.21 MiB of 819.20 MiB budget. Usage: 0.27%
+[2024.04.19-21.57.08:353][684]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.04.19-21.57.08:353][684]LogShaderCompilers: Display: Shaders Compiled: 40
+[2024.04.19-21.57.08:353][684]LogShaderCompilers: Display: Jobs assigned 40, completed 40 (100%)
+[2024.04.19-21.57.08:353][684]LogShaderCompilers: Display: Average time worker was idle: 2.02 s
+[2024.04.19-21.57.08:353][684]LogShaderCompilers: Display: Time job spent in pending queue: average 0.51 s, longest 2.72 s
+[2024.04.19-21.57.08:353][684]LogShaderCompilers: Display: Job execution time: average 1.01 s, max 2.58 s
+[2024.04.19-21.57.08:353][684]LogShaderCompilers: Display: Job life time (pending + execution): average 1.52 s, max 4.34
+[2024.04.19-21.57.08:353][684]LogShaderCompilers: Display: Shader code size: average 63.367 KiB, min 29.746 KiB, max 98.832 KiB
+[2024.04.19-21.57.08:353][684]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 11.57 s
+[2024.04.19-21.57.08:353][684]LogShaderCompilers: Display: Jobs were issued in 40 batches (only local compilation was used), average 1.00 jobs/batch
+[2024.04.19-21.57.08:353][684]LogShaderCompilers: Display: Average processing rate: 3.46 jobs/sec
+[2024.04.19-21.57.08:353][684]LogShaderCompilers: Display: Total thread time: 35.986 s
+[2024.04.19-21.57.08:353][684]LogShaderCompilers: Display: Total thread preprocess time: 1.184 s
+[2024.04.19-21.57.08:353][684]LogShaderCompilers: Display: Percentage time preprocessing: 3.29%
+[2024.04.19-21.57.08:353][684]LogShaderCompilers: Display: Effective parallelization: 3.11 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2024.04.19-21.57.08:353][684]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2024.04.19-21.57.08:353][684]LogShaderCompilers: Display:                TBasePassPSFCachedPointIndirectLightingPolicy (compiled    1 times, average 2.29 sec, max 2.29 sec, min 2.29 sec)
+[2024.04.19-21.57.08:353][684]LogShaderCompilers: Display:      TBasePassPSFPrecomputedVolumetricLightmapLightingPolicy (compiled    1 times, average 2.29 sec, max 2.29 sec, min 2.29 sec)
+[2024.04.19-21.57.08:353][684]LogShaderCompilers: Display:             TBasePassPSFSelfShadowedVolumetricLightmapPolicy (compiled    1 times, average 2.25 sec, max 2.25 sec, min 2.25 sec)
+[2024.04.19-21.57.08:353][684]LogShaderCompilers: Display:     TBasePassPSFSelfShadowedVolumetricLightmapPolicySkylight (compiled    1 times, average 2.25 sec, max 2.25 sec, min 2.25 sec)
+[2024.04.19-21.57.08:353][684]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight (compiled    1 times, average 2.24 sec, max 2.24 sec, min 2.24 sec)
+[2024.04.19-21.57.08:353][684]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2024.04.19-21.57.08:353][684]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight - 17.67% of total time (compiled    3 times, average 2.12 sec, max 2.21 sec, min 2.07 sec)
+[2024.04.19-21.57.08:353][684]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 8.24% of total time (compiled    4 times, average 0.74 sec, max 2.21 sec, min 0.23 sec)
+[2024.04.19-21.57.08:353][684]LogShaderCompilers: Display:                TBasePassPSFCachedPointIndirectLightingPolicy - 6.37% of total time (compiled    1 times, average 2.29 sec, max 2.29 sec, min 2.29 sec)
+[2024.04.19-21.57.08:353][684]LogShaderCompilers: Display:      TBasePassPSFPrecomputedVolumetricLightmapLightingPolicy - 6.36% of total time (compiled    1 times, average 2.29 sec, max 2.29 sec, min 2.29 sec)
+[2024.04.19-21.57.08:353][684]LogShaderCompilers: Display:             TBasePassPSFSelfShadowedVolumetricLightmapPolicy - 6.25% of total time (compiled    1 times, average 2.25 sec, max 2.25 sec, min 2.25 sec)
+[2024.04.19-21.57.08:353][684]LogShaderCompilers: Display: ================================================
+[2024.04.19-21.57.08:418][688]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.19-21.57.24:176][618]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.19-21.57.24:273][621]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/BluePrints/Jacob/GarageRight.GarageRight_C
+[2024.04.19-21.57.24:273][621]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/BluePrints/Jacob/GarageRight.GarageRight_C
+[2024.04.19-21.57.24:277][621]LogActorFactory: Actor Factory spawned Blueprint /Game/BluePrints/Jacob/GarageRight.GarageRight as actor: GarageRight_C /Game/Scenes/CyberPlace.CyberPlace:PersistentLevel.GarageRight_C_0
+[2024.04.19-21.57.24:280][621]LogActorFactory: Actor Factory spawned Blueprint /Game/BluePrints/Jacob/GarageRight.GarageRight as actor: GarageRight_C /Game/Scenes/CyberPlace.CyberPlace:PersistentLevel.GarageRight_C_0
+[2024.04.19-21.57.24:287][621]LogActorFactory: Loading ActorFactory Class /Script/Engine.LevelInstance
+[2024.04.19-21.57.26:040][726]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/BluePrints/Jacob/GarageRight.GarageRight_C
+[2024.04.19-21.57.26:040][726]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/BluePrints/Jacob/GarageRight.GarageRight_C
+[2024.04.19-21.57.26:045][726]LogActorFactory: Actor Factory spawned Blueprint /Game/BluePrints/Jacob/GarageRight.GarageRight as actor: GarageRight_C /Game/Scenes/CyberPlace.CyberPlace:PersistentLevel.GarageRight_C_1
+[2024.04.19-21.57.26:047][726]LogActorFactory: Actor Factory spawned Blueprint /Game/BluePrints/Jacob/GarageRight.GarageRight as actor: GarageRight_C /Game/Scenes/CyberPlace.CyberPlace:PersistentLevel.GarageRight_C_1
+[2024.04.19-21.58.10:983][325]Cmd: DELETE
+[2024.04.19-21.58.10:983][325]Cmd: ACTOR DELETE
+[2024.04.19-21.58.10:988][325]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.04.19-21.58.10:989][325]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.04.19-21.58.10:997][325]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2024.04.19-21.58.11:003][325]LogEditorActor: Deleted 2 Actors (0.021 secs)
+[2024.04.19-21.58.21:327][925]Cmd: DELETE
+[2024.04.19-21.58.21:327][925]Cmd: ACTOR DELETE
+[2024.04.19-21.58.21:332][925]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.04.19-21.58.21:332][925]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.04.19-21.58.21:333][925]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.04.19-21.58.21:333][925]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.04.19-21.58.21:336][925]LogUObjectHash: Compacting FUObjectHashTables data took   0.30ms
+[2024.04.19-21.58.21:339][925]LogEditorActor: Deleted 4 Actors (0.013 secs)
+[2024.04.19-21.59.01:406][ 56]LogEditorFactories: Performing atomic reimport of [C:/Users/jakec/Downloads/Building_R2_Combined (1).fbx]
+[2024.04.19-21.59.01:412][ 56]LogFbx: Loading FBX Scene from C:/Users/jakec/Downloads/Building_R2_Combined (1).fbx
+[2024.04.19-21.59.01:434][ 56]LogFbx: FBX Scene Loaded Succesfully
+[2024.04.19-21.59.01:572][ 56]LogFbx: Display: Triangulating static mesh Building_R2_Combined
+[2024.04.19-21.59.02:403][ 56]LogStaticMesh: Display: Building static mesh Building_R2_Combined...
+[2024.04.19-21.59.02:850][ 56]LogStaticMesh: Built static mesh [0.45s] /Game/FBX/Mason/Building_R2_Combined.Building_R2_Combined
+[2024.04.19-21.59.03:020][ 56]LogEditorFactories: -- imported successfully
+[2024.04.19-21.59.04:230][ 56]LogMeshUtilities: Finished distance field build in 1.4s - 126x126x126 sparse distance field, 2.0Mb total, 0.1Mb always loaded, 57% occupied, 16244 triangles, Building_R2_Combined
+[2024.04.19-21.59.05:748][126]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2024.04.19-21.59.05:754][126]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.19-21.59.05:834][126]LogMeshUtilities: Finished distance field build in 1.5s - 126x126x126 sparse distance field, 2.0Mb total, 0.1Mb always loaded, 57% occupied, 16244 triangles, Building_R2_Combined
+[2024.04.19-21.59.05:846][126]LogUObjectHash: Compacting FUObjectHashTables data took   0.25ms
+[2024.04.19-21.59.05:924][126]LogSavePackage: Moving output files for package: /Game/Scenes/CyberPlace
+[2024.04.19-21.59.05:926][126]LogSavePackage: Moving '../../../../../../Users/jakec/OneDrive/Desktop/CyberPlace/Port5_Cyberpunk/Saved/CyberPlaceE1A2842A4BB445E28D4589A9DE93DDE7.tmp' to '../../../../../../Users/jakec/OneDrive/Desktop/CyberPlace/Port5_Cyberpunk/Content/Scenes/CyberPlace.umap'
+[2024.04.19-21.59.05:933][126]LogFileHelpers: Saving map 'CyberPlace' took 0.107
+[2024.04.19-21.59.05:981][126]LogSavePackage: Moving output files for package: /Game/FBX/Mason/Building_R2_Combined
+[2024.04.19-21.59.05:981][126]LogSavePackage: Moving '../../../../../../Users/jakec/OneDrive/Desktop/CyberPlace/Port5_Cyberpunk/Saved/Building_R2_CombinedC9CD3A934C0F4CC94DE3459D2AFC281E.tmp' to '../../../../../../Users/jakec/OneDrive/Desktop/CyberPlace/Port5_Cyberpunk/Content/FBX/Mason/Building_R2_Combined.uasset'
+[2024.04.19-21.59.05:992][126]LogFileHelpers: InternalPromptForCheckoutAndSave took 237 ms (total: 7.05 sec)
+[2024.04.19-21.59.05:997][126]AssetCheck: New page: Asset Save: multiple assets
+[2024.04.19-21.59.05:997][126]LogContentValidation: Display: Validating /Script/Engine.World /Game/Scenes/CyberPlace.CyberPlace
+[2024.04.19-21.59.05:997][126]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/FBX/Mason/Building_R2_Combined.Building_R2_Combined
+[2024.04.19-21.59.21:202][ 32]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/FBX/Mason/Building_R2_Combined.Building_R2_Combined
+[2024.04.19-21.59.21:269][ 32]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.19-21.59.21:269][ 32]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.19-21.59.21:727][ 32]LogViewport: Scene viewport resized to 1072x848, mode Windowed.
+[2024.04.19-21.59.58:326][177]LogSlate: Window 'Building_R2_Combined' being destroyed
+[2024.04.19-21.59.58:360][177]LogWorld: UWorld::CleanupWorld for World_31, bSessionEnded=true, bCleanupResources=true
+[2024.04.19-21.59.58:360][177]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.19-22.00.14:000][ 94]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/FBX/Mason/Building_R2_Combined.Building_R2_Combined
+[2024.04.19-22.00.14:000][ 94]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/FBX/Mason/Building_R2_Combined.Building_R2_Combined
+[2024.04.19-22.00.14:000][ 94]LogActorFactory: Actor Factory spawned StaticMesh /Game/FBX/Mason/Building_R2_Combined.Building_R2_Combined as actor: StaticMeshActor /Game/Scenes/CyberPlace.CyberPlace:PersistentLevel.StaticMeshActor_164
+[2024.04.19-22.00.15:206][166]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/FBX/Mason/Building_R2_Combined.Building_R2_Combined
+[2024.04.19-22.00.15:206][166]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/FBX/Mason/Building_R2_Combined.Building_R2_Combined
+[2024.04.19-22.00.15:206][166]LogActorFactory: Actor Factory spawned StaticMesh /Game/FBX/Mason/Building_R2_Combined.Building_R2_Combined as actor: StaticMeshActor /Game/Scenes/CyberPlace.CyberPlace:PersistentLevel.StaticMeshActor_166
+[2024.04.19-22.01.31:615][342]LogEditorFactories: Performing atomic reimport of [C:/Users/jakec/Downloads/Building_R2_Combined (2).fbx]
+[2024.04.19-22.01.31:621][342]LogFbx: Loading FBX Scene from C:/Users/jakec/Downloads/Building_R2_Combined (2).fbx
+[2024.04.19-22.01.31:642][342]LogFbx: FBX Scene Loaded Succesfully
+[2024.04.19-22.01.31:816][342]LogFbx: Display: Triangulating static mesh Building_R2_Combined
+[2024.04.19-22.01.32:631][342]LogStaticMesh: Display: Building static mesh Building_R2_Combined...
+[2024.04.19-22.01.33:073][342]LogStaticMesh: Built static mesh [0.44s] /Game/FBX/Mason/Building_R2_Combined.Building_R2_Combined
+[2024.04.19-22.01.33:258][342]LogEditorFactories: -- imported successfully
+[2024.04.19-22.01.34:559][342]LogMeshUtilities: Finished distance field build in 1.5s - 126x126x126 sparse distance field, 2.0Mb total, 0.1Mb always loaded, 56% occupied, 15350 triangles, Building_R2_Combined
+[2024.04.19-22.01.36:180][416]LogMeshUtilities: Finished distance field build in 1.6s - 126x126x126 sparse distance field, 2.0Mb total, 0.1Mb always loaded, 56% occupied, 15350 triangles, Building_R2_Combined
+[2024.04.19-22.01.36:279][422]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2024.04.19-22.01.36:287][422]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.19-22.01.36:360][422]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2024.04.19-22.01.36:439][422]LogSavePackage: Moving output files for package: /Game/Scenes/CyberPlace
+[2024.04.19-22.01.36:440][422]LogSavePackage: Moving '../../../../../../Users/jakec/OneDrive/Desktop/CyberPlace/Port5_Cyberpunk/Saved/CyberPlaceCB1131294BE8A54E98B4E6914F0A4752.tmp' to '../../../../../../Users/jakec/OneDrive/Desktop/CyberPlace/Port5_Cyberpunk/Content/Scenes/CyberPlace.umap'
+[2024.04.19-22.01.36:449][422]LogFileHelpers: Saving map 'CyberPlace' took 0.106
+[2024.04.19-22.01.36:498][422]LogSavePackage: Moving output files for package: /Game/FBX/Mason/Building_R2_Combined
+[2024.04.19-22.01.36:499][422]LogSavePackage: Moving '../../../../../../Users/jakec/OneDrive/Desktop/CyberPlace/Port5_Cyberpunk/Saved/Building_R2_CombinedC289DE9A42597B9257152CAF0F4682DF.tmp' to '../../../../../../Users/jakec/OneDrive/Desktop/CyberPlace/Port5_Cyberpunk/Content/FBX/Mason/Building_R2_Combined.uasset'
+[2024.04.19-22.01.36:510][422]LogFileHelpers: InternalPromptForCheckoutAndSave took 224 ms (total: 7.27 sec)
+[2024.04.19-22.01.36:512][422]AssetCheck: New page: Asset Save: multiple assets
+[2024.04.19-22.01.36:512][422]LogContentValidation: Display: Validating /Script/Engine.World /Game/Scenes/CyberPlace.CyberPlace
+[2024.04.19-22.01.36:512][422]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/FBX/Mason/Building_R2_Combined.Building_R2_Combined
+[2024.04.19-22.01.51:616][300]LogViewport: Scene viewport resized to 1345x706, mode Windowed.
+[2024.04.19-22.01.54:930][482]Cmd: ACTOR HIDE SELECTED
+[2024.04.19-22.01.56:075][549]Cmd: TRANSACTION UNDO
+[2024.04.19-22.01.56:075][549]LogEditorTransaction: Undo Hide Selected
+[2024.04.19-22.02.04:558][ 35]LogViewport: Scene viewport resized to 1523x707, mode Windowed.
+[2024.04.19-22.02.14:711][640]LogUObjectHash: Compacting FUObjectHashTables data took   0.25ms
+[2024.04.19-22.02.14:717][640]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.19-22.02.14:789][640]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2024.04.19-22.02.14:866][640]LogSavePackage: Moving output files for package: /Game/Scenes/CyberPlace
+[2024.04.19-22.02.14:867][640]LogSavePackage: Moving '../../../../../../Users/jakec/OneDrive/Desktop/CyberPlace/Port5_Cyberpunk/Saved/CyberPlace1C36D9774423700BE9773284CE9BC56E.tmp' to '../../../../../../Users/jakec/OneDrive/Desktop/CyberPlace/Port5_Cyberpunk/Content/Scenes/CyberPlace.umap'
+[2024.04.19-22.02.14:874][640]LogFileHelpers: Saving map 'CyberPlace' took 0.102
+[2024.04.19-22.02.14:883][640]LogFileHelpers: InternalPromptForCheckoutAndSave took 165 ms (total: 7.44 sec)
+[2024.04.19-22.02.14:887][640]AssetCheck: New page: Asset Save: CyberPlace
+[2024.04.19-22.02.14:887][640]LogContentValidation: Display: Validating /Script/Engine.World /Game/Scenes/CyberPlace.CyberPlace
+[2024.04.19-22.02.24:288][193]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/BluePrints/Jacob/ApartmentBuilding.ApartmentBuilding_C
+[2024.04.19-22.02.24:288][193]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/BluePrints/Jacob/ApartmentBuilding.ApartmentBuilding_C
+[2024.04.19-22.02.24:346][193]LogActorFactory: Actor Factory spawned Blueprint /Game/BluePrints/Jacob/ApartmentBuilding.ApartmentBuilding as actor: ApartmentBuilding_C /Game/Scenes/CyberPlace.CyberPlace:PersistentLevel.ApartmentBuilding_C_0
+[2024.04.19-22.02.24:408][193]LogActorFactory: Actor Factory spawned Blueprint /Game/BluePrints/Jacob/ApartmentBuilding.ApartmentBuilding as actor: ApartmentBuilding_C /Game/Scenes/CyberPlace.CyberPlace:PersistentLevel.ApartmentBuilding_C_0
+[2024.04.19-22.02.24:637][195]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/BluePrints/Jacob/ApartmentBuilding.ApartmentBuilding_C
+[2024.04.19-22.02.24:637][195]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/BluePrints/Jacob/ApartmentBuilding.ApartmentBuilding_C
+[2024.04.19-22.02.24:654][195]LogActorFactory: Actor Factory spawned Blueprint /Game/BluePrints/Jacob/ApartmentBuilding.ApartmentBuilding as actor: ApartmentBuilding_C /Game/Scenes/CyberPlace.CyberPlace:PersistentLevel.ApartmentBuilding_C_2
+[2024.04.19-22.02.24:719][195]LogActorFactory: Actor Factory spawned Blueprint /Game/BluePrints/Jacob/ApartmentBuilding.ApartmentBuilding as actor: ApartmentBuilding_C /Game/Scenes/CyberPlace.CyberPlace:PersistentLevel.ApartmentBuilding_C_2
+[2024.04.19-22.02.25:436][200]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/BluePrints/Jacob/ApartmentBuilding.ApartmentBuilding_C
+[2024.04.19-22.02.25:436][200]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/BluePrints/Jacob/ApartmentBuilding.ApartmentBuilding_C
+[2024.04.19-22.02.25:495][200]LogActorFactory: Actor Factory spawned Blueprint /Game/BluePrints/Jacob/ApartmentBuilding.ApartmentBuilding as actor: ApartmentBuilding_C /Game/Scenes/CyberPlace.CyberPlace:PersistentLevel.ApartmentBuilding_C_3
+[2024.04.19-22.02.25:561][200]LogActorFactory: Actor Factory spawned Blueprint /Game/BluePrints/Jacob/ApartmentBuilding.ApartmentBuilding as actor: ApartmentBuilding_C /Game/Scenes/CyberPlace.CyberPlace:PersistentLevel.ApartmentBuilding_C_3
+[2024.04.19-22.03.07:837][404]Cmd: DUPLICATE
+[2024.04.19-22.03.07:837][404]Cmd: ACTOR DUPLICATE
+[2024.04.19-22.03.36:797][811]Cmd: TRANSACTION UNDO
+[2024.04.19-22.03.36:797][811]LogEditorTransaction: Undo Move Elements
+[2024.04.19-22.03.41:378][ 55]Cmd: TRANSACTION UNDO
+[2024.04.19-22.03.41:378][ 55]LogEditorTransaction: Undo Move Elements
+[2024.04.19-22.03.42:095][ 76]Cmd: TRANSACTION UNDO
+[2024.04.19-22.03.42:095][ 76]LogEditorTransaction: Undo Move Elements
+[2024.04.19-22.04.07:551][416]Cmd: DELETE
+[2024.04.19-22.04.07:551][416]Cmd: ACTOR DELETE
+[2024.04.19-22.04.07:569][416]LogEditorActor: Deleted Actor: ApartmentBuilding_C
+[2024.04.19-22.04.07:818][416]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2024.04.19-22.04.07:820][416]LogEditorActor: Deleted 1 Actors (0.269 secs)
+[2024.04.19-22.04.54:357][117]Cmd: TRANSACTION UNDO
+[2024.04.19-22.04.54:357][117]LogEditorTransaction: Undo Move Elements
+[2024.04.19-22.04.54:857][139]Cmd: TRANSACTION UNDO
+[2024.04.19-22.04.54:857][139]LogEditorTransaction: Undo Set Scale
+[2024.04.19-22.04.55:518][177]Cmd: TRANSACTION UNDO
+[2024.04.19-22.04.55:519][177]LogEditorTransaction: Undo Reset Scale
+[2024.04.19-22.04.56:443][232]Cmd: TRANSACTION UNDO
+[2024.04.19-22.04.56:443][232]LogEditorTransaction: Undo Set Scale
+[2024.04.19-22.04.56:968][263]Cmd: TRANSACTION UNDO
+[2024.04.19-22.04.56:968][263]LogEditorTransaction: Undo Set Scale
+[2024.04.19-22.04.57:344][284]Cmd: TRANSACTION UNDO
+[2024.04.19-22.04.57:344][284]LogEditorTransaction: Undo Set Scale
+[2024.04.19-22.05.05:331][757]Cmd: TRANSACTION UNDO
+[2024.04.19-22.05.05:331][757]LogEditorTransaction: Undo Move Elements
+[2024.04.19-22.05.05:744][776]Cmd: TRANSACTION UNDO
+[2024.04.19-22.05.05:744][776]LogEditorTransaction: Undo Rotate Elements
+[2024.04.19-22.06.07:398][435]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/BluePrints/Jacob/GarageRight.GarageRight_C
+[2024.04.19-22.06.07:398][435]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/BluePrints/Jacob/GarageRight.GarageRight_C
+[2024.04.19-22.06.07:399][435]LogActorFactory: Actor Factory spawned Blueprint /Game/BluePrints/Jacob/GarageRight.GarageRight as actor: GarageRight_C /Game/Scenes/CyberPlace.CyberPlace:PersistentLevel.GarageRight_C_2
+[2024.04.19-22.06.07:403][435]LogActorFactory: Actor Factory spawned Blueprint /Game/BluePrints/Jacob/GarageRight.GarageRight as actor: GarageRight_C /Game/Scenes/CyberPlace.CyberPlace:PersistentLevel.GarageRight_C_2
+[2024.04.19-22.06.10:003][590]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/BluePrints/Jacob/GarageRight.GarageRight_C
+[2024.04.19-22.06.10:003][590]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/BluePrints/Jacob/GarageRight.GarageRight_C
+[2024.04.19-22.06.10:007][590]LogActorFactory: Actor Factory spawned Blueprint /Game/BluePrints/Jacob/GarageRight.GarageRight as actor: GarageRight_C /Game/Scenes/CyberPlace.CyberPlace:PersistentLevel.GarageRight_C_3
+[2024.04.19-22.06.10:010][590]LogActorFactory: Actor Factory spawned Blueprint /Game/BluePrints/Jacob/GarageRight.GarageRight as actor: GarageRight_C /Game/Scenes/CyberPlace.CyberPlace:PersistentLevel.GarageRight_C_3
+[2024.04.19-22.06.56:944][342]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/BluePrints/Jacob/MiddleGlassBuild.MiddleGlassBuild_C
+[2024.04.19-22.06.56:944][342]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/BluePrints/Jacob/MiddleGlassBuild.MiddleGlassBuild_C
+[2024.04.19-22.06.56:993][342]LogActorFactory: Actor Factory spawned Blueprint /Game/BluePrints/Jacob/MiddleGlassBuild.MiddleGlassBuild as actor: MiddleGlassBuild_C /Game/Scenes/CyberPlace.CyberPlace:PersistentLevel.MiddleGlassBuild_C_0
+[2024.04.19-22.06.57:052][342]LogActorFactory: Actor Factory spawned Blueprint /Game/BluePrints/Jacob/MiddleGlassBuild.MiddleGlassBuild as actor: MiddleGlassBuild_C /Game/Scenes/CyberPlace.CyberPlace:PersistentLevel.MiddleGlassBuild_C_0
+[2024.04.19-22.07.00:830][386]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/BluePrints/Jacob/MiddleGlassBuild.MiddleGlassBuild_C
+[2024.04.19-22.07.00:830][386]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/BluePrints/Jacob/MiddleGlassBuild.MiddleGlassBuild_C
+[2024.04.19-22.07.00:880][386]LogActorFactory: Actor Factory spawned Blueprint /Game/BluePrints/Jacob/MiddleGlassBuild.MiddleGlassBuild as actor: MiddleGlassBuild_C /Game/Scenes/CyberPlace.CyberPlace:PersistentLevel.MiddleGlassBuild_C_1
+[2024.04.19-22.07.00:933][386]LogActorFactory: Actor Factory spawned Blueprint /Game/BluePrints/Jacob/MiddleGlassBuild.MiddleGlassBuild as actor: MiddleGlassBuild_C /Game/Scenes/CyberPlace.CyberPlace:PersistentLevel.MiddleGlassBuild_C_1
+[2024.04.19-22.07.46:857][870]Cmd: DUPLICATE
+[2024.04.19-22.07.46:857][870]Cmd: ACTOR DUPLICATE
+[2024.04.19-22.08.34:943][196]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\jakec\Downloads\Metro_Entrance1.fbx)
+[2024.04.19-22.08.34:948][196]LogFbx: Loading FBX Scene from C:\Users\jakec\Downloads\Metro_Entrance1.fbx
+[2024.04.19-22.08.34:953][196]LogFbx: FBX Scene Loaded Succesfully
+[2024.04.19-22.08.36:817][196]LogSlate: Window 'FBX Import Options' being destroyed
+[2024.04.19-22.08.36:921][196]LogFbx: Display: Triangulating static mesh Metro_Entrance1
+[2024.04.19-22.08.37:018][196]LogStaticMesh: Display: Building static mesh Metro_Entrance1...
+[2024.04.19-22.08.37:062][196]LogStaticMesh: Built static mesh [0.05s] /Game/FBX/Mason/Metro_Entrance1.Metro_Entrance1
+[2024.04.19-22.08.42:364][423]LogUObjectHash: Compacting FUObjectHashTables data took   1.10ms
+[2024.04.19-22.08.42:380][423]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.19-22.08.42:449][423]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2024.04.19-22.08.42:571][423]LogSavePackage: Moving output files for package: /Game/Scenes/CyberPlace
+[2024.04.19-22.08.42:572][423]LogSavePackage: Moving '../../../../../../Users/jakec/OneDrive/Desktop/CyberPlace/Port5_Cyberpunk/Saved/CyberPlaceFFDAEBDB4F30C7EF56BF5FB8802797DF.tmp' to '../../../../../../Users/jakec/OneDrive/Desktop/CyberPlace/Port5_Cyberpunk/Content/Scenes/CyberPlace.umap'
+[2024.04.19-22.08.42:579][423]LogFileHelpers: Saving map 'CyberPlace' took 0.148
+[2024.04.19-22.08.42:611][423]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FBX/Mason/Metro_Entrance1" FILE="../../../../../../Users/jakec/OneDrive/Desktop/CyberPlace/Port5_Cyberpunk/Content/FBX/Mason/Metro_Entrance1.uasset" SILENT=true
+[2024.04.19-22.08.42:617][423]LogSavePackage: Moving output files for package: /Game/FBX/Mason/Metro_Entrance1
+[2024.04.19-22.08.42:617][423]LogSavePackage: Moving '../../../../../../Users/jakec/OneDrive/Desktop/CyberPlace/Port5_Cyberpunk/Saved/Metro_Entrance1DE18669E48BC29E928E5C3B5928E9DE0.tmp' to '../../../../../../Users/jakec/OneDrive/Desktop/CyberPlace/Port5_Cyberpunk/Content/FBX/Mason/Metro_Entrance1.uasset'
+[2024.04.19-22.08.42:632][423]LogFileHelpers: InternalPromptForCheckoutAndSave took 252 ms (total: 7.69 sec)
+[2024.04.19-22.08.42:636][423]AssetCheck: New page: Asset Save: multiple assets
+[2024.04.19-22.08.42:636][423]LogContentValidation: Display: Validating /Script/Engine.World /Game/Scenes/CyberPlace.CyberPlace
+[2024.04.19-22.08.42:636][423]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/FBX/Mason/Metro_Entrance1.Metro_Entrance1
+[2024.04.19-22.08.47:814][730]Cmd: DELETE
+[2024.04.19-22.08.47:814][730]Cmd: ACTOR DELETE
+[2024.04.19-22.08.47:834][730]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.04.19-22.08.47:840][730]LogUObjectHash: Compacting FUObjectHashTables data took   0.32ms
+[2024.04.19-22.08.47:841][730]LogEditorActor: Deleted 1 Actors (0.027 secs)
+[2024.04.19-22.08.53:237][ 36]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/FBX/Mason/Metro_Entrance1.Metro_Entrance1
+[2024.04.19-22.08.53:238][ 36]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/FBX/Mason/Metro_Entrance1.Metro_Entrance1
+[2024.04.19-22.08.53:238][ 36]LogActorFactory: Actor Factory spawned StaticMesh /Game/FBX/Mason/Metro_Entrance1.Metro_Entrance1 as actor: StaticMeshActor /Game/Scenes/CyberPlace.CyberPlace:PersistentLevel.StaticMeshActor_172
+[2024.04.19-22.08.54:228][ 94]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/FBX/Mason/Metro_Entrance1.Metro_Entrance1
+[2024.04.19-22.08.54:228][ 94]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/FBX/Mason/Metro_Entrance1.Metro_Entrance1
+[2024.04.19-22.08.54:229][ 94]LogActorFactory: Actor Factory spawned StaticMesh /Game/FBX/Mason/Metro_Entrance1.Metro_Entrance1 as actor: StaticMeshActor /Game/Scenes/CyberPlace.CyberPlace:PersistentLevel.StaticMeshActor_173
+[2024.04.19-22.09.29:536][164]Cmd: DELETE
+[2024.04.19-22.09.29:536][164]Cmd: ACTOR DELETE
+[2024.04.19-22.09.29:545][164]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.04.19-22.09.29:549][164]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2024.04.19-22.09.29:553][164]LogEditorActor: Deleted 1 Actors (0.018 secs)
+[2024.04.19-22.10.00:208][530]LogEditorFactories: Performing atomic reimport of [C:/Users/jakec/Downloads/Metro_Entrance1 (1).fbx]
+[2024.04.19-22.10.00:213][530]LogFbx: Loading FBX Scene from C:/Users/jakec/Downloads/Metro_Entrance1 (1).fbx
+[2024.04.19-22.10.00:221][530]LogFbx: FBX Scene Loaded Succesfully
+[2024.04.19-22.10.00:306][530]LogFbx: Display: Triangulating static mesh Metro_Entrance1
+[2024.04.19-22.10.00:410][530]LogStaticMesh: Display: Building static mesh Metro_Entrance1...
+[2024.04.19-22.10.00:530][530]LogStaticMesh: Built static mesh [0.12s] /Game/FBX/Mason/Metro_Entrance1.Metro_Entrance1
+[2024.04.19-22.10.00:564][530]LogEditorFactories: -- imported successfully
+[2024.04.19-22.10.03:342][630]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/FBX/Mason/Metro_Entrance1.Metro_Entrance1
+[2024.04.19-22.10.03:342][630]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/FBX/Mason/Metro_Entrance1.Metro_Entrance1
+[2024.04.19-22.10.03:342][630]LogActorFactory: Actor Factory spawned StaticMesh /Game/FBX/Mason/Metro_Entrance1.Metro_Entrance1 as actor: StaticMeshActor /Game/Scenes/CyberPlace.CyberPlace:PersistentLevel.StaticMeshActor_174
+[2024.04.19-22.10.03:670][649]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/FBX/Mason/Metro_Entrance1.Metro_Entrance1
+[2024.04.19-22.10.03:670][649]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/FBX/Mason/Metro_Entrance1.Metro_Entrance1
+[2024.04.19-22.10.03:671][649]LogActorFactory: Actor Factory spawned StaticMesh /Game/FBX/Mason/Metro_Entrance1.Metro_Entrance1 as actor: StaticMeshActor /Game/Scenes/CyberPlace.CyberPlace:PersistentLevel.StaticMeshActor_175
+[2024.04.19-22.10.52:151][490]LogViewport: Scene viewport resized to 1345x706, mode Windowed.
+[2024.04.19-22.10.57:468][805]LogViewport: Scene viewport resized to 1454x764, mode Windowed.
+[2024.04.19-22.10.57:483][806]LogViewport: Scene viewport resized to 1523x800, mode Windowed.
+[2024.04.19-22.10.57:510][807]LogViewport: Scene viewport resized to 1582x832, mode Windowed.
+[2024.04.19-22.10.57:536][808]LogViewport: Scene viewport resized to 1643x862, mode Windowed.
+[2024.04.19-22.10.57:562][809]LogViewport: Scene viewport resized to 1672x878, mode Windowed.
+[2024.04.19-22.10.57:592][810]LogViewport: Scene viewport resized to 1682x884, mode Windowed.
+[2024.04.19-22.11.10:563][508]Cmd: TRANSACTION UNDO
+[2024.04.19-22.11.10:563][508]LogEditorTransaction: Undo Move Elements
+[2024.04.19-22.11.31:895][778]LogViewport: Scene viewport resized to 1924x885, mode Windowed.
+[2024.04.19-22.11.38:057][143]LogViewport: Scene viewport resized to 1827x885, mode Windowed.
+[2024.04.19-22.11.38:079][144]LogViewport: Scene viewport resized to 1659x841, mode Windowed.
+[2024.04.19-22.11.38:127][145]LogViewport: Scene viewport resized to 1562x767, mode Windowed.
+[2024.04.19-22.11.38:158][146]LogViewport: Scene viewport resized to 1535x724, mode Windowed.
+[2024.04.19-22.11.38:188][147]LogViewport: Scene viewport resized to 1525x712, mode Windowed.
+[2024.04.19-22.11.38:220][148]LogViewport: Scene viewport resized to 1523x707, mode Windowed.
+[2024.04.19-22.11.41:387][331]LogViewport: Scene viewport resized to 531x278, mode Windowed.
+[2024.04.19-22.11.42:824][413]Cmd: DUPLICATE
+[2024.04.19-22.11.42:824][413]Cmd: ACTOR DUPLICATE
+[2024.04.19-22.11.43:001][414]LogViewport: Scene viewport resized to 531x278, mode Windowed.
+[2024.04.19-22.11.51:671][887]LogViewport: Scene viewport resized to 1345x706, mode Windowed.
+[2024.04.19-22.12.02:814][553]LogSlateStyle: Warning: Missing Resource from 'CoreStyle' Style: 'Unable to find Color 'DefaultForeground'.'
+[2024.04.19-22.14.34:992][949]LogViewport: Scene viewport resized to 1523x707, mode Windowed.
+[2024.04.19-22.16.16:922][477]LogViewport: Scene viewport resized to 1345x706, mode Windowed.
+[2024.04.19-22.16.23:888][892]LogViewport: Scene viewport resized to 1448x761, mode Windowed.
+[2024.04.19-22.16.23:902][893]LogViewport: Scene viewport resized to 1520x799, mode Windowed.
+[2024.04.19-22.16.23:930][894]LogViewport: Scene viewport resized to 1580x830, mode Windowed.
+[2024.04.19-22.16.23:962][895]LogViewport: Scene viewport resized to 1643x863, mode Windowed.
+[2024.04.19-22.16.23:990][896]LogViewport: Scene viewport resized to 1675x880, mode Windowed.
+[2024.04.19-22.16.24:019][897]LogViewport: Scene viewport resized to 1682x884, mode Windowed.
+[2024.04.19-22.17.19:421][381]LogViewport: Scene viewport resized to 1683x884, mode Windowed.
+[2024.04.19-22.17.19:437][382]LogViewport: Scene viewport resized to 1601x841, mode Windowed.
+[2024.04.19-22.17.19:461][383]LogViewport: Scene viewport resized to 1540x808, mode Windowed.
+[2024.04.19-22.17.19:489][384]LogViewport: Scene viewport resized to 1463x769, mode Windowed.
+[2024.04.19-22.17.19:517][385]LogViewport: Scene viewport resized to 1406x739, mode Windowed.
+[2024.04.19-22.17.19:542][386]LogViewport: Scene viewport resized to 1370x720, mode Windowed.
+[2024.04.19-22.17.19:567][387]LogViewport: Scene viewport resized to 1354x711, mode Windowed.
+[2024.04.19-22.17.19:589][388]LogViewport: Scene viewport resized to 1346x707, mode Windowed.
+[2024.04.19-22.17.19:615][389]LogViewport: Scene viewport resized to 1345x706, mode Windowed.
+[2024.04.19-22.17.21:143][480]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2024.04.19-22.17.21:152][480]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.19-22.17.21:223][480]LogUObjectHash: Compacting FUObjectHashTables data took   0.30ms
+[2024.04.19-22.17.21:348][480]LogSavePackage: Moving output files for package: /Game/Scenes/CyberPlace
+[2024.04.19-22.17.21:348][480]LogSavePackage: Moving '../../../../../../Users/jakec/OneDrive/Desktop/CyberPlace/Port5_Cyberpunk/Saved/CyberPlace84DC83F440F25C29EE41FD81F126E968.tmp' to '../../../../../../Users/jakec/OneDrive/Desktop/CyberPlace/Port5_Cyberpunk/Content/Scenes/CyberPlace.umap'
+[2024.04.19-22.17.21:362][480]LogFileHelpers: Saving map 'CyberPlace' took 0.157
+[2024.04.19-22.17.21:363][480]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Scenes/Mason" FILE="../../../../../../Users/jakec/OneDrive/Desktop/CyberPlace/Port5_Cyberpunk/Content/Scenes/Mason.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.04.19-22.17.21:368][480]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2024.04.19-22.17.21:373][480]LogSavePackage: Moving output files for package: /Game/Scenes/Mason
+[2024.04.19-22.17.21:374][480]LogSavePackage: Moving '../../../../../../Users/jakec/OneDrive/Desktop/CyberPlace/Port5_Cyberpunk/Saved/MasonBD9FC5C540BA212EE516539E33981978.tmp' to '../../../../../../Users/jakec/OneDrive/Desktop/CyberPlace/Port5_Cyberpunk/Content/Scenes/Mason.umap'
+[2024.04.19-22.17.21:380][480]LogFileHelpers: Saving map 'Mason' took 0.018
+[2024.04.19-22.17.21:415][480]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FBX/Mason/Metro_Entrance1" FILE="../../../../../../Users/jakec/OneDrive/Desktop/CyberPlace/Port5_Cyberpunk/Content/FBX/Mason/Metro_Entrance1.uasset" SILENT=true
+[2024.04.19-22.17.21:423][480]LogSavePackage: Moving output files for package: /Game/FBX/Mason/Metro_Entrance1
+[2024.04.19-22.17.21:423][480]LogSavePackage: Moving '../../../../../../Users/jakec/OneDrive/Desktop/CyberPlace/Port5_Cyberpunk/Saved/Metro_Entrance1ED592AF4413B1B1EB1BC7C88216FD8AB.tmp' to '../../../../../../Users/jakec/OneDrive/Desktop/CyberPlace/Port5_Cyberpunk/Content/FBX/Mason/Metro_Entrance1.uasset'
+[2024.04.19-22.17.21:430][480]LogFileHelpers: InternalPromptForCheckoutAndSave took 278 ms (total: 7.97 sec)
+[2024.04.19-22.17.21:435][480]AssetCheck: New page: Asset Save: multiple assets
+[2024.04.19-22.17.21:435][480]LogContentValidation: Display: Validating /Script/Engine.World /Game/Scenes/CyberPlace.CyberPlace
+[2024.04.19-22.17.21:435][480]LogContentValidation: Display: Validating /Script/Engine.World /Game/Scenes/Mason.Mason
+[2024.04.19-22.17.21:435][480]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/FBX/Mason/Metro_Entrance1.Metro_Entrance1
