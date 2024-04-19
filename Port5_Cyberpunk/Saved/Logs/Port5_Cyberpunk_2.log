@@ -1171,3 +1171,4 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2024.04.19-20.48.38:470][877]LogConcertTakeRecorder: Display: Session Client Change: Mason Disconnected.
 [2024.04.19-20.48.38:470][877]LogConcert: Display: User 'mpie2' (Endpoint: 018C1E7E4CEE3543B496C9969A59DD76) left Concert session 'f9uhf9dscn' (Id: 8A1E08094EFF3A1CC50D33B581DA0D05, Owner: jakec).
 [2024.04.19-20.48.38:470][877]LogConcert: Display: Synced activity '3' produced by endpoint '018C1E7E4CEE3543B496C9969A59DD76': Mason left the session.
+[2024.04.19-20.50.22:213][188]LogDerivedDataCache: C:/Users/jakec/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:34.219 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 18251 files in 20038 folders with total size 1213 MiB.
