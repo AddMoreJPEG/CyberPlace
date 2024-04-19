@@ -1304,3 +1304,269 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2024.04.19-17.23.40:498][313]LogConcert: Display: User 'castudent' (Endpoint: 60DDD7CB4DED33B7FB9FE8A08DC177CE) left Concert session '4/19/I wanna die' (Id: CEED1CF24553FF93F60FDF9723F1C759, Owner: castudent).
 [2024.04.19-17.23.40:498][313]LogConcert: Display: Synced activity '11' produced by endpoint '60DDD7CB4DED33B7FB9FE8A08DC177CE': Mason left the session.
 [2024.04.19-17.24.44:291][104]LogViewport: Scene viewport resized to 2288x1845, mode Windowed.
+[2024.04.19-17.27.03:083][ 21]LogStaticMesh: Display: Building static mesh TopRounded...
+[2024.04.19-17.27.03:091][ 21]LogStaticMesh: Built static mesh [0.01s] /Game/FBX/JacobBuildBlocks/MiddleGlassBuild/TopRounded.TopRounded
+[2024.04.19-17.27.03:669][ 43]LogConcert: Display: Synced activity '12' produced by endpoint 'D837A28F43C9BE09086124B37347B16A': Jacob locked /Game/BluePrints/Jacob/MiddleGlassBuild.
+[2024.04.19-17.28.00:290][415]LogStaticMesh: Display: Building static mesh TopGlass...
+[2024.04.19-17.28.00:297][415]LogStaticMesh: Built static mesh [0.01s] /Game/FBX/JacobBuildBlocks/MiddleGlassBuild/TopGlass.TopGlass
+[2024.04.19-17.30.01:960][552]LogUObjectHash: Compacting FUObjectHashTables data took   2.44ms
+[2024.04.19-17.30.01:962][552]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Scenes/CyberPlace' took 0.076
+[2024.04.19-17.30.01:962][552]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/BluePrints/Jacob/MiddleGlassBuild] ([2] browsable assets)...
+[2024.04.19-17.30.01:985][552]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/BluePrints/Jacob/MiddleGlassBuild.MiddleGlassBuild]
+[2024.04.19-17.30.01:985][552]OBJ SavePackage: Finished generating thumbnails for package [/Game/BluePrints/Jacob/MiddleGlassBuild]
+[2024.04.19-17.30.01:985][552]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BluePrints/Jacob/MiddleGlassBuild" FILE="D:/CyberPlace/Port5_Cyberpunk/Saved/Autosaves/Game/BluePrints/Jacob/MiddleGlassBuild_Auto2.uasset" SILENT=false AUTOSAVING=true
+[2024.04.19-17.30.02:007][552]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/BluePrints/Jacob/MiddleGlassBuild_Auto2
+[2024.04.19-17.30.02:007][552]LogSavePackage: Moving 'D:/CyberPlace/Port5_Cyberpunk/Saved/MiddleGlassBuild_Auto23758DDCC4BE1981C99097DBB897451E2.tmp' to 'D:/CyberPlace/Port5_Cyberpunk/Saved/Autosaves/Game/BluePrints/Jacob/MiddleGlassBuild_Auto2.uasset'
+[2024.04.19-17.30.02:008][552]LogFileHelpers: Auto-saving content packages took 0.047
+[2024.04.19-17.34.38:918][ 34]LogEditorTransaction: Undo Move Nodes
+[2024.04.19-17.34.49:850][461]LogEditorTransaction: Undo Paste clipboard contents
+[2024.04.19-17.35.14:782][  6]Cmd: TRANSACTION UNDO
+[2024.04.19-17.35.14:782][  6]LogEditorTransaction: Undo Duplicate Components
+[2024.04.19-17.35.20:230][154]LogEditorTransaction: Undo Modify Component(s)
+[2024.04.19-17.35.20:918][164]LogEditorTransaction: Undo Modify Component(s)
+[2024.04.19-17.37.34:395][927]BlueprintLog: New page: Compile MiddleGlassBuild
+[2024.04.19-17.37.35:241][927]LogUObjectHash: Compacting FUObjectHashTables data took   3.31ms
+[2024.04.19-17.37.36:144][938]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.19-17.37.36:251][938]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BluePrints/Jacob/MiddleGlassBuild" FILE="D:/CyberPlace/Port5_Cyberpunk/Content/BluePrints/Jacob/MiddleGlassBuild.uasset" SILENT=true
+[2024.04.19-17.37.36:283][938]LogSavePackage: Moving output files for package: /Game/BluePrints/Jacob/MiddleGlassBuild
+[2024.04.19-17.37.36:283][938]LogSavePackage: Moving 'D:/CyberPlace/Port5_Cyberpunk/Saved/MiddleGlassBuild5A9FD36F437BF017126EC39FC58BBC77.tmp' to 'D:/CyberPlace/Port5_Cyberpunk/Content/BluePrints/Jacob/MiddleGlassBuild.uasset'
+[2024.04.19-17.37.36:297][938]LogFileHelpers: InternalPromptForCheckoutAndSave took 153 ms (total: 387 ms)
+[2024.04.19-17.37.36:318][938]AssetCheck: New page: Asset Save: MiddleGlassBuild
+[2024.04.19-17.37.36:318][938]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/BluePrints/Jacob/MiddleGlassBuild.MiddleGlassBuild
+[2024.04.19-17.37.36:367][940]LogConcert: Display: Synced activity '13' produced by endpoint 'D837A28F43C9BE09086124B37347B16A': Jacob saved package /Game/BluePrints/Jacob/MiddleGlassBuild.
+[2024.04.19-17.37.36:367][940]LogConcert: Display: Synced activity '14' produced by endpoint 'D837A28F43C9BE09086124B37347B16A': Jacob unlocked /Game/BluePrints/Jacob/MiddleGlassBuild.
+[2024.04.19-17.37.36:969][956]LogSlate: Window 'MiddleGlassBuild' being destroyed
+[2024.04.19-17.37.36:986][956]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2024.04.19-17.37.36:986][956]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.19-17.38.15:052][149]LogConcertTakeRecorder: Display: Session Client Change: Mason Connected.
+[2024.04.19-17.38.15:052][149]LogConcert: Display: User 'castudent' (Endpoint: 919C2A57454470961B74A6B541AD7EC7) joined Concert session '4/19/I wanna die' (Id: CEED1CF24553FF93F60FDF9723F1C759, Owner: castudent).
+[2024.04.19-17.38.15:053][149]LogConcert: Display: Synced activity '15' produced by endpoint '919C2A57454470961B74A6B541AD7EC7': Mason joined the session.
+[2024.04.19-17.38.36:534][799]LogViewport: Scene viewport resized to 3052x1603, mode Windowed.
+[2024.04.19-17.38.55:797][ 52]LogSlate: Window 'Message' being destroyed
+[2024.04.19-17.38.55:805][ 52]Message dialog closed, result: Yes, title: Message, text: You are about to leave a session containing changes. Do you want to persist the changes?
+[2024.04.19-17.38.57:835][ 52]LogSlate: Window 'Persist & Submit Files' being destroyed
+[2024.04.19-17.38.57:843][ 52]LogConcert: [Pending] Persisting Session Changes
+[2024.04.19-17.38.57:844][ 52]LogConcert: [Pending] Persisting Session Changes - See Message Log
+[2024.04.19-17.38.57:844][ 52]LogConcert: [Success] Successfully Persisted Session Changes - Succesfully persisted session files
+[2024.04.19-17.38.57:845][ 52]LogConcertTakeRecorder: Display: Session Client Change: Mason Disconnected.
+[2024.04.19-17.38.57:845][ 52]LogConcert: Display: User 'castudent' (Endpoint: 919C2A57454470961B74A6B541AD7EC7) left Concert session '4/19/I wanna die' (Id: CEED1CF24553FF93F60FDF9723F1C759, Owner: castudent).
+[2024.04.19-17.38.57:873][ 52]LogConcert: Display: Disconnected from Concert session '4/19/I wanna die' (Id: CEED1CF24553FF93F60FDF9723F1C759, Owner: castudent).
+[2024.04.19-17.38.57:873][ 52]LogConcertTakeRecorder: Display: Multi-user Take Recorder Session Shutdown: 4/19/I wanna die
+[2024.04.19-17.38.57:875][ 52]SourceControl: Revision control is disabled
+[2024.04.19-17.38.57:883][ 52]LogDirectoryWatcher: A directory notification for 'D:/CyberPlace/Port5_Cyberpunk/Intermediate/Concert/MultiUser/E61D3E6244DAE221D1985BB5EB2729B3/CEED1CF24553FF93F60FDF9723F1C759/Sandbox/Engine/' was aborted.
+[2024.04.19-17.38.57:883][ 52]LogDirectoryWatcher: A directory notification for 'D:/CyberPlace/Port5_Cyberpunk/Intermediate/Concert/MultiUser/E61D3E6244DAE221D1985BB5EB2729B3/CEED1CF24553FF93F60FDF9723F1C759/Sandbox/Port5_Cyberpunk/' was aborted.
+[2024.04.19-17.38.57:883][ 52]LogDirectoryWatcher: A directory notification for 'D:/CyberPlace/Port5_Cyberpunk/Intermediate/Concert/MultiUser/E61D3E6244DAE221D1985BB5EB2729B3/CEED1CF24553FF93F60FDF9723F1C759/Sandbox/ConcertSyncClient/' was aborted.
+[2024.04.19-17.38.57:883][ 52]LogDirectoryWatcher: A directory notification for 'D:/CyberPlace/Port5_Cyberpunk/Intermediate/Concert/MultiUser/E61D3E6244DAE221D1985BB5EB2729B3/CEED1CF24553FF93F60FDF9723F1C759/Sandbox/ObjectMixer/' was aborted.
+[2024.04.19-17.38.57:883][ 52]LogDirectoryWatcher: A directory notification for 'D:/CyberPlace/Port5_Cyberpunk/Intermediate/Concert/MultiUser/E61D3E6244DAE221D1985BB5EB2729B3/CEED1CF24553FF93F60FDF9723F1C759/Sandbox/LightMixer/' was aborted.
+[2024.04.19-17.38.57:883][ 52]LogDirectoryWatcher: A directory notification for 'D:/CyberPlace/Port5_Cyberpunk/Intermediate/Concert/MultiUser/E61D3E6244DAE221D1985BB5EB2729B3/CEED1CF24553FF93F60FDF9723F1C759/Sandbox/SequencerScripting/' was aborted.
+[2024.04.19-17.38.57:883][ 52]LogDirectoryWatcher: A directory notification for 'D:/CyberPlace/Port5_Cyberpunk/Intermediate/Concert/MultiUser/E61D3E6244DAE221D1985BB5EB2729B3/CEED1CF24553FF93F60FDF9723F1C759/Sandbox/ToolPresets/' was aborted.
+[2024.04.19-17.38.57:883][ 52]LogDirectoryWatcher: A directory notification for 'D:/CyberPlace/Port5_Cyberpunk/Intermediate/Concert/MultiUser/E61D3E6244DAE221D1985BB5EB2729B3/CEED1CF24553FF93F60FDF9723F1C759/Sandbox/PythonScriptPlugin/' was aborted.
+[2024.04.19-17.38.57:884][ 52]LogDirectoryWatcher: A directory notification for 'D:/CyberPlace/Port5_Cyberpunk/Intermediate/Concert/MultiUser/E61D3E6244DAE221D1985BB5EB2729B3/CEED1CF24553FF93F60FDF9723F1C759/Sandbox/MeshLODToolset/' was aborted.
+[2024.04.19-17.38.57:884][ 52]LogDirectoryWatcher: A directory notification for 'D:/CyberPlace/Port5_Cyberpunk/Intermediate/Concert/MultiUser/E61D3E6244DAE221D1985BB5EB2729B3/CEED1CF24553FF93F60FDF9723F1C759/Sandbox/MeshModelingToolsetExp/' was aborted.
+[2024.04.19-17.38.57:884][ 52]LogDirectoryWatcher: A directory notification for 'D:/CyberPlace/Port5_Cyberpunk/Intermediate/Concert/MultiUser/E61D3E6244DAE221D1985BB5EB2729B3/CEED1CF24553FF93F60FDF9723F1C759/Sandbox/GeometryCollectionPlugin/' was aborted.
+[2024.04.19-17.38.57:884][ 52]LogDirectoryWatcher: A directory notification for 'D:/CyberPlace/Port5_Cyberpunk/Intermediate/Concert/MultiUser/E61D3E6244DAE221D1985BB5EB2729B3/CEED1CF24553FF93F60FDF9723F1C759/Sandbox/GeometryFlow/' was aborted.
+[2024.04.19-17.38.57:884][ 52]LogDirectoryWatcher: A directory notification for 'D:/CyberPlace/Port5_Cyberpunk/Intermediate/Concert/MultiUser/E61D3E6244DAE221D1985BB5EB2729B3/CEED1CF24553FF93F60FDF9723F1C759/Sandbox/FullBodyIK/' was aborted.
+[2024.04.19-17.38.57:884][ 52]LogDirectoryWatcher: A directory notification for 'D:/CyberPlace/Port5_Cyberpunk/Intermediate/Concert/MultiUser/E61D3E6244DAE221D1985BB5EB2729B3/CEED1CF24553FF93F60FDF9723F1C759/Sandbox/Dataflow/' was aborted.
+[2024.04.19-17.38.57:884][ 52]LogDirectoryWatcher: A directory notification for 'D:/CyberPlace/Port5_Cyberpunk/Intermediate/Concert/MultiUser/E61D3E6244DAE221D1985BB5EB2729B3/CEED1CF24553FF93F60FDF9723F1C759/Sandbox/ChaosNiagara/' was aborted.
+[2024.04.19-17.38.57:884][ 52]LogDirectoryWatcher: A directory notification for 'D:/CyberPlace/Port5_Cyberpunk/Intermediate/Concert/MultiUser/E61D3E6244DAE221D1985BB5EB2729B3/CEED1CF24553FF93F60FDF9723F1C759/Sandbox/ChaosClothEditor/' was aborted.
+[2024.04.19-17.38.57:884][ 52]LogDirectoryWatcher: A directory notification for 'D:/CyberPlace/Port5_Cyberpunk/Intermediate/Concert/MultiUser/E61D3E6244DAE221D1985BB5EB2729B3/CEED1CF24553FF93F60FDF9723F1C759/Sandbox/ChaosSolverPlugin/' was aborted.
+[2024.04.19-17.38.57:884][ 52]LogDirectoryWatcher: A directory notification for 'D:/CyberPlace/Port5_Cyberpunk/Intermediate/Concert/MultiUser/E61D3E6244DAE221D1985BB5EB2729B3/CEED1CF24553FF93F60FDF9723F1C759/Sandbox/ChaosCaching/' was aborted.
+[2024.04.19-17.38.57:884][ 52]LogDirectoryWatcher: A directory notification for 'D:/CyberPlace/Port5_Cyberpunk/Intermediate/Concert/MultiUser/E61D3E6244DAE221D1985BB5EB2729B3/CEED1CF24553FF93F60FDF9723F1C759/Sandbox/Synthesis/' was aborted.
+[2024.04.19-17.38.57:884][ 52]LogDirectoryWatcher: A directory notification for 'D:/CyberPlace/Port5_Cyberpunk/Intermediate/Concert/MultiUser/E61D3E6244DAE221D1985BB5EB2729B3/CEED1CF24553FF93F60FDF9723F1C759/Sandbox/WaveTable/' was aborted.
+[2024.04.19-17.38.57:884][ 52]LogDirectoryWatcher: A directory notification for 'D:/CyberPlace/Port5_Cyberpunk/Intermediate/Concert/MultiUser/E61D3E6244DAE221D1985BB5EB2729B3/CEED1CF24553FF93F60FDF9723F1C759/Sandbox/RigVM/' was aborted.
+[2024.04.19-17.38.57:884][ 52]LogDirectoryWatcher: A directory notification for 'D:/CyberPlace/Port5_Cyberpunk/Intermediate/Concert/MultiUser/E61D3E6244DAE221D1985BB5EB2729B3/CEED1CF24553FF93F60FDF9723F1C759/Sandbox/ResonanceAudio/' was aborted.
+[2024.04.19-17.38.57:884][ 52]LogDirectoryWatcher: A directory notification for 'D:/CyberPlace/Port5_Cyberpunk/Intermediate/Concert/MultiUser/E61D3E6244DAE221D1985BB5EB2729B3/CEED1CF24553FF93F60FDF9723F1C759/Sandbox/Metasound/' was aborted.
+[2024.04.19-17.38.57:885][ 52]LogDirectoryWatcher: A directory notification for 'D:/CyberPlace/Port5_Cyberpunk/Intermediate/Concert/MultiUser/E61D3E6244DAE221D1985BB5EB2729B3/CEED1CF24553FF93F60FDF9723F1C759/Sandbox/MeshModelingToolset/' was aborted.
+[2024.04.19-17.38.57:885][ 52]LogDirectoryWatcher: A directory notification for 'D:/CyberPlace/Port5_Cyberpunk/Intermediate/Concert/MultiUser/E61D3E6244DAE221D1985BB5EB2729B3/CEED1CF24553FF93F60FDF9723F1C759/Sandbox/GeometryProcessing/' was aborted.
+[2024.04.19-17.38.57:885][ 52]LogDirectoryWatcher: A directory notification for 'D:/CyberPlace/Port5_Cyberpunk/Intermediate/Concert/MultiUser/E61D3E6244DAE221D1985BB5EB2729B3/CEED1CF24553FF93F60FDF9723F1C759/Sandbox/AudioSynesthesia/' was aborted.
+[2024.04.19-17.38.57:885][ 52]LogDirectoryWatcher: A directory notification for 'D:/CyberPlace/Port5_Cyberpunk/Intermediate/Concert/MultiUser/E61D3E6244DAE221D1985BB5EB2729B3/CEED1CF24553FF93F60FDF9723F1C759/Sandbox/AudioWidgets/' was aborted.
+[2024.04.19-17.38.57:885][ 52]LogDirectoryWatcher: A directory notification for 'D:/CyberPlace/Port5_Cyberpunk/Intermediate/Concert/MultiUser/E61D3E6244DAE221D1985BB5EB2729B3/CEED1CF24553FF93F60FDF9723F1C759/Sandbox/GLTFExporter/' was aborted.
+[2024.04.19-17.38.57:885][ 52]LogDirectoryWatcher: A directory notification for 'D:/CyberPlace/Port5_Cyberpunk/Intermediate/Concert/MultiUser/E61D3E6244DAE221D1985BB5EB2729B3/CEED1CF24553FF93F60FDF9723F1C759/Sandbox/DatasmithContent/' was aborted.
+[2024.04.19-17.38.57:885][ 52]LogDirectoryWatcher: A directory notification for 'D:/CyberPlace/Port5_Cyberpunk/Intermediate/Concert/MultiUser/E61D3E6244DAE221D1985BB5EB2729B3/CEED1CF24553FF93F60FDF9723F1C759/Sandbox/Niagara/' was aborted.
+[2024.04.19-17.38.57:885][ 52]LogDirectoryWatcher: A directory notification for 'D:/CyberPlace/Port5_Cyberpunk/Intermediate/Concert/MultiUser/E61D3E6244DAE221D1985BB5EB2729B3/CEED1CF24553FF93F60FDF9723F1C759/Sandbox/MediaPlate/' was aborted.
+[2024.04.19-17.38.57:885][ 52]LogDirectoryWatcher: A directory notification for 'D:/CyberPlace/Port5_Cyberpunk/Intermediate/Concert/MultiUser/E61D3E6244DAE221D1985BB5EB2729B3/CEED1CF24553FF93F60FDF9723F1C759/Sandbox/MediaCompositing/' was aborted.
+[2024.04.19-17.38.57:885][ 52]LogDirectoryWatcher: A directory notification for 'D:/CyberPlace/Port5_Cyberpunk/Intermediate/Concert/MultiUser/E61D3E6244DAE221D1985BB5EB2729B3/CEED1CF24553FF93F60FDF9723F1C759/Sandbox/UVEditor/' was aborted.
+[2024.04.19-17.38.57:885][ 52]LogDirectoryWatcher: A directory notification for 'D:/CyberPlace/Port5_Cyberpunk/Intermediate/Concert/MultiUser/E61D3E6244DAE221D1985BB5EB2729B3/CEED1CF24553FF93F60FDF9723F1C759/Sandbox/SpeedTreeImporter/' was aborted.
+[2024.04.19-17.38.57:885][ 52]LogDirectoryWatcher: A directory notification for 'D:/CyberPlace/Port5_Cyberpunk/Intermediate/Concert/MultiUser/E61D3E6244DAE221D1985BB5EB2729B3/CEED1CF24553FF93F60FDF9723F1C759/Sandbox/ModelingToolsEditorMode/' was aborted.
+[2024.04.19-17.38.57:885][ 52]LogDirectoryWatcher: A directory notification for 'D:/CyberPlace/Port5_Cyberpunk/Intermediate/Concert/MultiUser/E61D3E6244DAE221D1985BB5EB2729B3/CEED1CF24553FF93F60FDF9723F1C759/Sandbox/GeometryMode/' was aborted.
+[2024.04.19-17.38.57:885][ 52]LogDirectoryWatcher: A directory notification for 'D:/CyberPlace/Port5_Cyberpunk/Intermediate/Concert/MultiUser/E61D3E6244DAE221D1985BB5EB2729B3/CEED1CF24553FF93F60FDF9723F1C759/Sandbox/BlueprintHeaderView/' was aborted.
+[2024.04.19-17.38.57:885][ 52]LogDirectoryWatcher: A directory notification for 'D:/CyberPlace/Port5_Cyberpunk/Intermediate/Concert/MultiUser/E61D3E6244DAE221D1985BB5EB2729B3/CEED1CF24553FF93F60FDF9723F1C759/Sandbox/Takes/' was aborted.
+[2024.04.19-17.38.57:885][ 52]LogDirectoryWatcher: A directory notification for 'D:/CyberPlace/Port5_Cyberpunk/Intermediate/Concert/MultiUser/E61D3E6244DAE221D1985BB5EB2729B3/CEED1CF24553FF93F60FDF9723F1C759/Sandbox/MultiUserTakes/' was aborted.
+[2024.04.19-17.38.57:886][ 52]LogDirectoryWatcher: A directory notification for 'D:/CyberPlace/Port5_Cyberpunk/Intermediate/Concert/MultiUser/E61D3E6244DAE221D1985BB5EB2729B3/CEED1CF24553FF93F60FDF9723F1C759/Sandbox/ControlRig/' was aborted.
+[2024.04.19-17.38.57:886][ 52]LogDirectoryWatcher: A directory notification for 'D:/CyberPlace/Port5_Cyberpunk/Intermediate/Concert/MultiUser/E61D3E6244DAE221D1985BB5EB2729B3/CEED1CF24553FF93F60FDF9723F1C759/Sandbox/Runtime/' was aborted.
+[2024.04.19-17.38.57:886][ 52]LogDirectoryWatcher: A directory notification for 'D:/CyberPlace/Port5_Cyberpunk/Intermediate/Concert/MultiUser/E61D3E6244DAE221D1985BB5EB2729B3/CEED1CF24553FF93F60FDF9723F1C759/Sandbox/IKRig/' was aborted.
+[2024.04.19-17.38.57:886][ 52]LogDirectoryWatcher: A directory notification for 'D:/CyberPlace/Port5_Cyberpunk/Intermediate/Concert/MultiUser/E61D3E6244DAE221D1985BB5EB2729B3/CEED1CF24553FF93F60FDF9723F1C759/Sandbox/ControlRigSpline/' was aborted.
+[2024.04.19-17.38.57:886][ 52]LogDirectoryWatcher: A directory notification for 'D:/CyberPlace/Port5_Cyberpunk/Intermediate/Concert/MultiUser/E61D3E6244DAE221D1985BB5EB2729B3/CEED1CF24553FF93F60FDF9723F1C759/Sandbox/ACLPlugin/' was aborted.
+[2024.04.19-17.38.57:886][ 52]LogDirectoryWatcher: A directory notification for 'D:/CyberPlace/Port5_Cyberpunk/Intermediate/Concert/MultiUser/E61D3E6244DAE221D1985BB5EB2729B3/CEED1CF24553FF93F60FDF9723F1C759/Sandbox/AnimationSharing/' was aborted.
+[2024.04.19-17.38.57:886][ 52]LogDirectoryWatcher: A directory notification for 'D:/CyberPlace/Port5_Cyberpunk/Intermediate/Concert/MultiUser/E61D3E6244DAE221D1985BB5EB2729B3/CEED1CF24553FF93F60FDF9723F1C759/Sandbox/Paper2D/' was aborted.
+[2024.04.19-17.38.57:886][ 52]LogDirectoryWatcher: A directory notification for 'D:/CyberPlace/Port5_Cyberpunk/Intermediate/Concert/MultiUser/E61D3E6244DAE221D1985BB5EB2729B3/CEED1CF24553FF93F60FDF9723F1C759/Sandbox/TraceUtilities/' was aborted.
+[2024.04.19-17.38.57:886][ 52]LogDirectoryWatcher: A directory notification for 'D:/CyberPlace/Port5_Cyberpunk/Intermediate/Concert/MultiUser/E61D3E6244DAE221D1985BB5EB2729B3/CEED1CF24553FF93F60FDF9723F1C759/Sandbox/Bridge/' was aborted.
+[2024.04.19-17.38.57:909][ 52]LogUObjectGlobals: Reloading 1 Package(s):
+	Asset Name: /Game/BluePrints/Jacob/MiddleGlassBuild
+[2024.04.19-17.38.57:965][ 52]LogUObjectHash: Compacting FUObjectHashTables data took   2.09ms
+[2024.04.19-17.38.58:010][ 52]LogUObjectGlobals: Warning: ReloadPackage failed to find a replacement object for 'MiddleGlassBuild_C:SimpleConstructionScript_0.SCS_Node_39' in the new package '/Game/BluePrints/Jacob/MiddleGlassBuild'. Any existing references to this object will be nulled out.
+[2024.04.19-17.38.58:010][ 52]LogUObjectGlobals: Warning: ReloadPackage failed to find a replacement object for 'MiddleGlassBuild_C:SimpleConstructionScript_0.SCS_Node_41' in the new package '/Game/BluePrints/Jacob/MiddleGlassBuild'. Any existing references to this object will be nulled out.
+[2024.04.19-17.38.58:010][ 52]LogActorComponent: UnregisterComponent: (/Engine/Transient.DirectionalLightComponent_13) Not registered. Aborting.
+[2024.04.19-17.38.58:010][ 52]LogActorComponent: UnregisterComponent: (/Engine/Transient.SkyLightComponent_5) Not registered. Aborting.
+[2024.04.19-17.38.58:010][ 52]LogActorComponent: UnregisterComponent: (/Engine/Transient.LineBatchComponent_29) Not registered. Aborting.
+[2024.04.19-17.38.58:010][ 52]LogActorComponent: UnregisterComponent: (/Engine/Transient.StaticMeshComponent_8) Not registered. Aborting.
+[2024.04.19-17.38.58:010][ 52]LogActorComponent: UnregisterComponent: (/Engine/Transient.DirectionalLightComponent_14) Not registered. Aborting.
+[2024.04.19-17.38.58:010][ 52]LogActorComponent: UnregisterComponent: (/Engine/Transient.DirectionalLightComponent_15) Not registered. Aborting.
+[2024.04.19-17.38.58:010][ 52]LogActorComponent: UnregisterComponent: (/Engine/Transient.StaticMeshComponent_9) Not registered. Aborting.
+[2024.04.19-17.38.58:010][ 52]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2024.04.19-17.38.58:010][ 52]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.19-17.38.58:025][ 52]LogSpawn: Warning: UWorld::DestroyActor: World has no context! World: World_5, Actor: /Engine/Transient.World_5:PersistentLevel.MiddleGlassBuild_C_3
+[2024.04.19-17.38.58:647][ 52]LogUObjectHash: Compacting FUObjectHashTables data took   2.22ms
+[2024.04.19-17.38.58:770][ 52]LogConcert: Display: Shutdown Concert session '4/19/I wanna die' (Id: CEED1CF24553FF93F60FDF9723F1C759, Owner: castudent).
+[2024.04.19-17.38.59:073][ 53]LogAutomationController: Ignoring very large delta of 12.77 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2024.04.19-17.38.59:102][ 53]LogConcert: [Success] Successfully Persisted Session Changes - Succesfully persisted session files
+[2024.04.19-17.38.59:483][ 54]LogConcert: Display: Server FS4B-110-18 lost.
+[2024.04.19-17.38.59:785][ 55]LogConcert: Display: Server FS4B-110-18 discovered.
+[2024.04.19-17.39.04:192][233]LogSlate: Window 'Delete Session Confirmation' being destroyed
+[2024.04.19-17.39.04:203][233]Message dialog closed, result: Yes, title: Delete Session Confirmation, text: Do you really want to delete 1 session from 1 server?
+
+The session 
+	- 4/19/I wanna die
+ will be deleted from the server FS4B-110-18.
+[2024.04.19-17.39.04:203][233]LogConcert: [Pending] Deleting Session...
+[2024.04.19-17.39.04:296][234]LogConcert: [Pending] Deleting Session...
+[2024.04.19-17.39.05:013][248]LogConcert: [Success] Deleted Session '4/19/I wanna die'
+[2024.04.19-17.39.05:076][248]LogConcert: [Success] Deleted Session '4/19/I wanna die'
+[2024.04.19-17.39.07:713][316]LogSlate: Window 'Delete Session Confirmation' being destroyed
+[2024.04.19-17.39.07:722][316]Message dialog closed, result: Yes, title: Delete Session Confirmation, text: Do you really want to delete 1 session from 1 server?
+
+The session 
+	- 4/18_2024.04.19-17.08.29
+ will be deleted from the server FS4B-110-18.
+[2024.04.19-17.39.07:722][316]LogConcert: [Pending] Deleting Session...
+[2024.04.19-17.39.07:761][317]LogConcert: [Pending] Deleting Session...
+[2024.04.19-17.39.08:015][321]LogConcert: [Success] Deleted Session '4/18_2024.04.19-17.08.29'
+[2024.04.19-17.39.08:031][321]LogConcert: [Success] Deleted Session '4/18_2024.04.19-17.08.29'
+[2024.04.19-17.39.09:010][342]LogSlate: Window 'Multi-User Browser' being destroyed
+[2024.04.19-17.39.09:021][342]LogSlate: Window 'Multi-User Browser' being destroyed
+[2024.04.19-17.39.27:687][961]LogConcert: Display: Server FS4B-110-18 lost.
+[2024.04.19-17.39.29:289][  8]LogConcert: [Pending] Launching Unreal Multi-User Server...
+[2024.04.19-17.39.29:302][  8]LogConcert: [Success] Launched Unreal Multi-User Server
+[2024.04.19-17.39.29:381][  9]LogConcert: [Success] Launched Unreal Multi-User Server
+[2024.04.19-17.39.33:067][ 82]LogConcert: Display: Server FS4B-110-18 discovered.
+[2024.04.19-17.39.40:795][258]LogConcert: [Pending] Creating Session '4/19'...
+[2024.04.19-17.39.40:795][258]LogConcert: [Pending] Creating Session '4/19'... - Validating Workspace...
+[2024.04.19-17.39.40:914][259]LogConcert: [Pending] Creating Session '4/19'... - Validating Workspace...
+[2024.04.19-17.39.41:366][261]LogConcert: [Pending] Creating Session '4/19'... - Attempting Remote Connection...
+[2024.04.19-17.39.41:418][266]LogConcertTakeRecorder: Display: Multi-user Take Recorder Session Startup: 4/19
+[2024.04.19-17.39.41:559][266]SourceControl: Revision control is disabled
+[2024.04.19-17.39.41:559][266]SourceControl: Revision control is disabled
+[2024.04.19-17.39.41:559][266]LogConcert: Display: Initialized Concert session '4/19' (Id: A9287B3E4E821F7C59EEBABC5BD81719, Owner: castudent).
+[2024.04.19-17.39.41:559][266]LogConcert: Display: Connecting to Concert session '4/19' (Id: A9287B3E4E821F7C59EEBABC5BD81719, Owner: castudent).
+[2024.04.19-17.39.41:617][268]LogConcertTakeRecorder: Display: Multi-user Take Recorder Connected to Session: 4/19
+[2024.04.19-17.39.41:617][268]LogConcert: Display: Connected to Concert session '4/19' (Id: A9287B3E4E821F7C59EEBABC5BD81719, Owner: castudent).
+[2024.04.19-17.39.41:638][270]LogConcert: Display: Synced activity '1' produced by endpoint '80B4926C4ACA717114629DA574A5CE06': Jacob joined the session.
+[2024.04.19-17.39.41:672][274]LogConcert: [Success] Created Session '4/19'
+[2024.04.19-17.39.41:701][275]LogConcert: [Success] Created Session '4/19'
+[2024.04.19-17.39.41:761][275]LogSlate: Vector cache flush requested. Reason: Large atlases out of space; 2/1 Textures; frames since last flush: 42275
+[2024.04.19-17.39.41:761][275]LogSlate: Warning: Setting the threshold to trigger a flush to 2 non-atlased textures as there is a lot of font data being cached.
+[2024.04.19-17.39.51:862][606]LogConcertTakeRecorder: Display: Session Client Change: Mason Connected.
+[2024.04.19-17.39.51:862][606]LogConcert: Display: User 'castudent' (Endpoint: 17069016435C645771AB4DA5F8CC0BE1) joined Concert session '4/19' (Id: A9287B3E4E821F7C59EEBABC5BD81719, Owner: castudent).
+[2024.04.19-17.39.51:863][606]LogConcert: Display: Synced activity '2' produced by endpoint '17069016435C645771AB4DA5F8CC0BE1': Mason joined the session.
+[2024.04.19-17.40.02:659][934]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.19-17.40.12:100][172]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/BluePrints/Jacob/MiddleGlassBuild.MiddleGlassBuild
+[2024.04.19-17.40.12:100][172]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.19-17.40.12:100][172]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.19-17.40.13:860][205]LogViewport: Scene viewport resized to 2288x1845, mode Windowed.
+[2024.04.19-17.40.17:708][276]LogConcert: Display: Synced activity '3' produced by endpoint '80B4926C4ACA717114629DA574A5CE06': Jacob locked /Game/BluePrints/Jacob/MiddleGlassBuild.
+[2024.04.19-17.41.00:346][141]LogEditorTransaction: Undo Modify Component(s)
+[2024.04.19-17.41.05:564][258]LogEditorTransaction: Undo Modify Component(s)
+[2024.04.19-17.43.26:626][170]LogUObjectHash: Compacting FUObjectHashTables data took   4.20ms
+[2024.04.19-17.43.26:629][170]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Scenes/CyberPlace' took 0.166
+[2024.04.19-17.43.26:629][170]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/BluePrints/Jacob/MiddleGlassBuild] ([2] browsable assets)...
+[2024.04.19-17.43.26:654][170]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/BluePrints/Jacob/MiddleGlassBuild.MiddleGlassBuild]
+[2024.04.19-17.43.26:654][170]OBJ SavePackage: Finished generating thumbnails for package [/Game/BluePrints/Jacob/MiddleGlassBuild]
+[2024.04.19-17.43.26:654][170]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BluePrints/Jacob/MiddleGlassBuild" FILE="D:/CyberPlace/Port5_Cyberpunk/Saved/Autosaves/Game/BluePrints/Jacob/MiddleGlassBuild_Auto3.uasset" SILENT=false AUTOSAVING=true
+[2024.04.19-17.43.26:699][170]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/BluePrints/Jacob/MiddleGlassBuild_Auto3
+[2024.04.19-17.43.26:699][170]LogSavePackage: Moving 'D:/CyberPlace/Port5_Cyberpunk/Saved/MiddleGlassBuild_Auto3C98D476D48C238B80EB65FBAD7215772.tmp' to 'D:/CyberPlace/Port5_Cyberpunk/Saved/Autosaves/Game/BluePrints/Jacob/MiddleGlassBuild_Auto3.uasset'
+[2024.04.19-17.43.26:699][170]LogFileHelpers: Auto-saving content packages took 0.071
+[2024.04.19-17.43.47:249][666]LogConcertTakeRecorder: Display: Session Client Change: Mason Disconnected.
+[2024.04.19-17.43.47:249][666]LogConcert: Display: User 'castudent' (Endpoint: 17069016435C645771AB4DA5F8CC0BE1) left Concert session '4/19' (Id: A9287B3E4E821F7C59EEBABC5BD81719, Owner: castudent).
+[2024.04.19-17.43.47:250][666]LogConcert: Display: Synced activity '4' produced by endpoint '17069016435C645771AB4DA5F8CC0BE1': Mason left the session.
+[2024.04.19-17.45.37:293][486]BlueprintLog: New page: Compile MiddleGlassBuild
+[2024.04.19-17.45.38:018][486]LogUObjectHash: Compacting FUObjectHashTables data took   4.14ms
+[2024.04.19-17.45.39:540][511]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.19-17.45.39:694][511]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BluePrints/Jacob/MiddleGlassBuild" FILE="D:/CyberPlace/Port5_Cyberpunk/Content/BluePrints/Jacob/MiddleGlassBuild.uasset" SILENT=true
+[2024.04.19-17.45.39:764][511]LogSavePackage: Moving output files for package: /Game/BluePrints/Jacob/MiddleGlassBuild
+[2024.04.19-17.45.39:765][511]LogSavePackage: Moving 'D:/CyberPlace/Port5_Cyberpunk/Saved/MiddleGlassBuild475355D04796472BCC6212AA3F32B29B.tmp' to 'D:/CyberPlace/Port5_Cyberpunk/Content/BluePrints/Jacob/MiddleGlassBuild.uasset'
+[2024.04.19-17.45.39:778][511]LogFileHelpers: InternalPromptForCheckoutAndSave took 238 ms (total: 625 ms)
+[2024.04.19-17.45.39:781][511]AssetCheck: New page: Asset Save: MiddleGlassBuild
+[2024.04.19-17.45.39:781][511]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/BluePrints/Jacob/MiddleGlassBuild.MiddleGlassBuild
+[2024.04.19-17.45.39:915][514]LogConcert: Display: Synced activity '5' produced by endpoint '80B4926C4ACA717114629DA574A5CE06': Jacob saved package /Game/BluePrints/Jacob/MiddleGlassBuild.
+[2024.04.19-17.45.39:915][514]LogConcert: Display: Synced activity '6' produced by endpoint '80B4926C4ACA717114629DA574A5CE06': Jacob unlocked /Game/BluePrints/Jacob/MiddleGlassBuild.
+[2024.04.19-17.45.41:510][555]LogSlate: Window 'MiddleGlassBuild' being destroyed
+[2024.04.19-17.45.41:528][555]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2024.04.19-17.45.41:528][555]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.19-17.45.43:789][606]LogViewport: Scene viewport resized to 3056x1725, mode Windowed.
+[2024.04.19-17.46.03:809][176]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/BluePrints/Jacob/MiddleGlassBuild.MiddleGlassBuild_C
+[2024.04.19-17.46.03:809][176]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/BluePrints/Jacob/MiddleGlassBuild.MiddleGlassBuild_C
+[2024.04.19-17.46.03:941][176]LogActorFactory: Actor Factory spawned Blueprint /Game/BluePrints/Jacob/MiddleGlassBuild.MiddleGlassBuild as actor: MiddleGlassBuild_C /Game/Scenes/CyberPlace.CyberPlace:PersistentLevel.MiddleGlassBuild_C_0
+[2024.04.19-17.46.04:088][176]LogActorFactory: Actor Factory spawned Blueprint /Game/BluePrints/Jacob/MiddleGlassBuild.MiddleGlassBuild as actor: MiddleGlassBuild_C /Game/Scenes/CyberPlace.CyberPlace:PersistentLevel.MiddleGlassBuild_C_0
+[2024.04.19-17.46.04:386][176]LogActorFactory: Loading ActorFactory Class /Script/Engine.LevelInstance
+[2024.04.19-17.46.05:161][178]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/BluePrints/Jacob/MiddleGlassBuild.MiddleGlassBuild_C
+[2024.04.19-17.46.05:161][178]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/BluePrints/Jacob/MiddleGlassBuild.MiddleGlassBuild_C
+[2024.04.19-17.46.05:297][178]LogActorFactory: Actor Factory spawned Blueprint /Game/BluePrints/Jacob/MiddleGlassBuild.MiddleGlassBuild as actor: MiddleGlassBuild_C /Game/Scenes/CyberPlace.CyberPlace:PersistentLevel.MiddleGlassBuild_C_1
+[2024.04.19-17.46.05:449][178]LogActorFactory: Actor Factory spawned Blueprint /Game/BluePrints/Jacob/MiddleGlassBuild.MiddleGlassBuild as actor: MiddleGlassBuild_C /Game/Scenes/CyberPlace.CyberPlace:PersistentLevel.MiddleGlassBuild_C_1
+[2024.04.19-17.46.06:390][182]LogConcert: Display: Synced activity '7' produced by endpoint '80B4926C4ACA717114629DA574A5CE06': Jacob created MiddleGlassBuild_C_1 in /Game/Scenes/CyberPlace.
+[2024.04.19-17.46.09:089][247]LogConcert: Display: Synced activity '8' produced by endpoint '80B4926C4ACA717114629DA574A5CE06': Jacob modified MiddleGlassBuild_C_1 in /Game/Scenes/CyberPlace.
+[2024.04.19-17.46.40:407][989]LogConcert: Display: Synced activity '9' produced by endpoint '80B4926C4ACA717114629DA574A5CE06': Jacob modified MiddleGlassBuild_C_1 in /Game/Scenes/CyberPlace.
+[2024.04.19-17.46.52:895][245]LogConcert: Display: Synced activity '10' produced by endpoint '80B4926C4ACA717114629DA574A5CE06': Jacob modified MiddleGlassBuild_C_1 in /Game/Scenes/CyberPlace.
+[2024.04.19-17.47.00:610][424]LogConcert: Display: Synced activity '11' produced by endpoint '80B4926C4ACA717114629DA574A5CE06': Jacob modified MiddleGlassBuild_C_1 in /Game/Scenes/CyberPlace.
+[2024.04.19-17.47.03:693][507]Cmd: DELETE
+[2024.04.19-17.47.03:693][507]Cmd: ACTOR DELETE
+[2024.04.19-17.47.03:717][507]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.04.19-17.47.03:941][507]LogUObjectHash: Compacting FUObjectHashTables data took   4.64ms
+[2024.04.19-17.47.03:957][507]LogEditorActor: Deleted 1 Actors (0.264 secs)
+[2024.04.19-17.47.04:023][511]LogConcert: Display: Synced activity '12' produced by endpoint '80B4926C4ACA717114629DA574A5CE06': Jacob deleted StaticMeshActor_4 in /Game/Scenes/CyberPlace.
+[2024.04.19-17.47.10:625][671]Cmd: TRANSACTION UNDO
+[2024.04.19-17.47.10:625][671]LogEditorTransaction: Undo Clicking on Elements
+[2024.04.19-17.47.13:892][797]Cmd: TRANSACTION UNDO
+[2024.04.19-17.47.13:892][797]LogEditorTransaction: Undo Delete Elements
+[2024.04.19-17.47.14:287][800]LogConcert: Display: Synced activity '13' produced by endpoint '80B4926C4ACA717114629DA574A5CE06': Jacob created StaticMeshActor_4 in /Game/Scenes/CyberPlace.
+[2024.04.19-17.47.39:456][483]Cmd: TRANSACTION UNDO
+[2024.04.19-17.47.39:456][483]LogEditorTransaction: Undo Clicking on Elements
+[2024.04.19-17.47.40:258][518]Cmd: TRANSACTION UNDO
+[2024.04.19-17.47.40:258][518]LogEditorTransaction: Undo Clicking on Elements
+[2024.04.19-17.47.41:105][536]Cmd: TRANSACTION UNDO
+[2024.04.19-17.47.41:105][536]LogEditorTransaction: Undo Clicking on Elements
+[2024.04.19-17.47.41:812][549]Cmd: TRANSACTION UNDO
+[2024.04.19-17.47.41:812][549]LogEditorTransaction: Undo Clicking on Elements
+[2024.04.19-17.47.42:411][564]Cmd: TRANSACTION UNDO
+[2024.04.19-17.47.42:411][564]LogEditorTransaction: Undo Clicking on Elements
+[2024.04.19-17.47.42:956][575]Cmd: TRANSACTION UNDO
+[2024.04.19-17.47.42:956][575]LogEditorTransaction: Undo Clicking on Elements
+[2024.04.19-17.47.43:456][587]Cmd: TRANSACTION UNDO
+[2024.04.19-17.47.43:456][587]LogEditorTransaction: Undo Move Elements
+[2024.04.19-17.47.44:067][591]LogConcert: Display: Synced activity '14' produced by endpoint '80B4926C4ACA717114629DA574A5CE06': Jacob modified MiddleGlassBuild_C_1 in /Game/Scenes/CyberPlace.
+[2024.04.19-17.47.44:391][629]Cmd: TRANSACTION UNDO
+[2024.04.19-17.47.44:391][629]LogEditorTransaction: Undo Move Elements
+[2024.04.19-17.47.45:073][632]LogConcert: Display: Synced activity '15' produced by endpoint '80B4926C4ACA717114629DA574A5CE06': Jacob modified MiddleGlassBuild_C_1 in /Game/Scenes/CyberPlace.
+[2024.04.19-17.47.52:974][833]Cmd: DELETE
+[2024.04.19-17.47.52:974][833]Cmd: ACTOR DELETE
+[2024.04.19-17.47.52:987][833]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.04.19-17.47.53:014][833]LogUObjectHash: Compacting FUObjectHashTables data took   2.66ms
+[2024.04.19-17.47.53:023][833]LogEditorActor: Deleted 1 Actors (0.048 secs)
+[2024.04.19-17.47.53:076][836]LogConcert: Display: Synced activity '16' produced by endpoint '80B4926C4ACA717114629DA574A5CE06': Jacob deleted StaticMeshActor_4 in /Game/Scenes/CyberPlace.
+[2024.04.19-17.48.04:263][  6]LogConcert: Display: Synced activity '17' produced by endpoint '80B4926C4ACA717114629DA574A5CE06': Jacob modified MiddleGlassBuild_C_1 in /Game/Scenes/CyberPlace.
+[2024.04.19-17.48.10:867][156]LogConcert: Display: Synced activity '18' produced by endpoint '80B4926C4ACA717114629DA574A5CE06': Jacob modified MiddleGlassBuild_C_1 in /Game/Scenes/CyberPlace.
+[2024.04.19-17.48.35:181][817]LogUObjectHash: Compacting FUObjectHashTables data took   2.33ms
+[2024.04.19-17.48.35:200][817]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.19-17.48.35:249][817]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Scenes/CyberPlace" FILE="D:/CyberPlace/Port5_Cyberpunk/Content/Scenes/CyberPlace.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.04.19-17.48.35:314][817]LogUObjectHash: Compacting FUObjectHashTables data took   1.87ms
+[2024.04.19-17.48.35:549][817]LogSavePackage: Moving output files for package: /Game/Scenes/CyberPlace
+[2024.04.19-17.48.35:550][817]LogSavePackage: Moving 'D:/CyberPlace/Port5_Cyberpunk/Saved/CyberPlace1BD4852A4EA63379D86668BE670ACB3A.tmp' to 'D:/CyberPlace/Port5_Cyberpunk/Content/Scenes/CyberPlace.umap'
+[2024.04.19-17.48.35:570][817]LogFileHelpers: Saving map 'CyberPlace' took 0.322
+[2024.04.19-17.48.35:581][817]LogFileHelpers: InternalPromptForCheckoutAndSave took 381 ms (total: 1.00 sec)
+[2024.04.19-17.48.35:586][817]AssetCheck: New page: Asset Save: CyberPlace
+[2024.04.19-17.48.35:586][817]LogContentValidation: Display: Validating /Script/Engine.World /Game/Scenes/CyberPlace.CyberPlace
+[2024.04.19-17.48.35:697][821]LogConcert: Display: Synced activity '19' produced by endpoint '80B4926C4ACA717114629DA574A5CE06': Jacob saved package /Game/Scenes/CyberPlace.
+[2024.04.19-17.48.39:191][956]LogSlate: Window 'Persist & Submit Files' being destroyed
+[2024.04.19-17.48.39:293][956]LogConcert: [Pending] Persisting Session Changes
+[2024.04.19-17.48.39:295][956]LogConcert: [Pending] Persisting Session Changes - See Message Log
+[2024.04.19-17.48.39:295][956]LogConcert: [Success] Successfully Persisted Session Changes - Succesfully persisted session files
+[2024.04.19-17.48.39:341][957]LogConcert: [Success] Successfully Persisted Session Changes - Succesfully persisted session files
