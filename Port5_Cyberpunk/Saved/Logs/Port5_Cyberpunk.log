@@ -3353,3 +3353,99 @@ The session
 [2024.04.19-19.07.53:352][177]AssetCheck: New page: Asset Save: CyberPlace
 [2024.04.19-19.07.53:352][177]LogContentValidation: Display: Validating /Script/Engine.World /Game/Scenes/CyberPlace.CyberPlace
 [2024.04.19-19.07.53:452][179]LogConcert: Display: Synced activity '528' produced by endpoint '80B4926C4ACA717114629DA574A5CE06': Jacob saved package /Game/Scenes/CyberPlace.
+[2024.04.19-19.08.52:024][682]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/FBX/Mason/Building_Funky_Banding1_BLOCKOUT.Building_Funky_Banding1_BLOCKOUT
+[2024.04.19-19.08.52:024][682]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/FBX/Mason/Building_Funky_Banding1_BLOCKOUT.Building_Funky_Banding1_BLOCKOUT
+[2024.04.19-19.08.52:025][682]LogActorFactory: Actor Factory spawned StaticMesh /Game/FBX/Mason/Building_Funky_Banding1_BLOCKOUT.Building_Funky_Banding1_BLOCKOUT as actor: StaticMeshActor /Game/Scenes/CyberPlace.CyberPlace:PersistentLevel.StaticMeshActor_4
+[2024.04.19-19.08.55:110][813]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/FBX/Mason/Building_Funky_Banding1_BLOCKOUT.Building_Funky_Banding1_BLOCKOUT
+[2024.04.19-19.08.55:110][813]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/FBX/Mason/Building_Funky_Banding1_BLOCKOUT.Building_Funky_Banding1_BLOCKOUT
+[2024.04.19-19.08.55:114][813]LogActorFactory: Actor Factory spawned StaticMesh /Game/FBX/Mason/Building_Funky_Banding1_BLOCKOUT.Building_Funky_Banding1_BLOCKOUT as actor: StaticMeshActor /Game/Scenes/CyberPlace.CyberPlace:PersistentLevel.StaticMeshActor_10
+[2024.04.19-19.08.55:175][813]LogEditorBookmarks: Warning: FBookmarkTypeToolsImpl::JumpToBookmark - Null Bookmark at index 4
+[2024.04.19-19.08.55:541][816]LogConcert: Display: Synced activity '529' produced by endpoint '80B4926C4ACA717114629DA574A5CE06': Jacob created StaticMeshActor_10 in /Game/Scenes/CyberPlace.
+[2024.04.19-19.08.56:888][852]LogConcert: Display: Synced activity '530' produced by endpoint '80B4926C4ACA717114629DA574A5CE06': Jacob locked StaticMeshActor_10.StaticMeshComponent0 in /Game/Scenes/CyberPlace.
+[2024.04.19-19.09.02:087][952]LogConcert: Display: Synced activity '531' produced by endpoint '80B4926C4ACA717114629DA574A5CE06': Jacob modified StaticMeshActor_10.StaticMeshComponent0 in /Game/Scenes/CyberPlace.
+[2024.04.19-19.09.02:087][952]LogConcert: Display: Synced activity '532' produced by endpoint '80B4926C4ACA717114629DA574A5CE06': Jacob unlocked StaticMeshActor_10.StaticMeshComponent0 in /Game/Scenes/CyberPlace.
+[2024.04.19-19.09.02:476][964]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2024.04.19-19.09.08:145][ 99]LogConcert: Display: Synced activity '533' produced by endpoint '80B4926C4ACA717114629DA574A5CE06': Jacob locked StaticMeshActor_10.StaticMeshComponent0 in /Game/Scenes/CyberPlace.
+[2024.04.19-19.09.10:898][159]LogConcert: Display: Synced activity '534' produced by endpoint '80B4926C4ACA717114629DA574A5CE06': Jacob modified StaticMeshActor_10.StaticMeshComponent0 in /Game/Scenes/CyberPlace.
+[2024.04.19-19.09.10:898][159]LogConcert: Display: Synced activity '535' produced by endpoint '80B4926C4ACA717114629DA574A5CE06': Jacob unlocked StaticMeshActor_10.StaticMeshComponent0 in /Game/Scenes/CyberPlace.
+[2024.04.19-19.09.11:945][190]LogConcert: Display: Synced activity '536' produced by endpoint '80B4926C4ACA717114629DA574A5CE06': Jacob locked StaticMeshActor_10.StaticMeshComponent0 in /Game/Scenes/CyberPlace.
+[2024.04.19-19.09.15:391][265]LogConcert: Display: Synced activity '537' produced by endpoint '80B4926C4ACA717114629DA574A5CE06': Jacob modified StaticMeshActor_10.StaticMeshComponent0 in /Game/Scenes/CyberPlace.
+[2024.04.19-19.09.15:392][265]LogConcert: Display: Synced activity '538' produced by endpoint '80B4926C4ACA717114629DA574A5CE06': Jacob unlocked StaticMeshActor_10.StaticMeshComponent0 in /Game/Scenes/CyberPlace.
+[2024.04.19-19.09.23:403][478]LogConcert: Display: Synced activity '539' produced by endpoint '80B4926C4ACA717114629DA574A5CE06': Jacob locked StaticMeshActor_10.StaticMeshComponent0 in /Game/Scenes/CyberPlace.
+[2024.04.19-19.09.25:524][531]LogConcert: Display: Synced activity '540' produced by endpoint '80B4926C4ACA717114629DA574A5CE06': Jacob modified StaticMeshActor_10.StaticMeshComponent0 in /Game/Scenes/CyberPlace.
+[2024.04.19-19.09.25:525][531]LogConcert: Display: Synced activity '541' produced by endpoint '80B4926C4ACA717114629DA574A5CE06': Jacob unlocked StaticMeshActor_10.StaticMeshComponent0 in /Game/Scenes/CyberPlace.
+[2024.04.19-19.09.33:366][726]Cmd: DUPLICATE
+[2024.04.19-19.09.33:366][726]Cmd: ACTOR DUPLICATE
+[2024.04.19-19.09.33:671][729]LogConcert: Display: Synced activity '542' produced by endpoint '80B4926C4ACA717114629DA574A5CE06': Jacob created StaticMeshActor_12 in /Game/Scenes/CyberPlace, plus 1 other action.
+[2024.04.19-19.09.35:103][770]LogConcert: Display: Synced activity '543' produced by endpoint '80B4926C4ACA717114629DA574A5CE06': Jacob locked StaticMeshActor_12.StaticMeshComponent0 in /Game/Scenes/CyberPlace, plus 1 other resource.
+[2024.04.19-19.09.36:125][788]LogConcert: Display: Synced activity '544' produced by endpoint '80B4926C4ACA717114629DA574A5CE06': Jacob modified StaticMeshActor_12.StaticMeshComponent0 in /Game/Scenes/CyberPlace, plus 1 other action.
+[2024.04.19-19.09.36:125][788]LogConcert: Display: Synced activity '545' produced by endpoint '80B4926C4ACA717114629DA574A5CE06': Jacob unlocked StaticMeshActor_31.StaticMeshComponent0 in /Game/Scenes/CyberPlace, plus 1 other resource.
+[2024.04.19-19.09.45:542][ 27]LogConcert: Display: Synced activity '546' produced by endpoint '80B4926C4ACA717114629DA574A5CE06': Jacob locked StaticMeshActor_12.StaticMeshComponent0 in /Game/Scenes/CyberPlace, plus 1 other resource.
+[2024.04.19-19.09.49:638][130]LogConcert: Display: Synced activity '547' produced by endpoint '80B4926C4ACA717114629DA574A5CE06': Jacob modified StaticMeshActor_12.StaticMeshComponent0 in /Game/Scenes/CyberPlace, plus 1 other action.
+[2024.04.19-19.09.49:638][130]LogConcert: Display: Synced activity '548' produced by endpoint '80B4926C4ACA717114629DA574A5CE06': Jacob unlocked StaticMeshActor_31.StaticMeshComponent0 in /Game/Scenes/CyberPlace, plus 1 other resource.
+[2024.04.19-19.09.51:411][180]LogConcert: Display: Synced activity '549' produced by endpoint '80B4926C4ACA717114629DA574A5CE06': Jacob locked StaticMeshActor_12.StaticMeshComponent0 in /Game/Scenes/CyberPlace, plus 1 other resource.
+[2024.04.19-19.09.54:304][240]LogConcert: Display: Synced activity '550' produced by endpoint '80B4926C4ACA717114629DA574A5CE06': Jacob modified StaticMeshActor_12.StaticMeshComponent0 in /Game/Scenes/CyberPlace, plus 1 other action.
+[2024.04.19-19.09.54:304][240]LogConcert: Display: Synced activity '551' produced by endpoint '80B4926C4ACA717114629DA574A5CE06': Jacob unlocked StaticMeshActor_31.StaticMeshComponent0 in /Game/Scenes/CyberPlace, plus 1 other resource.
+[2024.04.19-19.09.55:361][269]LogConcert: Display: Synced activity '552' produced by endpoint '80B4926C4ACA717114629DA574A5CE06': Jacob locked StaticMeshActor_12.StaticMeshComponent0 in /Game/Scenes/CyberPlace, plus 1 other resource.
+[2024.04.19-19.09.59:901][384]LogConcert: Display: Synced activity '553' produced by endpoint '80B4926C4ACA717114629DA574A5CE06': Jacob modified StaticMeshActor_12.StaticMeshComponent0 in /Game/Scenes/CyberPlace, plus 1 other action.
+[2024.04.19-19.09.59:901][384]LogConcert: Display: Synced activity '554' produced by endpoint '80B4926C4ACA717114629DA574A5CE06': Jacob unlocked StaticMeshActor_31.StaticMeshComponent0 in /Game/Scenes/CyberPlace, plus 1 other resource.
+[2024.04.19-19.10.02:967][449]LogConcert: Display: Synced activity '555' produced by endpoint '80B4926C4ACA717114629DA574A5CE06': Jacob locked StaticMeshActor_31.StaticMeshComponent0 in /Game/Scenes/CyberPlace.
+[2024.04.19-19.10.03:936][472]LogConcert: Display: Synced activity '556' produced by endpoint '80B4926C4ACA717114629DA574A5CE06': Jacob modified StaticMeshActor_31.StaticMeshComponent0 in /Game/Scenes/CyberPlace.
+[2024.04.19-19.10.03:937][472]LogConcert: Display: Synced activity '557' produced by endpoint '80B4926C4ACA717114629DA574A5CE06': Jacob unlocked StaticMeshActor_31.StaticMeshComponent0 in /Game/Scenes/CyberPlace.
+[2024.04.19-19.10.13:220][698]LogConcert: Display: Synced activity '558' produced by endpoint '80B4926C4ACA717114629DA574A5CE06': Jacob locked StaticMeshActor_97.StaticMeshComponent0 in /Game/Scenes/CyberPlace, plus 2 other resources.
+[2024.04.19-19.10.14:889][740]LogConcert: Display: Synced activity '559' produced by endpoint '80B4926C4ACA717114629DA574A5CE06': Jacob modified StaticMeshActor_87.StaticMeshComponent0 in /Game/Scenes/CyberPlace, plus 2 other actions.
+[2024.04.19-19.10.14:889][740]LogConcert: Display: Synced activity '560' produced by endpoint '80B4926C4ACA717114629DA574A5CE06': Jacob unlocked StaticMeshActor_95.StaticMeshComponent0 in /Game/Scenes/CyberPlace, plus 2 other resources.
+[2024.04.19-19.10.43:945][526]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/BluePrints/Jacob/CloseGlassBuild.CloseGlassBuild_C
+[2024.04.19-19.10.43:945][526]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/BluePrints/Jacob/CloseGlassBuild.CloseGlassBuild_C
+[2024.04.19-19.10.43:949][526]LogActorFactory: Actor Factory spawned Blueprint /Game/BluePrints/Jacob/CloseGlassBuild.CloseGlassBuild as actor: CloseGlassBuild_C /Game/Scenes/CyberPlace.CyberPlace:PersistentLevel.CloseGlassBuild_C_0
+[2024.04.19-19.10.43:953][526]LogActorFactory: Actor Factory spawned Blueprint /Game/BluePrints/Jacob/CloseGlassBuild.CloseGlassBuild as actor: CloseGlassBuild_C /Game/Scenes/CyberPlace.CyberPlace:PersistentLevel.CloseGlassBuild_C_0
+[2024.04.19-19.10.46:321][626]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/BluePrints/Jacob/CloseGlassBuild.CloseGlassBuild_C
+[2024.04.19-19.10.46:321][626]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/BluePrints/Jacob/CloseGlassBuild.CloseGlassBuild_C
+[2024.04.19-19.10.46:326][626]LogActorFactory: Actor Factory spawned Blueprint /Game/BluePrints/Jacob/CloseGlassBuild.CloseGlassBuild as actor: CloseGlassBuild_C /Game/Scenes/CyberPlace.CyberPlace:PersistentLevel.CloseGlassBuild_C_3
+[2024.04.19-19.10.46:329][626]LogActorFactory: Actor Factory spawned Blueprint /Game/BluePrints/Jacob/CloseGlassBuild.CloseGlassBuild as actor: CloseGlassBuild_C /Game/Scenes/CyberPlace.CyberPlace:PersistentLevel.CloseGlassBuild_C_3
+[2024.04.19-19.10.46:759][630]LogConcert: Display: Synced activity '561' produced by endpoint '80B4926C4ACA717114629DA574A5CE06': Jacob created CloseGlassBuild_C_3 in /Game/Scenes/CyberPlace.
+[2024.04.19-19.10.51:628][747]LogConcert: Display: Synced activity '562' produced by endpoint '80B4926C4ACA717114629DA574A5CE06': Jacob modified CloseGlassBuild_C_3 in /Game/Scenes/CyberPlace.
+[2024.04.19-19.11.01:762][985]LogConcert: Display: Synced activity '563' produced by endpoint '80B4926C4ACA717114629DA574A5CE06': Jacob modified CloseGlassBuild_C_3 in /Game/Scenes/CyberPlace.
+[2024.04.19-19.11.06:659][143]LogConcertTakeRecorder: Display: Session Client Change: Mason Connected.
+[2024.04.19-19.11.06:659][143]LogConcert: Display: User 'castudent' (Endpoint: 5FB4104F4C878C85C31D54BD8EDE09A6) joined Concert session '4/19' (Id: A9287B3E4E821F7C59EEBABC5BD81719, Owner: castudent).
+[2024.04.19-19.11.06:660][143]LogConcert: Display: Synced activity '564' produced by endpoint '5FB4104F4C878C85C31D54BD8EDE09A6': Mason joined the session.
+[2024.04.19-19.11.15:067][313]LogConcert: Display: Synced activity '565' produced by endpoint '80B4926C4ACA717114629DA574A5CE06': Jacob modified CloseGlassBuild_C_3 in /Game/Scenes/CyberPlace.
+[2024.04.19-19.11.31:806][740]LogConcert: Display: Synced activity '566' produced by endpoint '80B4926C4ACA717114629DA574A5CE06': Jacob modified CloseGlassBuild_C_3 in /Game/Scenes/CyberPlace.
+[2024.04.19-19.11.36:170][866]LogDerivedDataCache: C:/Users/castudent/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:03.245 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 2256 files in 3616 folders with total size 192 MiB.
+[2024.04.19-19.11.41:795][991]LogConcert: Display: Synced activity '567' produced by endpoint '80B4926C4ACA717114629DA574A5CE06': Jacob modified CloseGlassBuild_C_3 in /Game/Scenes/CyberPlace.
+[2024.04.19-19.11.45:790][ 75]LogConcert: Display: Synced activity '568' produced by endpoint '80B4926C4ACA717114629DA574A5CE06': Jacob modified CloseGlassBuild_C_3 in /Game/Scenes/CyberPlace.
+[2024.04.19-19.11.48:775][144]LogConcert: Display: Synced activity '569' produced by endpoint '80B4926C4ACA717114629DA574A5CE06': Jacob modified CloseGlassBuild_C_3 in /Game/Scenes/CyberPlace.
+[2024.04.19-19.11.54:411][280]LogConcert: Display: Synced activity '570' produced by endpoint '80B4926C4ACA717114629DA574A5CE06': Jacob modified CloseGlassBuild_C_3 in /Game/Scenes/CyberPlace.
+[2024.04.19-19.11.55:678][313]LogUObjectHash: Compacting FUObjectHashTables data took   2.72ms
+[2024.04.19-19.11.55:694][313]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.19-19.11.55:771][313]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Scenes/CyberPlace" FILE="D:/CyberPlace/Port5_Cyberpunk/Content/Scenes/CyberPlace.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.04.19-19.11.55:837][313]LogUObjectHash: Compacting FUObjectHashTables data took   1.73ms
+[2024.04.19-19.11.56:042][313]LogSavePackage: Moving output files for package: /Game/Scenes/CyberPlace
+[2024.04.19-19.11.56:042][313]LogSavePackage: Moving 'D:/CyberPlace/Port5_Cyberpunk/Saved/CyberPlace56B6C9FB45D49071CFD8679505939694.tmp' to 'D:/CyberPlace/Port5_Cyberpunk/Content/Scenes/CyberPlace.umap'
+[2024.04.19-19.11.56:061][313]LogFileHelpers: Saving map 'CyberPlace' took 0.290
+[2024.04.19-19.11.56:095][313]LogFileHelpers: InternalPromptForCheckoutAndSave took 400 ms (total: 19.5 sec)
+[2024.04.19-19.11.56:104][313]AssetCheck: New page: Asset Save: CyberPlace
+[2024.04.19-19.11.56:104][313]LogContentValidation: Display: Validating /Script/Engine.World /Game/Scenes/CyberPlace.CyberPlace
+[2024.04.19-19.11.56:210][315]LogConcert: Display: Synced activity '571' produced by endpoint '80B4926C4ACA717114629DA574A5CE06': Jacob saved package /Game/Scenes/CyberPlace.
+[2024.04.19-19.12.02:068][570]LogViewport: Scene viewport resized to 3052x1603, mode Windowed.
+[2024.04.19-19.12.09:740][770]LogViewport: Scene viewport resized to 3056x1725, mode Windowed.
+[2024.04.19-19.12.40:335][564]Cmd: DUPLICATE
+[2024.04.19-19.12.40:335][564]Cmd: ACTOR DUPLICATE
+[2024.04.19-19.12.40:658][568]LogConcert: Display: Synced activity '572' produced by endpoint '80B4926C4ACA717114629DA574A5CE06': Jacob created CloseGlassBuild_C_4 in /Game/Scenes/CyberPlace.
+[2024.04.19-19.12.42:865][620]LogConcert: Display: Synced activity '573' produced by endpoint '80B4926C4ACA717114629DA574A5CE06': Jacob modified CloseGlassBuild_C_4 in /Game/Scenes/CyberPlace.
+[2024.04.19-19.12.55:727][943]LogConcert: Display: Synced activity '574' produced by endpoint '80B4926C4ACA717114629DA574A5CE06': Jacob modified CloseGlassBuild_C_4 in /Game/Scenes/CyberPlace.
+[2024.04.19-19.13.00:857][ 67]LogConcert: Display: Synced activity '575' produced by endpoint '80B4926C4ACA717114629DA574A5CE06': Jacob modified CloseGlassBuild_C_4 in /Game/Scenes/CyberPlace.
+[2024.04.19-19.13.03:217][129]LogConcert: Display: Synced activity '576' produced by endpoint '80B4926C4ACA717114629DA574A5CE06': Jacob modified CloseGlassBuild_C_4 in /Game/Scenes/CyberPlace.
+[2024.04.19-19.13.07:881][234]LogConcert: Display: Synced activity '577' produced by endpoint '80B4926C4ACA717114629DA574A5CE06': Jacob modified CloseGlassBuild_C_4 in /Game/Scenes/CyberPlace.
+[2024.04.19-19.13.16:394][418]LogConcert: Display: Synced activity '578' produced by endpoint '80B4926C4ACA717114629DA574A5CE06': Jacob modified CloseGlassBuild_C_4 in /Game/Scenes/CyberPlace.
+[2024.04.19-19.13.18:769][477]LogConcert: Display: Synced activity '579' produced by endpoint '80B4926C4ACA717114629DA574A5CE06': Jacob modified CloseGlassBuild_C_4 in /Game/Scenes/CyberPlace.
+[2024.04.19-19.13.22:055][558]LogConcert: Display: Synced activity '580' produced by endpoint '80B4926C4ACA717114629DA574A5CE06': Jacob modified CloseGlassBuild_C_4 in /Game/Scenes/CyberPlace.
+[2024.04.19-19.13.29:291][716]LogConcert: Display: Synced activity '581' produced by endpoint '80B4926C4ACA717114629DA574A5CE06': Jacob modified CloseGlassBuild_C_4 in /Game/Scenes/CyberPlace.
+[2024.04.19-19.13.33:969][840]LogConcert: Display: Synced activity '582' produced by endpoint '80B4926C4ACA717114629DA574A5CE06': Jacob modified CloseGlassBuild_C_4 in /Game/Scenes/CyberPlace.
+[2024.04.19-19.13.56:897][451]LogConcert: Display: Synced activity '583' produced by endpoint '80B4926C4ACA717114629DA574A5CE06': Jacob modified CloseGlassBuild_C_4 in /Game/Scenes/CyberPlace.
+[2024.04.19-19.14.02:285][596]LogConcert: Display: Synced activity '584' produced by endpoint '80B4926C4ACA717114629DA574A5CE06': Jacob modified CloseGlassBuild_C_4 in /Game/Scenes/CyberPlace.
+[2024.04.19-19.14.11:366][864]LogConcert: Display: Synced activity '585' produced by endpoint '80B4926C4ACA717114629DA574A5CE06': Jacob modified CloseGlassBuild_C_4 in /Game/Scenes/CyberPlace.
+[2024.04.19-19.14.15:133][982]LogConcert: Display: Synced activity '586' produced by endpoint '80B4926C4ACA717114629DA574A5CE06': Jacob modified CloseGlassBuild_C_4 in /Game/Scenes/CyberPlace.
+[2024.04.19-19.14.18:064][ 51]LogConcert: Display: Synced activity '587' produced by endpoint '80B4926C4ACA717114629DA574A5CE06': Jacob modified CloseGlassBuild_C_4 in /Game/Scenes/CyberPlace.
+[2024.04.19-19.14.21:764][235]LogViewport: Scene viewport resized to 3052x1603, mode Windowed.
+[2024.04.19-19.14.23:530][276]LogViewport: Scene viewport resized to 3056x1725, mode Windowed.
