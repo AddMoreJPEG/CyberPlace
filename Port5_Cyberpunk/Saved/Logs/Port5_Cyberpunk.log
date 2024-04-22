@@ -3241,3 +3241,5 @@ LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
 [2024.04.22-20.28.46:113][642]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Textures/Jacob/Umbrella/T_TertProps_ORM__1_.T_TertProps_ORM__1_
 [2024.04.22-20.28.46:113][642]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Textures/Jacob/Umbrella/T_TertProps_BC__1_.T_TertProps_BC__1_
 [2024.04.22-20.28.46:113][642]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Textures/Jacob/Umbrella/T_TertProps_N__1_.T_TertProps_N__1_
+[2024.04.22-20.31.13:569][370]Cmd: TRANSACTION UNDO
+[2024.04.22-20.31.13:569][370]LogEditorTransaction: Undo Move Elements
