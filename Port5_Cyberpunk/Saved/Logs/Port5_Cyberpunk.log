@@ -1346,3 +1346,52 @@ LogConfig: Set CVar [[con.DebugEarlyDefault:1]]
 [2024.04.24-17.53.29:520][919]LogEditorTransaction: Undo Move Elements
 [2024.04.24-17.54.22:953][655]Cmd: TRANSACTION UNDO
 [2024.04.24-17.54.22:953][655]LogEditorTransaction: Undo Move Elements
+[2024.04.24-17.55.06:523][852]LogShaderCompilers: Display: ================================================
+[2024.04.24-17.55.06:523][852]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.04.24-17.55.06:523][852]LogShaderCompilers: Display: Total job queries 26, among them cache hits 6 (23.08%)
+[2024.04.24-17.55.06:523][852]LogShaderCompilers: Display: Tracking 20 distinct input hashes that result in 14 distinct outputs (70.00%)
+[2024.04.24-17.55.06:523][852]LogShaderCompilers: Display: RAM used: 391.73 KiB of 3.20 GiB budget. Usage: 0.01%
+[2024.04.24-17.55.06:523][852]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.04.24-17.55.06:524][852]LogShaderCompilers: Display: Shaders Compiled: 0
+[2024.04.24-17.55.06:524][852]LogShaderCompilers: Display: Jobs assigned 0, completed 0 (0%)
+[2024.04.24-17.55.06:524][852]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 0.00 s
+[2024.04.24-17.55.06:524][852]LogShaderCompilers: Display: ================================================
+[2024.04.24-17.55.23:176][315]Cmd: TRANSACTION UNDO
+[2024.04.24-17.55.23:176][315]LogEditorTransaction: Undo Move Elements
+[2024.04.24-17.55.52:998][695]LogUObjectHash: Compacting FUObjectHashTables data took   1.40ms
+[2024.04.24-17.56.08:855][816]LogSlate: Took 0.000392 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2024.04.24-17.56.20:106][191]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.24-17.56.20:283][192]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.24-17.56.20:375][193]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.24-17.56.20:457][194]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.24-17.56.20:535][195]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.24-17.56.20:636][196]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.24-17.56.21:464][212]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/BluePrints/Jacob/GarageLeft.GarageLeft_C
+[2024.04.24-17.56.21:464][212]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/BluePrints/Jacob/GarageLeft.GarageLeft_C
+[2024.04.24-17.56.21:474][212]LogActorFactory: Actor Factory spawned Blueprint /Game/BluePrints/Jacob/GarageLeft.GarageLeft as actor: GarageLeft_C /Game/Scenes/CyberPlace.CyberPlace:PersistentLevel.GarageLeft_C_0
+[2024.04.24-17.56.21:483][212]LogActorFactory: Actor Factory spawned Blueprint /Game/BluePrints/Jacob/GarageLeft.GarageLeft as actor: GarageLeft_C /Game/Scenes/CyberPlace.CyberPlace:PersistentLevel.GarageLeft_C_0
+[2024.04.24-17.56.21:511][212]LogActorFactory: Loading ActorFactory Class /Script/Engine.LevelInstance
+[2024.04.24-17.56.22:173][237]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/BluePrints/Jacob/GarageLeft.GarageLeft_C
+[2024.04.24-17.56.22:173][237]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/BluePrints/Jacob/GarageLeft.GarageLeft_C
+[2024.04.24-17.56.22:178][237]LogActorFactory: Actor Factory spawned Blueprint /Game/BluePrints/Jacob/GarageLeft.GarageLeft as actor: GarageLeft_C /Game/Scenes/CyberPlace.CyberPlace:PersistentLevel.GarageLeft_C_2
+[2024.04.24-17.56.22:185][237]LogActorFactory: Actor Factory spawned Blueprint /Game/BluePrints/Jacob/GarageLeft.GarageLeft as actor: GarageLeft_C /Game/Scenes/CyberPlace.CyberPlace:PersistentLevel.GarageLeft_C_2
+[2024.04.24-17.56.23:750][268]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/BluePrints/Jacob/MiddleGlassBuild.MiddleGlassBuild_C
+[2024.04.24-17.56.23:750][268]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/BluePrints/Jacob/MiddleGlassBuild.MiddleGlassBuild_C
+[2024.04.24-17.56.23:862][268]LogActorFactory: Actor Factory spawned Blueprint /Game/BluePrints/Jacob/MiddleGlassBuild.MiddleGlassBuild as actor: MiddleGlassBuild_C /Game/Scenes/CyberPlace.CyberPlace:PersistentLevel.MiddleGlassBuild_C_0
+[2024.04.24-17.56.23:973][268]LogActorFactory: Actor Factory spawned Blueprint /Game/BluePrints/Jacob/MiddleGlassBuild.MiddleGlassBuild as actor: MiddleGlassBuild_C /Game/Scenes/CyberPlace.CyberPlace:PersistentLevel.MiddleGlassBuild_C_0
+[2024.04.24-17.56.25:504][279]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/BluePrints/Jacob/MiddleGlassBuild.MiddleGlassBuild_C
+[2024.04.24-17.56.25:504][279]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/BluePrints/Jacob/MiddleGlassBuild.MiddleGlassBuild_C
+[2024.04.24-17.56.25:587][279]LogActorFactory: Actor Factory spawned Blueprint /Game/BluePrints/Jacob/MiddleGlassBuild.MiddleGlassBuild as actor: MiddleGlassBuild_C /Game/Scenes/CyberPlace.CyberPlace:PersistentLevel.MiddleGlassBuild_C_1
+[2024.04.24-17.56.25:677][279]LogActorFactory: Actor Factory spawned Blueprint /Game/BluePrints/Jacob/MiddleGlassBuild.MiddleGlassBuild as actor: MiddleGlassBuild_C /Game/Scenes/CyberPlace.CyberPlace:PersistentLevel.MiddleGlassBuild_C_1
+[2024.04.24-17.56.30:292][393]LogUObjectHash: Compacting FUObjectHashTables data took   1.27ms
+[2024.04.24-17.56.30:301][393]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.24-17.56.30:362][393]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Scenes/CyberPlace" FILE="D:/CyberPlace/Port5_Cyberpunk/Content/Scenes/CyberPlace.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.04.24-17.56.30:426][393]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
+[2024.04.24-17.56.30:444][393]LogPackageLocalizationCache: Processed 75 localized package path(s) for 1 prioritized culture(s) in 0.015971 seconds
+[2024.04.24-17.56.30:711][393]LogSavePackage: Moving output files for package: /Game/Scenes/CyberPlace
+[2024.04.24-17.56.30:712][393]LogSavePackage: Moving 'D:/CyberPlace/Port5_Cyberpunk/Saved/CyberPlace8D687ABB46BB35ECE462EDB6538CF793.tmp' to 'D:/CyberPlace/Port5_Cyberpunk/Content/Scenes/CyberPlace.umap'
+[2024.04.24-17.56.30:731][393]LogFileHelpers: All files are already saved.
+[2024.04.24-17.56.30:731][393]LogFileHelpers: Saving map 'CyberPlace' took 0.370
+[2024.04.24-17.56.30:781][393]LogFileHelpers: InternalPromptForCheckoutAndSave took 480 ms
+[2024.04.24-17.56.30:792][393]AssetCheck: New page: Asset Save: CyberPlace
+[2024.04.24-17.56.30:793][393]LogContentValidation: Display: Validating /Script/Engine.World /Game/Scenes/CyberPlace.CyberPlace
