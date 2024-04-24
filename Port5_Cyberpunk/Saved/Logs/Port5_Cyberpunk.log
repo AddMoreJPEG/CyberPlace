@@ -1344,3 +1344,5 @@ LogConfig: Set CVar [[con.DebugEarlyDefault:1]]
 [2024.04.24-17.53.12:857][515]LogDerivedDataCache: C:/Users/castudent/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:18.302 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 9796 files in 12059 folders with total size 798 MiB.
 [2024.04.24-17.53.29:520][919]Cmd: TRANSACTION UNDO
 [2024.04.24-17.53.29:520][919]LogEditorTransaction: Undo Move Elements
+[2024.04.24-17.54.22:953][655]Cmd: TRANSACTION UNDO
+[2024.04.24-17.54.22:953][655]LogEditorTransaction: Undo Move Elements
