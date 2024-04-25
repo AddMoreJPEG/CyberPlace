@@ -7953,3 +7953,324 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2024.04.25-19.45.00:531][672]AssetCheck: New page: Asset Save: multiple assets
 [2024.04.25-19.45.00:531][672]LogContentValidation: Display: Validating /Script/Engine.Material /Game/2403Class/Materials/PM_Emissive.PM_Emissive
 [2024.04.25-19.45.00:531][672]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/2403Class/Materials/Child2/SignLogo.SignLogo
+[2024.04.25-19.47.04:929][351]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2024.04.25-19.47.04:952][351]LogContentBrowser: Creating deferred item: NewFolder
+[2024.04.25-19.47.04:968][352]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2024.04.25-19.47.09:709][446]LogContentBrowser: Attempting asset rename: NewFolder -> VertPaint
+[2024.04.25-19.47.09:710][446]LogContentBrowser: End creating deferred item NewFolder
+[2024.04.25-19.47.34:761][573]LogInterchangeEngine: [Pending] Importing
+[2024.04.25-19.47.34:761][573]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/castudent/D...s_vbmfeaiew/previews/vbmfeaiew_Popup_3840_sp.jpg]
+[2024.04.25-19.47.34:762][573]LogInterchangeEngine: [Pending] Importing -  (2)
+[2024.04.25-19.47.34:762][573]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/castudent/D..._vbmfeaiew/Thumbs/1k/vbmfeaiew_1K_Albedo.jpg]
+[2024.04.25-19.47.34:763][573]LogInterchangeEngine: [Pending] Importing -  (3)
+[2024.04.25-19.47.34:763][573]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/castudent/D..._vbmfeaiew/Thumbs/1k/vbmfeaiew_1K_AO.jpg]
+[2024.04.25-19.47.34:764][573]LogInterchangeEngine: [Pending] Importing -  (4)
+[2024.04.25-19.47.34:764][573]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/castudent/D..._vbmfeaiew/Thumbs/1k/vbmfeaiew_1K_Displacement.jpg]
+[2024.04.25-19.47.34:765][573]LogInterchangeEngine: [Pending] Importing -  (5)
+[2024.04.25-19.47.34:765][573]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/castudent/D..._vbmfeaiew/Thumbs/1k/vbmfeaiew_1K_Normal.jpg]
+[2024.04.25-19.47.34:766][573]LogInterchangeEngine: [Pending] Importing -  (6)
+[2024.04.25-19.47.34:766][573]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/castudent/D..._vbmfeaiew/Thumbs/1k/vbmfeaiew_1K_Roughness.jpg]
+[2024.04.25-19.47.34:776][573]LogFactory: FactoryCreateFile: DataTable with ReimportDataTableFactory (0 1 C:\Users\castudent\Desktop\Downloaded\surface\coal_debris_vbmfeaiew/vbmfeaiew.json)
+[2024.04.25-19.47.34:845][573]LogInterchangeImport: JPEG file [C:/Users/castudent/Desktop/Downloaded/surface/coal_debris_vbmfeaiew/previews/vbmfeaiew_Popup_3840_sp.jpg]: Pipeline setting 'bPreferCompressedSourceData' has been overridden by Editor setting 'RetainJpegFormat'
+[2024.04.25-19.47.34:846][573]LogInterchangeImport: JPEG file [C:/Users/castudent/Desktop/Downloaded/surface/coal_debris_vbmfeaiew/Thumbs/1k/vbmfeaiew_1K_Albedo.jpg]: Pipeline setting 'bPreferCompressedSourceData' has been overridden by Editor setting 'RetainJpegFormat'
+[2024.04.25-19.47.34:846][573]LogInterchangeImport: JPEG file [C:/Users/castudent/Desktop/Downloaded/surface/coal_debris_vbmfeaiew/Thumbs/1k/vbmfeaiew_1K_AO.jpg]: Pipeline setting 'bPreferCompressedSourceData' has been overridden by Editor setting 'RetainJpegFormat'
+[2024.04.25-19.47.34:847][573]LogInterchangeImport: JPEG file [C:/Users/castudent/Desktop/Downloaded/surface/coal_debris_vbmfeaiew/Thumbs/1k/vbmfeaiew_1K_Displacement.jpg]: Pipeline setting 'bPreferCompressedSourceData' has been overridden by Editor setting 'RetainJpegFormat'
+[2024.04.25-19.47.34:848][573]LogInterchangeImport: JPEG file [C:/Users/castudent/Desktop/Downloaded/surface/coal_debris_vbmfeaiew/Thumbs/1k/vbmfeaiew_1K_Normal.jpg]: Pipeline setting 'bPreferCompressedSourceData' has been overridden by Editor setting 'RetainJpegFormat'
+[2024.04.25-19.47.34:848][573]LogInterchangeImport: JPEG file [C:/Users/castudent/Desktop/Downloaded/surface/coal_debris_vbmfeaiew/Thumbs/1k/vbmfeaiew_1K_Roughness.jpg]: Pipeline setting 'bPreferCompressedSourceData' has been overridden by Editor setting 'RetainJpegFormat'
+[2024.04.25-19.47.34:965][573]LogTexture: Display: Building textures: /Game/Textures/VertPaint/coal_debris_vbmfeaiew/Thumbs/1k/vbmfeaiew_1K_Displacement.vbmfeaiew_1K_Displacement (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 169.145823 MB), EncodeSpeed: Fast
+[2024.04.25-19.47.35:001][573]LogTexture: Display: Building textures: /Game/Textures/VertPaint/coal_debris_vbmfeaiew/Thumbs/1k/vbmfeaiew_1K_Roughness.vbmfeaiew_1K_Roughness (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 169.145823 MB), EncodeSpeed: Fast
+[2024.04.25-19.47.35:022][573]LogTexture: Display: Building textures: /Game/Textures/VertPaint/coal_debris_vbmfeaiew/Thumbs/1k/vbmfeaiew_1K_AO.vbmfeaiew_1K_AO (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 169.145823 MB), EncodeSpeed: Fast
+[2024.04.25-19.47.35:060][573]LogTexture: Display: Building textures: /Game/Textures/VertPaint/coal_debris_vbmfeaiew/previews/vbmfeaiew_Popup_3840_sp.vbmfeaiew_Popup_3840_sp (TFO_AutoDXT, 1280x720 x1x1x1) (Required Memory Estimate: 146.78125 MB), EncodeSpeed: Fast
+[2024.04.25-19.47.35:079][573]LogTexture: Display: Building textures: /Game/Textures/VertPaint/coal_debris_vbmfeaiew/Thumbs/1k/vbmfeaiew_1K_Albedo.vbmfeaiew_1K_Albedo (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 169.145823 MB), EncodeSpeed: Fast
+[2024.04.25-19.47.35:127][573]LogInterchangePipeline: Display: Auto-detected normal map
+[2024.04.25-19.47.35:132][573]LogInterchangeEngine: [Pending] Importing -  (5)
+[2024.04.25-19.47.35:132][573]LogInterchangeEngine: [Pending] Importing -  (4)
+[2024.04.25-19.47.35:132][573]LogInterchangeEngine: [Pending] Importing -  (3)
+[2024.04.25-19.47.35:132][573]LogInterchangeEngine: [Pending] Importing -  (2)
+[2024.04.25-19.47.35:132][573]LogInterchangeEngine: [Pending] Importing -  (1)
+[2024.04.25-19.47.35:133][573]LogInterchangeEngine: [Success] Import Done
+[2024.04.25-19.47.35:168][573]LogTexture: Display: Building textures: /Game/Textures/VertPaint/coal_debris_vbmfeaiew/Thumbs/1k/vbmfeaiew_1K_Normal.vbmfeaiew_1K_Normal (TFO_BC5, 1024x1024 x1x1x1) (Required Memory Estimate: 303.562488 MB), EncodeSpeed: Fast
+[2024.04.25-19.47.39:918][573]LogSlate: Window 'DataTable Options' being destroyed
+[2024.04.25-19.47.39:936][573]LogAssetTools: The import task was canceled.
+[2024.04.25-19.47.39:981][574]LogInterchangeEngine: [Success] Import Done
+[2024.04.25-19.47.49:621][795]LogUObjectHash: Compacting FUObjectHashTables data took   2.86ms
+[2024.04.25-19.47.50:594][795]LogSlate: Window 'Delete Assets' being destroyed
+[2024.04.25-19.47.50:647][795]LogUObjectHash: Compacting FUObjectHashTables data took   2.85ms
+[2024.04.25-19.47.50:679][795]LogUObjectHash: Compacting FUObjectHashTables data took   2.73ms
+[2024.04.25-19.47.50:712][795]LogUObjectHash: Compacting FUObjectHashTables data took   1.46ms
+[2024.04.25-19.48.04:230][909]LogInterchangeEngine: [Pending] Importing
+[2024.04.25-19.48.04:230][909]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/castudent/D...ground_other_vjoefgo/vjoefgo_2K_Albedo.jpg]
+[2024.04.25-19.48.04:231][909]LogInterchangeEngine: [Pending] Importing -  (2)
+[2024.04.25-19.48.04:231][909]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/castudent/D...ground_other_vjoefgo/vjoefgo_2K_Normal.jpg]
+[2024.04.25-19.48.04:232][909]LogInterchangeEngine: [Pending] Importing -  (3)
+[2024.04.25-19.48.04:232][909]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/castudent/D...ground_other_vjoefgo/vjoefgo_2K_Roughness.jpg]
+[2024.04.25-19.48.04:238][910]LogInterchangeImport: JPEG file [C:/Users/castudent/Desktop/Downloaded/surface/ground_other_vjoefgo/vjoefgo_2K_Albedo.jpg]: Pipeline setting 'bPreferCompressedSourceData' has been overridden by Editor setting 'RetainJpegFormat'
+[2024.04.25-19.48.04:238][910]LogInterchangeImport: JPEG file [C:/Users/castudent/Desktop/Downloaded/surface/ground_other_vjoefgo/vjoefgo_2K_Normal.jpg]: Pipeline setting 'bPreferCompressedSourceData' has been overridden by Editor setting 'RetainJpegFormat'
+[2024.04.25-19.48.04:238][910]LogInterchangeImport: JPEG file [C:/Users/castudent/Desktop/Downloaded/surface/ground_other_vjoefgo/vjoefgo_2K_Roughness.jpg]: Pipeline setting 'bPreferCompressedSourceData' has been overridden by Editor setting 'RetainJpegFormat'
+[2024.04.25-19.48.04:344][910]LogInterchangeEngine: [Pending] Importing -  (3)
+[2024.04.25-19.48.04:404][910]LogTexture: Display: Building textures: /Game/Textures/VertPaint/vjoefgo_2K_Roughness.vjoefgo_2K_Roughness (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 350.145823 MB), EncodeSpeed: Fast
+[2024.04.25-19.48.04:894][910]LogTexture: Display: Building textures: /Game/Textures/VertPaint/vjoefgo_2K_Albedo.vjoefgo_2K_Albedo (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 350.145823 MB), EncodeSpeed: Fast
+[2024.04.25-19.48.04:949][910]LogInterchangePipeline: Display: Auto-detected normal map
+[2024.04.25-19.48.04:950][910]LogInterchangeEngine: [Pending] Importing -  (2)
+[2024.04.25-19.48.05:049][911]LogInterchangeEngine: [Pending] Importing -  (1)
+[2024.04.25-19.48.05:091][911]LogInterchangeEngine: [Success] Import Done
+[2024.04.25-19.48.05:137][912]LogInterchangeEngine: [Success] Import Done
+[2024.04.25-19.48.05:181][912]LogTexture: Display: Building textures: /Game/Textures/VertPaint/vjoefgo_2K_Normal.vjoefgo_2K_Normal (TFO_BC5, 2048x2048 x1x1x1) (Required Memory Estimate: 561.562488 MB), EncodeSpeed: Fast
+[2024.04.25-19.48.15:592][168]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2024.04.25-19.48.15:611][168]LogContentBrowser: Creating deferred item: NewFolder
+[2024.04.25-19.48.15:626][169]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2024.04.25-19.48.16:933][184]LogContentBrowser: Attempting asset rename: NewFolder -> 1
+[2024.04.25-19.48.16:934][184]LogContentBrowser: End creating deferred item NewFolder
+[2024.04.25-19.48.20:460][326]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.25-19.48.20:532][326]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Textures/VertPaint/1/vjoefgo_2K_Roughness" FILE="D:/CyberPlace/Port5_Cyberpunk/Content/Textures/VertPaint/1/vjoefgo_2K_Roughness.uasset" SILENT=true
+[2024.04.25-19.48.20:539][326]LogSavePackage: Moving output files for package: /Game/Textures/VertPaint/1/vjoefgo_2K_Roughness
+[2024.04.25-19.48.20:539][326]LogSavePackage: Moving 'D:/CyberPlace/Port5_Cyberpunk/Saved/vjoefgo_2K_RoughnessA2A53F204F0EBAE861AAEB82B04BA3ED.tmp' to 'D:/CyberPlace/Port5_Cyberpunk/Content/Textures/VertPaint/1/vjoefgo_2K_Roughness.uasset'
+[2024.04.25-19.48.20:546][326]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Textures/VertPaint/1/vjoefgo_2K_Albedo" FILE="D:/CyberPlace/Port5_Cyberpunk/Content/Textures/VertPaint/1/vjoefgo_2K_Albedo.uasset" SILENT=true
+[2024.04.25-19.48.20:557][326]LogSavePackage: Moving output files for package: /Game/Textures/VertPaint/1/vjoefgo_2K_Albedo
+[2024.04.25-19.48.20:557][326]LogSavePackage: Moving 'D:/CyberPlace/Port5_Cyberpunk/Saved/vjoefgo_2K_Albedo3F5A36F34270895DC0F9B8ADBC509E87.tmp' to 'D:/CyberPlace/Port5_Cyberpunk/Content/Textures/VertPaint/1/vjoefgo_2K_Albedo.uasset'
+[2024.04.25-19.48.20:564][326]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Textures/VertPaint/1/vjoefgo_2K_Normal" FILE="D:/CyberPlace/Port5_Cyberpunk/Content/Textures/VertPaint/1/vjoefgo_2K_Normal.uasset" SILENT=true
+[2024.04.25-19.48.20:575][326]LogSavePackage: Moving output files for package: /Game/Textures/VertPaint/1/vjoefgo_2K_Normal
+[2024.04.25-19.48.20:576][326]LogSavePackage: Moving 'D:/CyberPlace/Port5_Cyberpunk/Saved/vjoefgo_2K_NormalEA30359D466900310AC40E93F3BFD9A3.tmp' to 'D:/CyberPlace/Port5_Cyberpunk/Content/Textures/VertPaint/1/vjoefgo_2K_Normal.uasset'
+[2024.04.25-19.48.20:591][326]LogFileHelpers: InternalPromptForCheckoutAndSave took 131 ms (total: 15.3 sec)
+[2024.04.25-19.48.20:683][326]LogUObjectHash: Compacting FUObjectHashTables data took   2.80ms
+[2024.04.25-19.48.20:711][326]LogUObjectHash: Compacting FUObjectHashTables data took   2.62ms
+[2024.04.25-19.48.20:745][326]LogUObjectHash: Compacting FUObjectHashTables data took   2.19ms
+[2024.04.25-19.48.20:768][326]AssetCheck: New page: Asset Save: multiple assets
+[2024.04.25-19.48.20:768][326]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Textures/VertPaint/1/vjoefgo_2K_Roughness.vjoefgo_2K_Roughness
+[2024.04.25-19.48.20:768][326]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Textures/VertPaint/1/vjoefgo_2K_Albedo.vjoefgo_2K_Albedo
+[2024.04.25-19.48.20:768][326]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Textures/VertPaint/1/vjoefgo_2K_Normal.vjoefgo_2K_Normal
+[2024.04.25-19.48.23:967][521]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2024.04.25-19.48.23:992][521]LogContentBrowser: Creating deferred item: NewFolder
+[2024.04.25-19.48.24:007][522]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2024.04.25-19.48.25:633][550]LogContentBrowser: Attempting asset rename: NewFolder -> 2
+[2024.04.25-19.48.25:634][550]LogContentBrowser: End creating deferred item NewFolder
+[2024.04.25-19.48.41:429][681]LogInterchangeEngine: [Pending] Importing
+[2024.04.25-19.48.41:429][681]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/castudent/D...oal_debris_vbmfeaiew/vbmfeaiew_2K_Normal.jpg]
+[2024.04.25-19.48.41:430][681]LogInterchangeEngine: [Pending] Importing -  (2)
+[2024.04.25-19.48.41:430][681]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/castudent/D...oal_debris_vbmfeaiew/vbmfeaiew_2K_Roughness.jpg]
+[2024.04.25-19.48.41:431][681]LogInterchangeEngine: [Pending] Importing -  (3)
+[2024.04.25-19.48.41:431][681]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/castudent/D...oal_debris_vbmfeaiew/vbmfeaiew_2K_Albedo.jpg]
+[2024.04.25-19.48.41:444][682]LogInterchangeImport: JPEG file [C:/Users/castudent/Desktop/Downloaded/surface/coal_debris_vbmfeaiew/vbmfeaiew_2K_Normal.jpg]: Pipeline setting 'bPreferCompressedSourceData' has been overridden by Editor setting 'RetainJpegFormat'
+[2024.04.25-19.48.41:444][682]LogInterchangeImport: JPEG file [C:/Users/castudent/Desktop/Downloaded/surface/coal_debris_vbmfeaiew/vbmfeaiew_2K_Roughness.jpg]: Pipeline setting 'bPreferCompressedSourceData' has been overridden by Editor setting 'RetainJpegFormat'
+[2024.04.25-19.48.41:445][682]LogInterchangeImport: JPEG file [C:/Users/castudent/Desktop/Downloaded/surface/coal_debris_vbmfeaiew/vbmfeaiew_2K_Albedo.jpg]: Pipeline setting 'bPreferCompressedSourceData' has been overridden by Editor setting 'RetainJpegFormat'
+[2024.04.25-19.48.41:548][682]LogInterchangeEngine: [Pending] Importing -  (3)
+[2024.04.25-19.48.41:623][682]LogTexture: Display: Building textures: /Game/Textures/VertPaint/2/vbmfeaiew_2K_Roughness.vbmfeaiew_2K_Roughness (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 350.145823 MB), EncodeSpeed: Fast
+[2024.04.25-19.48.42:086][682]LogTexture: Display: Building textures: /Game/Textures/VertPaint/2/vbmfeaiew_2K_Albedo.vbmfeaiew_2K_Albedo (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 350.145823 MB), EncodeSpeed: Fast
+[2024.04.25-19.48.42:154][682]LogInterchangePipeline: Display: Auto-detected normal map
+[2024.04.25-19.48.42:155][682]LogInterchangeEngine: [Pending] Importing -  (2)
+[2024.04.25-19.48.42:248][683]LogInterchangeEngine: [Pending] Importing -  (1)
+[2024.04.25-19.48.42:297][683]LogInterchangeEngine: [Success] Import Done
+[2024.04.25-19.48.42:336][684]LogInterchangeEngine: [Success] Import Done
+[2024.04.25-19.48.42:360][684]LogTexture: Display: Building textures: /Game/Textures/VertPaint/2/vbmfeaiew_2K_Normal.vbmfeaiew_2K_Normal (TFO_BC5, 2048x2048 x1x1x1) (Required Memory Estimate: 561.562488 MB), EncodeSpeed: Fast
+[2024.04.25-19.48.48:758][792]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2024.04.25-19.48.48:778][792]LogContentBrowser: Creating deferred item: NewFolder
+[2024.04.25-19.48.48:791][793]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2024.04.25-19.48.49:640][802]LogContentBrowser: Attempting asset rename: NewFolder -> 3
+[2024.04.25-19.48.49:641][802]LogContentBrowser: End creating deferred item NewFolder
+[2024.04.25-19.48.59:420][856]LogInterchangeEngine: [Pending] Importing
+[2024.04.25-19.48.59:420][856]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/castudent/D...etal_rusty_tj2xahsbw/tj2xahsbw_2K_Normal.jpg]
+[2024.04.25-19.48.59:421][856]LogInterchangeEngine: [Pending] Importing -  (2)
+[2024.04.25-19.48.59:421][856]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/castudent/D...etal_rusty_tj2xahsbw/tj2xahsbw_2K_Roughness.jpg]
+[2024.04.25-19.48.59:422][856]LogInterchangeEngine: [Pending] Importing -  (3)
+[2024.04.25-19.48.59:422][856]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/castudent/D...etal_rusty_tj2xahsbw/tj2xahsbw_2K_Albedo.jpg]
+[2024.04.25-19.48.59:447][857]LogInterchangeImport: JPEG file [C:/Users/castudent/Desktop/Downloaded/surface/metal_rusty_tj2xahsbw/tj2xahsbw_2K_Normal.jpg]: Pipeline setting 'bPreferCompressedSourceData' has been overridden by Editor setting 'RetainJpegFormat'
+[2024.04.25-19.48.59:448][857]LogInterchangeImport: JPEG file [C:/Users/castudent/Desktop/Downloaded/surface/metal_rusty_tj2xahsbw/tj2xahsbw_2K_Roughness.jpg]: Pipeline setting 'bPreferCompressedSourceData' has been overridden by Editor setting 'RetainJpegFormat'
+[2024.04.25-19.48.59:448][857]LogInterchangeImport: JPEG file [C:/Users/castudent/Desktop/Downloaded/surface/metal_rusty_tj2xahsbw/tj2xahsbw_2K_Albedo.jpg]: Pipeline setting 'bPreferCompressedSourceData' has been overridden by Editor setting 'RetainJpegFormat'
+[2024.04.25-19.48.59:473][857]LogInterchangeEngine: [Pending] Importing -  (3)
+[2024.04.25-19.48.59:965][857]LogTexture: Display: Building textures: /Game/Textures/VertPaint/3/tj2xahsbw_2K_Roughness.tj2xahsbw_2K_Roughness (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 350.145823 MB), EncodeSpeed: Fast
+[2024.04.25-19.49.00:186][857]LogTexture: Display: Building textures: /Game/Textures/VertPaint/3/tj2xahsbw_2K_Albedo.tj2xahsbw_2K_Albedo (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 350.145823 MB), EncodeSpeed: Fast
+[2024.04.25-19.49.00:255][857]LogInterchangePipeline: Display: Auto-detected normal map
+[2024.04.25-19.49.00:368][858]LogInterchangeEngine: [Pending] Importing -  (2)
+[2024.04.25-19.49.00:368][858]LogInterchangeEngine: [Pending] Importing -  (1)
+[2024.04.25-19.49.00:418][858]LogInterchangeEngine: [Success] Import Done
+[2024.04.25-19.49.00:454][859]LogInterchangeEngine: [Success] Import Done
+[2024.04.25-19.49.00:464][859]LogTexture: Display: Building textures: /Game/Textures/VertPaint/3/tj2xahsbw_2K_Normal.tj2xahsbw_2K_Normal (TFO_BC5, 2048x2048 x1x1x1) (Required Memory Estimate: 561.562488 MB), EncodeSpeed: Fast
+[2024.04.25-19.49.07:579][963]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2024.04.25-19.49.07:595][963]LogContentBrowser: Creating deferred item: NewFolder
+[2024.04.25-19.49.07:611][964]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2024.04.25-19.49.08:425][972]LogContentBrowser: Attempting asset rename: NewFolder -> 4
+[2024.04.25-19.49.08:425][972]LogContentBrowser: End creating deferred item NewFolder
+[2024.04.25-19.49.25:526][ 95]LogInterchangeEngine: [Pending] Importing
+[2024.04.25-19.49.25:526][ 95]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/castudent/D...al_corroded_vmghfhro/vmghfhro_2K_Normal.jpg]
+[2024.04.25-19.49.25:527][ 95]LogInterchangeEngine: [Pending] Importing -  (2)
+[2024.04.25-19.49.25:527][ 95]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/castudent/D...al_corroded_vmghfhro/vmghfhro_2K_Roughness.jpg]
+[2024.04.25-19.49.25:528][ 95]LogInterchangeEngine: [Pending] Importing -  (3)
+[2024.04.25-19.49.25:528][ 95]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/castudent/D...al_corroded_vmghfhro/vmghfhro_2K_Albedo.jpg]
+[2024.04.25-19.49.25:538][ 96]LogInterchangeImport: JPEG file [C:/Users/castudent/Desktop/Downloaded/surface/metal_corroded_vmghfhro/vmghfhro_2K_Normal.jpg]: Pipeline setting 'bPreferCompressedSourceData' has been overridden by Editor setting 'RetainJpegFormat'
+[2024.04.25-19.49.25:538][ 96]LogInterchangeImport: JPEG file [C:/Users/castudent/Desktop/Downloaded/surface/metal_corroded_vmghfhro/vmghfhro_2K_Roughness.jpg]: Pipeline setting 'bPreferCompressedSourceData' has been overridden by Editor setting 'RetainJpegFormat'
+[2024.04.25-19.49.25:538][ 96]LogInterchangeImport: JPEG file [C:/Users/castudent/Desktop/Downloaded/surface/metal_corroded_vmghfhro/vmghfhro_2K_Albedo.jpg]: Pipeline setting 'bPreferCompressedSourceData' has been overridden by Editor setting 'RetainJpegFormat'
+[2024.04.25-19.49.25:608][ 96]LogInterchangeEngine: [Pending] Importing -  (3)
+[2024.04.25-19.49.25:669][ 96]LogTexture: Display: Building textures: /Game/Textures/VertPaint/4/vmghfhro_2K_Roughness.vmghfhro_2K_Roughness (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 350.145823 MB), EncodeSpeed: Fast
+[2024.04.25-19.49.26:214][ 96]LogTexture: Display: Building textures: /Game/Textures/VertPaint/4/vmghfhro_2K_Albedo.vmghfhro_2K_Albedo (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 350.145823 MB), EncodeSpeed: Fast
+[2024.04.25-19.49.26:273][ 96]LogInterchangePipeline: Display: Auto-detected normal map
+[2024.04.25-19.49.26:275][ 96]LogInterchangeEngine: [Pending] Importing -  (2)
+[2024.04.25-19.49.26:369][ 97]LogInterchangeEngine: [Pending] Importing -  (1)
+[2024.04.25-19.49.26:412][ 97]LogInterchangeEngine: [Success] Import Done
+[2024.04.25-19.49.26:458][ 98]LogInterchangeEngine: [Success] Import Done
+[2024.04.25-19.49.26:501][ 98]LogTexture: Display: Building textures: /Game/Textures/VertPaint/4/vmghfhro_2K_Normal.vmghfhro_2K_Normal (TFO_BC5, 2048x2048 x1x1x1) (Required Memory Estimate: 561.562488 MB), EncodeSpeed: Fast
+[2024.04.25-19.49.35:150][279]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2024.04.25-19.49.35:164][279]LogContentBrowser: Creating deferred item: NewFolder
+[2024.04.25-19.49.35:177][280]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2024.04.25-19.49.36:426][296]LogContentBrowser: Attempting asset rename: NewFolder -> 5
+[2024.04.25-19.49.36:427][296]LogContentBrowser: End creating deferred item NewFolder
+[2024.04.25-19.49.45:392][383]LogInterchangeEngine: [Pending] Importing
+[2024.04.25-19.49.45:392][383]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/castudent/D...grass_patchy_xbklfix/xbklfix_2K_Normal.jpg]
+[2024.04.25-19.49.45:393][383]LogInterchangeEngine: [Pending] Importing -  (2)
+[2024.04.25-19.49.45:393][383]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/castudent/D...grass_patchy_xbklfix/xbklfix_2K_Roughness.jpg]
+[2024.04.25-19.49.45:394][383]LogInterchangeEngine: [Pending] Importing -  (3)
+[2024.04.25-19.49.45:394][383]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/castudent/D...grass_patchy_xbklfix/xbklfix_2K_Albedo.jpg]
+[2024.04.25-19.49.45:417][384]LogInterchangeImport: JPEG file [C:/Users/castudent/Desktop/Downloaded/surface/grass_patchy_xbklfix/xbklfix_2K_Normal.jpg]: Pipeline setting 'bPreferCompressedSourceData' has been overridden by Editor setting 'RetainJpegFormat'
+[2024.04.25-19.49.45:417][384]LogInterchangeImport: JPEG file [C:/Users/castudent/Desktop/Downloaded/surface/grass_patchy_xbklfix/xbklfix_2K_Roughness.jpg]: Pipeline setting 'bPreferCompressedSourceData' has been overridden by Editor setting 'RetainJpegFormat'
+[2024.04.25-19.49.45:418][384]LogInterchangeImport: JPEG file [C:/Users/castudent/Desktop/Downloaded/surface/grass_patchy_xbklfix/xbklfix_2K_Albedo.jpg]: Pipeline setting 'bPreferCompressedSourceData' has been overridden by Editor setting 'RetainJpegFormat'
+[2024.04.25-19.49.45:518][384]LogInterchangeEngine: [Pending] Importing -  (3)
+[2024.04.25-19.49.45:596][384]LogTexture: Display: Building textures: /Game/Textures/VertPaint/5/xbklfix_2K_Roughness.xbklfix_2K_Roughness (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 350.145823 MB), EncodeSpeed: Fast
+[2024.04.25-19.49.46:039][384]LogTexture: Display: Building textures: /Game/Textures/VertPaint/5/xbklfix_2K_Albedo.xbklfix_2K_Albedo (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 350.145823 MB), EncodeSpeed: Fast
+[2024.04.25-19.49.46:124][384]LogInterchangePipeline: Display: Auto-detected normal map
+[2024.04.25-19.49.46:125][384]LogInterchangeEngine: [Pending] Importing -  (2)
+[2024.04.25-19.49.46:221][385]LogInterchangeEngine: [Pending] Importing -  (1)
+[2024.04.25-19.49.46:278][385]LogInterchangeEngine: [Success] Import Done
+[2024.04.25-19.49.46:326][386]LogInterchangeEngine: [Success] Import Done
+[2024.04.25-19.49.46:329][386]LogTexture: Display: Building textures: /Game/Textures/VertPaint/5/xbklfix_2K_Normal.xbklfix_2K_Normal (TFO_BC5, 2048x2048 x1x1x1) (Required Memory Estimate: 561.562488 MB), EncodeSpeed: Fast
+[2024.04.25-19.49.51:309][502]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2024.04.25-19.49.51:333][502]LogContentBrowser: Creating deferred item: NewFolder
+[2024.04.25-19.49.51:348][503]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2024.04.25-19.49.52:494][517]LogContentBrowser: Attempting asset rename: NewFolder -> 6
+[2024.04.25-19.49.52:495][517]LogContentBrowser: End creating deferred item NewFolder
+[2024.04.25-19.50.02:370][603]LogInterchangeEngine: [Pending] Importing
+[2024.04.25-19.50.02:370][603]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/castudent/D...round_forest_wgxsded/wgxsded_2K_Normal.jpg]
+[2024.04.25-19.50.02:371][603]LogInterchangeEngine: [Pending] Importing -  (2)
+[2024.04.25-19.50.02:371][603]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/castudent/D...round_forest_wgxsded/wgxsded_2K_Roughness.jpg]
+[2024.04.25-19.50.02:372][603]LogInterchangeEngine: [Pending] Importing -  (3)
+[2024.04.25-19.50.02:372][603]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/castudent/D...round_forest_wgxsded/wgxsded_2K_Albedo.jpg]
+[2024.04.25-19.50.02:402][604]LogInterchangeImport: JPEG file [C:/Users/castudent/Desktop/Downloaded/surface/ground_forest_wgxsded/wgxsded_2K_Normal.jpg]: Pipeline setting 'bPreferCompressedSourceData' has been overridden by Editor setting 'RetainJpegFormat'
+[2024.04.25-19.50.02:403][604]LogInterchangeImport: JPEG file [C:/Users/castudent/Desktop/Downloaded/surface/ground_forest_wgxsded/wgxsded_2K_Roughness.jpg]: Pipeline setting 'bPreferCompressedSourceData' has been overridden by Editor setting 'RetainJpegFormat'
+[2024.04.25-19.50.02:403][604]LogInterchangeImport: JPEG file [C:/Users/castudent/Desktop/Downloaded/surface/ground_forest_wgxsded/wgxsded_2K_Albedo.jpg]: Pipeline setting 'bPreferCompressedSourceData' has been overridden by Editor setting 'RetainJpegFormat'
+[2024.04.25-19.50.02:516][604]LogInterchangeEngine: [Pending] Importing -  (3)
+[2024.04.25-19.50.02:599][604]LogTexture: Display: Building textures: /Game/Textures/VertPaint/6/wgxsded_2K_Roughness.wgxsded_2K_Roughness (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 350.145823 MB), EncodeSpeed: Fast
+[2024.04.25-19.50.03:091][604]LogTexture: Display: Building textures: /Game/Textures/VertPaint/6/wgxsded_2K_Albedo.wgxsded_2K_Albedo (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 350.145823 MB), EncodeSpeed: Fast
+[2024.04.25-19.50.03:145][604]LogInterchangePipeline: Display: Auto-detected normal map
+[2024.04.25-19.50.03:147][604]LogInterchangeEngine: [Pending] Importing -  (2)
+[2024.04.25-19.50.03:254][605]LogInterchangeEngine: [Pending] Importing -  (1)
+[2024.04.25-19.50.03:301][605]LogInterchangeEngine: [Success] Import Done
+[2024.04.25-19.50.03:342][606]LogInterchangeEngine: [Success] Import Done
+[2024.04.25-19.50.03:392][606]LogTexture: Display: Building textures: /Game/Textures/VertPaint/6/wgxsded_2K_Normal.wgxsded_2K_Normal (TFO_BC5, 2048x2048 x1x1x1) (Required Memory Estimate: 561.562488 MB), EncodeSpeed: Fast
+[2024.04.25-19.50.07:058][634]LogAssetEditorSubsystem: Opening Asset editor for Texture2D /Game/Textures/VertPaint/6/wgxsded_2K_Normal.wgxsded_2K_Normal
+[2024.04.25-19.50.07:380][634]LogViewport: Scene viewport resized to 1570x1229, mode Windowed.
+[2024.04.25-19.50.08:883][655]LogViewport: Scene viewport resized to 2857x1887, mode Windowed.
+[2024.04.25-19.50.13:809][729]LogTexture: Display: Building textures: /Game/Textures/VertPaint/6/wgxsded_2K_Normal.wgxsded_2K_Normal (TFO_BC5, 2048x2048 x1x1x1) (Required Memory Estimate: 561.562488 MB), EncodeSpeed: Final
+[2024.04.25-19.50.15:399][759]LogSlate: Window 'wgxsded_2K_Normal' being destroyed
+[2024.04.25-19.50.16:685][779]LogAssetEditorSubsystem: Opening Asset editor for Texture2D /Game/Textures/VertPaint/6/wgxsded_2K_Roughness.wgxsded_2K_Roughness
+[2024.04.25-19.50.17:052][779]LogViewport: Scene viewport resized to 2857x1887, mode Windowed.
+[2024.04.25-19.50.19:351][805]LogTexture: Display: Building textures: /Game/Textures/VertPaint/6/wgxsded_2K_Roughness.wgxsded_2K_Roughness (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 350.145823 MB), EncodeSpeed: Final
+[2024.04.25-19.50.20:793][829]LogSlate: Window 'wgxsded_2K_Roughness' being destroyed
+[2024.04.25-19.50.23:583][886]LogAssetEditorSubsystem: Opening Asset editor for Texture2D /Game/Textures/VertPaint/5/xbklfix_2K_Normal.xbklfix_2K_Normal
+[2024.04.25-19.50.23:917][886]LogViewport: Scene viewport resized to 2857x1887, mode Windowed.
+[2024.04.25-19.50.26:158][913]LogTexture: Display: Building textures: /Game/Textures/VertPaint/5/xbklfix_2K_Normal.xbklfix_2K_Normal (TFO_BC5, 2048x2048 x1x1x1) (Required Memory Estimate: 561.562488 MB), EncodeSpeed: Final
+[2024.04.25-19.50.27:507][929]LogSlate: Window 'xbklfix_2K_Normal' being destroyed
+[2024.04.25-19.50.28:891][959]LogAssetEditorSubsystem: Opening Asset editor for Texture2D /Game/Textures/VertPaint/5/xbklfix_2K_Roughness.xbklfix_2K_Roughness
+[2024.04.25-19.50.29:235][959]LogViewport: Scene viewport resized to 2857x1887, mode Windowed.
+[2024.04.25-19.50.31:429][992]LogTexture: Display: Building textures: /Game/Textures/VertPaint/5/xbklfix_2K_Roughness.xbklfix_2K_Roughness (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 350.145823 MB), EncodeSpeed: Final
+[2024.04.25-19.50.33:223][ 14]LogSlate: Window 'xbklfix_2K_Roughness' being destroyed
+[2024.04.25-19.50.36:073][ 61]LogAssetEditorSubsystem: Opening Asset editor for Texture2D /Game/Textures/VertPaint/4/vmghfhro_2K_Normal.vmghfhro_2K_Normal
+[2024.04.25-19.50.36:422][ 61]LogViewport: Scene viewport resized to 2857x1887, mode Windowed.
+[2024.04.25-19.50.42:490][163]LogTexture: Display: Building textures: /Game/Textures/VertPaint/4/vmghfhro_2K_Normal.vmghfhro_2K_Normal (TFO_BC5, 2048x2048 x1x1x1) (Required Memory Estimate: 561.562488 MB), EncodeSpeed: Final
+[2024.04.25-19.50.43:834][186]LogSlate: Window 'vmghfhro_2K_Normal' being destroyed
+[2024.04.25-19.50.46:521][248]LogAssetEditorSubsystem: Opening Asset editor for Texture2D /Game/Textures/VertPaint/4/vmghfhro_2K_Roughness.vmghfhro_2K_Roughness
+[2024.04.25-19.50.46:862][248]LogViewport: Scene viewport resized to 2857x1887, mode Windowed.
+[2024.04.25-19.50.49:383][279]LogTexture: Display: Building textures: /Game/Textures/VertPaint/4/vmghfhro_2K_Roughness.vmghfhro_2K_Roughness (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 350.145823 MB), EncodeSpeed: Final
+[2024.04.25-19.50.51:167][308]LogSlate: Window 'vmghfhro_2K_Roughness' being destroyed
+[2024.04.25-19.50.55:018][395]LogAssetEditorSubsystem: Opening Asset editor for Texture2D /Game/Textures/VertPaint/3/tj2xahsbw_2K_Normal.tj2xahsbw_2K_Normal
+[2024.04.25-19.50.55:351][395]LogViewport: Scene viewport resized to 2857x1887, mode Windowed.
+[2024.04.25-19.50.58:133][429]LogTexture: Display: Building textures: /Game/Textures/VertPaint/3/tj2xahsbw_2K_Normal.tj2xahsbw_2K_Normal (TFO_BC5, 2048x2048 x1x1x1) (Required Memory Estimate: 561.562488 MB), EncodeSpeed: Final
+[2024.04.25-19.51.00:089][456]LogSlate: Window 'tj2xahsbw_2K_Normal' being destroyed
+[2024.04.25-19.51.01:414][476]LogAssetEditorSubsystem: Opening Asset editor for Texture2D /Game/Textures/VertPaint/3/tj2xahsbw_2K_Roughness.tj2xahsbw_2K_Roughness
+[2024.04.25-19.51.01:752][476]LogViewport: Scene viewport resized to 2857x1887, mode Windowed.
+[2024.04.25-19.51.03:783][507]LogTexture: Display: Building textures: /Game/Textures/VertPaint/3/tj2xahsbw_2K_Roughness.tj2xahsbw_2K_Roughness (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 350.145823 MB), EncodeSpeed: Final
+[2024.04.25-19.51.05:438][529]LogSlate: Window 'tj2xahsbw_2K_Roughness' being destroyed
+[2024.04.25-19.51.08:306][575]LogAssetEditorSubsystem: Opening Asset editor for Texture2D /Game/Textures/VertPaint/2/vbmfeaiew_2K_Normal.vbmfeaiew_2K_Normal
+[2024.04.25-19.51.08:664][575]LogViewport: Scene viewport resized to 2857x1887, mode Windowed.
+[2024.04.25-19.51.11:474][620]LogTexture: Display: Building textures: /Game/Textures/VertPaint/2/vbmfeaiew_2K_Normal.vbmfeaiew_2K_Normal (TFO_BC5, 2048x2048 x1x1x1) (Required Memory Estimate: 561.562488 MB), EncodeSpeed: Final
+[2024.04.25-19.51.13:097][648]LogSlate: Window 'vbmfeaiew_2K_Normal' being destroyed
+[2024.04.25-19.51.14:256][673]LogAssetEditorSubsystem: Opening Asset editor for Texture2D /Game/Textures/VertPaint/2/vbmfeaiew_2K_Roughness.vbmfeaiew_2K_Roughness
+[2024.04.25-19.51.14:612][673]LogViewport: Scene viewport resized to 2857x1887, mode Windowed.
+[2024.04.25-19.51.17:343][703]LogTexture: Display: Building textures: /Game/Textures/VertPaint/2/vbmfeaiew_2K_Roughness.vbmfeaiew_2K_Roughness (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 350.145823 MB), EncodeSpeed: Final
+[2024.04.25-19.51.19:928][750]LogSlate: Window 'vbmfeaiew_2K_Roughness' being destroyed
+[2024.04.25-19.51.22:845][809]LogAssetEditorSubsystem: Opening Asset editor for Texture2D /Game/Textures/VertPaint/1/vjoefgo_2K_Normal.vjoefgo_2K_Normal
+[2024.04.25-19.51.23:193][809]LogViewport: Scene viewport resized to 2857x1887, mode Windowed.
+[2024.04.25-19.51.25:745][841]LogTexture: Display: Building textures: /Game/Textures/VertPaint/1/vjoefgo_2K_Normal.vjoefgo_2K_Normal (TFO_BC5, 2048x2048 x1x1x1) (Required Memory Estimate: 561.562488 MB), EncodeSpeed: Final
+[2024.04.25-19.51.26:737][853]LogSlate: Window 'vjoefgo_2K_Normal' being destroyed
+[2024.04.25-19.51.28:172][886]LogAssetEditorSubsystem: Opening Asset editor for Texture2D /Game/Textures/VertPaint/1/vjoefgo_2K_Roughness.vjoefgo_2K_Roughness
+[2024.04.25-19.51.28:503][886]LogViewport: Scene viewport resized to 2857x1887, mode Windowed.
+[2024.04.25-19.51.32:439][946]LogTexture: Display: Building textures: /Game/Textures/VertPaint/1/vjoefgo_2K_Roughness.vjoefgo_2K_Roughness (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 350.145823 MB), EncodeSpeed: Final
+[2024.04.25-19.51.34:031][967]LogSlate: Window 'vjoefgo_2K_Roughness' being destroyed
+[2024.04.25-19.51.41:075][103]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.25-19.51.41:186][103]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Textures/VertPaint/6/wgxsded_2K_Albedo" FILE="D:/CyberPlace/Port5_Cyberpunk/Content/Textures/VertPaint/6/wgxsded_2K_Albedo.uasset" SILENT=true
+[2024.04.25-19.51.41:200][103]LogSavePackage: Moving output files for package: /Game/Textures/VertPaint/6/wgxsded_2K_Albedo
+[2024.04.25-19.51.41:200][103]LogSavePackage: Moving 'D:/CyberPlace/Port5_Cyberpunk/Saved/wgxsded_2K_Albedo441F60A842B1230178E2C097FC290761.tmp' to 'D:/CyberPlace/Port5_Cyberpunk/Content/Textures/VertPaint/6/wgxsded_2K_Albedo.uasset'
+[2024.04.25-19.51.41:207][103]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Textures/VertPaint/6/wgxsded_2K_Roughness" FILE="D:/CyberPlace/Port5_Cyberpunk/Content/Textures/VertPaint/6/wgxsded_2K_Roughness.uasset" SILENT=true
+[2024.04.25-19.51.41:213][103]LogSavePackage: Moving output files for package: /Game/Textures/VertPaint/6/wgxsded_2K_Roughness
+[2024.04.25-19.51.41:213][103]LogSavePackage: Moving 'D:/CyberPlace/Port5_Cyberpunk/Saved/wgxsded_2K_Roughness932FBE9B4C7B99EF86193489758E3EAA.tmp' to 'D:/CyberPlace/Port5_Cyberpunk/Content/Textures/VertPaint/6/wgxsded_2K_Roughness.uasset'
+[2024.04.25-19.51.41:217][103]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Textures/VertPaint/6/wgxsded_2K_Normal" FILE="D:/CyberPlace/Port5_Cyberpunk/Content/Textures/VertPaint/6/wgxsded_2K_Normal.uasset" SILENT=true
+[2024.04.25-19.51.41:228][103]LogSavePackage: Moving output files for package: /Game/Textures/VertPaint/6/wgxsded_2K_Normal
+[2024.04.25-19.51.41:228][103]LogSavePackage: Moving 'D:/CyberPlace/Port5_Cyberpunk/Saved/wgxsded_2K_NormalBEF36A5C46F087A9E642EDB9492E7748.tmp' to 'D:/CyberPlace/Port5_Cyberpunk/Content/Textures/VertPaint/6/wgxsded_2K_Normal.uasset'
+[2024.04.25-19.51.41:235][103]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Textures/VertPaint/5/xbklfix_2K_Albedo" FILE="D:/CyberPlace/Port5_Cyberpunk/Content/Textures/VertPaint/5/xbklfix_2K_Albedo.uasset" SILENT=true
+[2024.04.25-19.51.41:243][103]LogSavePackage: Moving output files for package: /Game/Textures/VertPaint/5/xbklfix_2K_Albedo
+[2024.04.25-19.51.41:243][103]LogSavePackage: Moving 'D:/CyberPlace/Port5_Cyberpunk/Saved/xbklfix_2K_Albedo17FD30044AEB0757CAD877A4F1AF449D.tmp' to 'D:/CyberPlace/Port5_Cyberpunk/Content/Textures/VertPaint/5/xbklfix_2K_Albedo.uasset'
+[2024.04.25-19.51.41:248][103]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Textures/VertPaint/5/xbklfix_2K_Roughness" FILE="D:/CyberPlace/Port5_Cyberpunk/Content/Textures/VertPaint/5/xbklfix_2K_Roughness.uasset" SILENT=true
+[2024.04.25-19.51.41:253][103]LogSavePackage: Moving output files for package: /Game/Textures/VertPaint/5/xbklfix_2K_Roughness
+[2024.04.25-19.51.41:253][103]LogSavePackage: Moving 'D:/CyberPlace/Port5_Cyberpunk/Saved/xbklfix_2K_RoughnessCED12BF24EBAB9D54441B3BD7551896E.tmp' to 'D:/CyberPlace/Port5_Cyberpunk/Content/Textures/VertPaint/5/xbklfix_2K_Roughness.uasset'
+[2024.04.25-19.51.41:258][103]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Textures/VertPaint/5/xbklfix_2K_Normal" FILE="D:/CyberPlace/Port5_Cyberpunk/Content/Textures/VertPaint/5/xbklfix_2K_Normal.uasset" SILENT=true
+[2024.04.25-19.51.41:269][103]LogSavePackage: Moving output files for package: /Game/Textures/VertPaint/5/xbklfix_2K_Normal
+[2024.04.25-19.51.41:269][103]LogSavePackage: Moving 'D:/CyberPlace/Port5_Cyberpunk/Saved/xbklfix_2K_NormalFCCB53AC4D608AEE14F604A616F18684.tmp' to 'D:/CyberPlace/Port5_Cyberpunk/Content/Textures/VertPaint/5/xbklfix_2K_Normal.uasset'
+[2024.04.25-19.51.41:275][103]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Textures/VertPaint/2/vbmfeaiew_2K_Albedo" FILE="D:/CyberPlace/Port5_Cyberpunk/Content/Textures/VertPaint/2/vbmfeaiew_2K_Albedo.uasset" SILENT=true
+[2024.04.25-19.51.41:282][103]LogSavePackage: Moving output files for package: /Game/Textures/VertPaint/2/vbmfeaiew_2K_Albedo
+[2024.04.25-19.51.41:282][103]LogSavePackage: Moving 'D:/CyberPlace/Port5_Cyberpunk/Saved/vbmfeaiew_2K_AlbedoB675B7D04BF44759142CFA869D7DDEB0.tmp' to 'D:/CyberPlace/Port5_Cyberpunk/Content/Textures/VertPaint/2/vbmfeaiew_2K_Albedo.uasset'
+[2024.04.25-19.51.41:287][103]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Textures/VertPaint/2/vbmfeaiew_2K_Roughness" FILE="D:/CyberPlace/Port5_Cyberpunk/Content/Textures/VertPaint/2/vbmfeaiew_2K_Roughness.uasset" SILENT=true
+[2024.04.25-19.51.41:292][103]LogSavePackage: Moving output files for package: /Game/Textures/VertPaint/2/vbmfeaiew_2K_Roughness
+[2024.04.25-19.51.41:292][103]LogSavePackage: Moving 'D:/CyberPlace/Port5_Cyberpunk/Saved/vbmfeaiew_2K_Roughness0F11227646E87BE060547C9DA271AD05.tmp' to 'D:/CyberPlace/Port5_Cyberpunk/Content/Textures/VertPaint/2/vbmfeaiew_2K_Roughness.uasset'
+[2024.04.25-19.51.41:297][103]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Textures/VertPaint/2/vbmfeaiew_2K_Normal" FILE="D:/CyberPlace/Port5_Cyberpunk/Content/Textures/VertPaint/2/vbmfeaiew_2K_Normal.uasset" SILENT=true
+[2024.04.25-19.51.41:311][103]LogSavePackage: Moving output files for package: /Game/Textures/VertPaint/2/vbmfeaiew_2K_Normal
+[2024.04.25-19.51.41:311][103]LogSavePackage: Moving 'D:/CyberPlace/Port5_Cyberpunk/Saved/vbmfeaiew_2K_Normal4E21D2984B7F51B812A175A141D18B5C.tmp' to 'D:/CyberPlace/Port5_Cyberpunk/Content/Textures/VertPaint/2/vbmfeaiew_2K_Normal.uasset'
+[2024.04.25-19.51.41:317][103]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Textures/VertPaint/4/vmghfhro_2K_Albedo" FILE="D:/CyberPlace/Port5_Cyberpunk/Content/Textures/VertPaint/4/vmghfhro_2K_Albedo.uasset" SILENT=true
+[2024.04.25-19.51.41:325][103]LogSavePackage: Moving output files for package: /Game/Textures/VertPaint/4/vmghfhro_2K_Albedo
+[2024.04.25-19.51.41:325][103]LogSavePackage: Moving 'D:/CyberPlace/Port5_Cyberpunk/Saved/vmghfhro_2K_Albedo6806D57C4BCEA83EFDB873B00411AFCA.tmp' to 'D:/CyberPlace/Port5_Cyberpunk/Content/Textures/VertPaint/4/vmghfhro_2K_Albedo.uasset'
+[2024.04.25-19.51.41:330][103]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Textures/VertPaint/4/vmghfhro_2K_Roughness" FILE="D:/CyberPlace/Port5_Cyberpunk/Content/Textures/VertPaint/4/vmghfhro_2K_Roughness.uasset" SILENT=true
+[2024.04.25-19.51.41:335][103]LogSavePackage: Moving output files for package: /Game/Textures/VertPaint/4/vmghfhro_2K_Roughness
+[2024.04.25-19.51.41:335][103]LogSavePackage: Moving 'D:/CyberPlace/Port5_Cyberpunk/Saved/vmghfhro_2K_RoughnessDB582FD542BA33C35D4111BDCA21B618.tmp' to 'D:/CyberPlace/Port5_Cyberpunk/Content/Textures/VertPaint/4/vmghfhro_2K_Roughness.uasset'
+[2024.04.25-19.51.41:340][103]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Textures/VertPaint/4/vmghfhro_2K_Normal" FILE="D:/CyberPlace/Port5_Cyberpunk/Content/Textures/VertPaint/4/vmghfhro_2K_Normal.uasset" SILENT=true
+[2024.04.25-19.51.41:351][103]LogSavePackage: Moving output files for package: /Game/Textures/VertPaint/4/vmghfhro_2K_Normal
+[2024.04.25-19.51.41:351][103]LogSavePackage: Moving 'D:/CyberPlace/Port5_Cyberpunk/Saved/vmghfhro_2K_Normal508162504B3145D34EE601B35884EEDB.tmp' to 'D:/CyberPlace/Port5_Cyberpunk/Content/Textures/VertPaint/4/vmghfhro_2K_Normal.uasset'
+[2024.04.25-19.51.41:357][103]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Textures/VertPaint/1/vjoefgo_2K_Roughness" FILE="D:/CyberPlace/Port5_Cyberpunk/Content/Textures/VertPaint/1/vjoefgo_2K_Roughness.uasset" SILENT=true
+[2024.04.25-19.51.41:361][103]LogSavePackage: Moving output files for package: /Game/Textures/VertPaint/1/vjoefgo_2K_Roughness
+[2024.04.25-19.51.41:361][103]LogSavePackage: Moving 'D:/CyberPlace/Port5_Cyberpunk/Saved/vjoefgo_2K_Roughness86B5CC7C49E4B1CCDB4458AC1FDDB6CC.tmp' to 'D:/CyberPlace/Port5_Cyberpunk/Content/Textures/VertPaint/1/vjoefgo_2K_Roughness.uasset'
+[2024.04.25-19.51.41:366][103]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Textures/VertPaint/1/vjoefgo_2K_Normal" FILE="D:/CyberPlace/Port5_Cyberpunk/Content/Textures/VertPaint/1/vjoefgo_2K_Normal.uasset" SILENT=true
+[2024.04.25-19.51.41:376][103]LogSavePackage: Moving output files for package: /Game/Textures/VertPaint/1/vjoefgo_2K_Normal
+[2024.04.25-19.51.41:377][103]LogSavePackage: Moving 'D:/CyberPlace/Port5_Cyberpunk/Saved/vjoefgo_2K_Normal9B972729486EAF1063F2259218F52134.tmp' to 'D:/CyberPlace/Port5_Cyberpunk/Content/Textures/VertPaint/1/vjoefgo_2K_Normal.uasset'
+[2024.04.25-19.51.41:386][103]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Textures/VertPaint/3/tj2xahsbw_2K_Albedo" FILE="D:/CyberPlace/Port5_Cyberpunk/Content/Textures/VertPaint/3/tj2xahsbw_2K_Albedo.uasset" SILENT=true
+[2024.04.25-19.51.41:392][103]LogSavePackage: Moving output files for package: /Game/Textures/VertPaint/3/tj2xahsbw_2K_Albedo
+[2024.04.25-19.51.41:392][103]LogSavePackage: Moving 'D:/CyberPlace/Port5_Cyberpunk/Saved/tj2xahsbw_2K_Albedo0710087245D71B133519508D86C25BD2.tmp' to 'D:/CyberPlace/Port5_Cyberpunk/Content/Textures/VertPaint/3/tj2xahsbw_2K_Albedo.uasset'
+[2024.04.25-19.51.41:398][103]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Textures/VertPaint/3/tj2xahsbw_2K_Roughness" FILE="D:/CyberPlace/Port5_Cyberpunk/Content/Textures/VertPaint/3/tj2xahsbw_2K_Roughness.uasset" SILENT=true
+[2024.04.25-19.51.41:402][103]LogSavePackage: Moving output files for package: /Game/Textures/VertPaint/3/tj2xahsbw_2K_Roughness
+[2024.04.25-19.51.41:402][103]LogSavePackage: Moving 'D:/CyberPlace/Port5_Cyberpunk/Saved/tj2xahsbw_2K_Roughness24F4BCA940067BD6C6069BA656CB10B7.tmp' to 'D:/CyberPlace/Port5_Cyberpunk/Content/Textures/VertPaint/3/tj2xahsbw_2K_Roughness.uasset'
+[2024.04.25-19.51.41:407][103]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Textures/VertPaint/3/tj2xahsbw_2K_Normal" FILE="D:/CyberPlace/Port5_Cyberpunk/Content/Textures/VertPaint/3/tj2xahsbw_2K_Normal.uasset" SILENT=true
+[2024.04.25-19.51.41:416][103]LogSavePackage: Moving output files for package: /Game/Textures/VertPaint/3/tj2xahsbw_2K_Normal
+[2024.04.25-19.51.41:417][103]LogSavePackage: Moving 'D:/CyberPlace/Port5_Cyberpunk/Saved/tj2xahsbw_2K_Normal032C4074429E3A5D301EA0A127A33C4F.tmp' to 'D:/CyberPlace/Port5_Cyberpunk/Content/Textures/VertPaint/3/tj2xahsbw_2K_Normal.uasset'
+[2024.04.25-19.51.41:433][103]LogFileHelpers: InternalPromptForCheckoutAndSave took 357 ms (total: 15.7 sec)
+[2024.04.25-19.51.41:437][103]AssetCheck: New page: Asset Save: multiple assets
+[2024.04.25-19.51.41:438][103]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Textures/VertPaint/6/wgxsded_2K_Albedo.wgxsded_2K_Albedo
+[2024.04.25-19.51.41:438][103]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Textures/VertPaint/6/wgxsded_2K_Roughness.wgxsded_2K_Roughness
+[2024.04.25-19.51.41:438][103]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Textures/VertPaint/6/wgxsded_2K_Normal.wgxsded_2K_Normal
+[2024.04.25-19.51.41:438][103]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Textures/VertPaint/5/xbklfix_2K_Albedo.xbklfix_2K_Albedo
+[2024.04.25-19.51.41:438][103]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Textures/VertPaint/5/xbklfix_2K_Roughness.xbklfix_2K_Roughness
+[2024.04.25-19.51.41:438][103]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Textures/VertPaint/5/xbklfix_2K_Normal.xbklfix_2K_Normal
+[2024.04.25-19.51.41:438][103]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Textures/VertPaint/2/vbmfeaiew_2K_Albedo.vbmfeaiew_2K_Albedo
+[2024.04.25-19.51.41:438][103]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Textures/VertPaint/2/vbmfeaiew_2K_Roughness.vbmfeaiew_2K_Roughness
+[2024.04.25-19.51.41:438][103]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Textures/VertPaint/2/vbmfeaiew_2K_Normal.vbmfeaiew_2K_Normal
+[2024.04.25-19.51.41:438][103]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Textures/VertPaint/4/vmghfhro_2K_Albedo.vmghfhro_2K_Albedo
+[2024.04.25-19.51.41:438][103]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Textures/VertPaint/4/vmghfhro_2K_Roughness.vmghfhro_2K_Roughness
+[2024.04.25-19.51.41:438][103]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Textures/VertPaint/4/vmghfhro_2K_Normal.vmghfhro_2K_Normal
+[2024.04.25-19.51.41:438][103]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Textures/VertPaint/1/vjoefgo_2K_Roughness.vjoefgo_2K_Roughness
+[2024.04.25-19.51.41:438][103]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Textures/VertPaint/1/vjoefgo_2K_Normal.vjoefgo_2K_Normal
+[2024.04.25-19.51.41:438][103]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Textures/VertPaint/3/tj2xahsbw_2K_Albedo.tj2xahsbw_2K_Albedo
+[2024.04.25-19.51.41:438][103]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Textures/VertPaint/3/tj2xahsbw_2K_Roughness.tj2xahsbw_2K_Roughness
+[2024.04.25-19.51.41:438][103]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Textures/VertPaint/3/tj2xahsbw_2K_Normal.tj2xahsbw_2K_Normal
