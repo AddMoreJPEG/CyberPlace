@@ -4238,3 +4238,82 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2024.04.28-05.45.52:306][545]LogViewport: Scene viewport resized to 1524x846, mode Windowed.
 [2024.04.28-05.45.52:324][546]LogViewport: Scene viewport resized to 1523x846, mode Windowed.
 [2024.04.28-05.45.52:350][547]LogViewport: Scene viewport resized to 1523x845, mode Windowed.
+[2024.04.28-05.52.43:950][ 70]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.28-05.52.44:042][ 70]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2024.04.28-05.52.44:239][ 70]LogSavePackage: Moving output files for package: /Game/Scenes/CyberPlace
+[2024.04.28-05.52.44:240][ 70]LogSavePackage: Moving '../../../../../../Users/jakec/OneDrive/Desktop/CyberPlace/Port5_Cyberpunk/Saved/CyberPlaceE1938C6D45FB303D0FA815B5E5B3B41B.tmp' to '../../../../../../Users/jakec/OneDrive/Desktop/CyberPlace/Port5_Cyberpunk/Content/Scenes/CyberPlace.umap'
+[2024.04.28-05.52.44:251][ 70]LogFileHelpers: All files are already saved.
+[2024.04.28-05.52.44:251][ 70]LogFileHelpers: Saving map 'CyberPlace' took 0.239
+[2024.04.28-05.52.44:258][ 70]LogFileHelpers: InternalPromptForCheckoutAndSave took 309 ms (total: 14.1 sec)
+[2024.04.28-05.52.44:260][ 70]AssetCheck: New page: Asset Save: CyberPlace
+[2024.04.28-05.52.44:260][ 70]LogContentValidation: Display: Validating /Script/Engine.World /Game/Scenes/CyberPlace.CyberPlace
+[2024.04.28-05.52.44:820][108]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2024.04.28-05.52.44:846][108]LogStall: Shutdown...
+[2024.04.28-05.52.45:077][108]LogStall: Shutdown complete.
+[2024.04.28-05.52.45:213][108]LogSlate: Window 'Port5_Cyberpunk - Unreal Editor' being destroyed
+[2024.04.28-05.52.46:794][109]Cmd: QUIT_EDITOR
+[2024.04.28-05.52.46:794][109]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2024.04.28-05.52.46:806][109]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2024.04.28-05.52.46:808][109]LogStaticMesh: Abandoning remaining async distance field tasks for shutdown
+[2024.04.28-05.52.46:810][109]LogStaticMesh: Abandoning remaining async card representation tasks for shutdown
+[2024.04.28-05.52.46:851][109]LogWorld: UWorld::CleanupWorld for CyberPlace, bSessionEnded=true, bCleanupResources=true
+[2024.04.28-05.52.46:857][109]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.28-05.52.46:858][109]LogWorld: UWorld::CleanupWorld for Jacob, bSessionEnded=true, bCleanupResources=true
+[2024.04.28-05.52.46:858][109]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.28-05.52.46:858][109]LogWorld: UWorld::CleanupWorld for Mason, bSessionEnded=true, bCleanupResources=true
+[2024.04.28-05.52.46:858][109]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.28-05.52.46:915][109]LogLevelSequenceEditor: LevelSequenceEditor subsystem deinitialized.
+[2024.04.28-05.52.47:346][109]LogAudio: Display: Beginning Audio Device Manager Shutdown (Module: AudioMixerXAudio2)...
+[2024.04.28-05.52.47:346][109]LogAudio: Display: Destroying 1 Remaining Audio Device(s)...
+[2024.04.28-05.52.47:347][109]LogAudio: Display: Audio Device unregistered from world 'CyberPlace'.
+[2024.04.28-05.52.47:347][109]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 1
+[2024.04.28-05.52.47:355][109]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1
+[2024.04.28-05.52.47:361][109]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1
+[2024.04.28-05.52.47:427][109]LogAudio: Display: Audio Device Manager Shutdown
+[2024.04.28-05.52.47:428][109]LogWindowsTextInputMethodSystem: Activated input method: English (United States) - (Keyboard).
+[2024.04.28-05.52.47:439][109]LogExit: Preparing to exit.
+[2024.04.28-05.52.49:018][109]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2024.04.28-05.52.50:014][109]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2024.04.28-05.52.50:015][109]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2024.04.28-05.52.50:166][109]LogActorComponent: UnregisterComponent: (/Game/Scenes/CyberPlace.CyberPlace:PersistentLevel.NDC_MP_V1_C_1.None) Not registered. Aborting.
+[2024.04.28-05.52.50:166][109]LogActorComponent: UnregisterComponent: (/Game/Scenes/CyberPlace.CyberPlace:PersistentLevel.NDC_MP_V1_C_1.None) Not registered. Aborting.
+[2024.04.28-05.52.50:166][109]LogActorComponent: UnregisterComponent: (/Game/Scenes/CyberPlace.CyberPlace:PersistentLevel.NDC_MP_V1_C_1.None) Not registered. Aborting.
+[2024.04.28-05.52.50:231][109]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2024.04.28-05.52.50:396][109]LogDemo: Cleaned up 0 splitscreen connections, owner deletion: enabled
+[2024.04.28-05.52.50:632][109]LogExit: Editor shut down
+[2024.04.28-05.52.50:643][109]LogExit: Transaction tracking system shut down
+[2024.04.28-05.52.51:712][109]LogExit: Object subsystem successfully closed.
+[2024.04.28-05.52.51:732][109]LogShaderCompilers: Display: ================================================
+[2024.04.28-05.52.51:732][109]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.04.28-05.52.51:732][109]LogShaderCompilers: Display: Total job queries 1,127, among them cache hits 537 (47.65%)
+[2024.04.28-05.52.51:732][109]LogShaderCompilers: Display: Tracking 590 distinct input hashes that result in 414 distinct outputs (70.17%)
+[2024.04.28-05.52.51:732][109]LogShaderCompilers: Display: RAM used: 16.62 MiB of 819.20 MiB budget. Usage: 2.03%
+[2024.04.28-05.52.51:732][109]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.04.28-05.52.51:732][109]LogShaderCompilers: Display: Shaders Compiled: 340
+[2024.04.28-05.52.51:732][109]LogShaderCompilers: Display: Jobs assigned 340, completed 340 (100%)
+[2024.04.28-05.52.51:732][109]LogShaderCompilers: Display: Average time worker was idle: 109.97 s
+[2024.04.28-05.52.51:732][109]LogShaderCompilers: Display: Time job spent in pending queue: average 0.55 s, longest 3.47 s
+[2024.04.28-05.52.51:732][109]LogShaderCompilers: Display: Job execution time: average 0.93 s, max 3.47 s
+[2024.04.28-05.52.51:732][109]LogShaderCompilers: Display: Job life time (pending + execution): average 1.48 s, max 4.30
+[2024.04.28-05.52.51:732][109]LogShaderCompilers: Display: Shader code size: average 47.811 KiB, min 3.34 KiB, max 80.254 KiB
+[2024.04.28-05.52.51:732][109]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 51.01 s
+[2024.04.28-05.52.51:732][109]LogShaderCompilers: Display: Jobs were issued in 297 batches (only local compilation was used), average 1.14 jobs/batch
+[2024.04.28-05.52.51:732][109]LogShaderCompilers: Display: Average processing rate: 6.67 jobs/sec
+[2024.04.28-05.52.51:732][109]LogShaderCompilers: Display: Total thread time: 166.476 s
+[2024.04.28-05.52.51:732][109]LogShaderCompilers: Display: Total thread preprocess time: 15.749 s
+[2024.04.28-05.52.51:732][109]LogShaderCompilers: Display: Percentage time preprocessing: 9.46%
+[2024.04.28-05.52.51:732][109]LogShaderCompilers: Display: Effective parallelization: 3.26 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2024.04.28-05.52.51:732][109]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2024.04.28-05.52.51:732][109]LogShaderCompilers: Display:                                               FNiagaraShader (compiled    1 times, average 1.29 sec, max 1.29 sec, min 1.29 sec)
+[2024.04.28-05.52.51:732][109]LogShaderCompilers: Display:                   TMaterialCHSTLightMapPolicyLQFAnyHitShader (compiled    3 times, average 0.93 sec, max 1.11 sec, min 0.68 sec)
+[2024.04.28-05.52.51:732][109]LogShaderCompilers: Display:                   TMaterialCHSTLightMapPolicyHQFAnyHitShader (compiled    3 times, average 0.93 sec, max 1.15 sec, min 0.60 sec)
+[2024.04.28-05.52.51:732][109]LogShaderCompilers: Display:                         TBasePassPSTLightMapPolicyLQSkylight (compiled    3 times, average 0.84 sec, max 1.13 sec, min 0.45 sec)
+[2024.04.28-05.52.51:732][109]LogShaderCompilers: Display:                                             FGPULightmassCHS (compiled    4 times, average 0.83 sec, max 1.06 sec, min 0.54 sec)
+[2024.04.28-05.52.51:732][109]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2024.04.28-05.52.51:732][109]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 8.90% of total time (compiled   36 times, average 0.41 sec, max 0.77 sec, min 0.19 sec)
+[2024.04.28-05.52.51:732][109]LogShaderCompilers: Display:                   TMaterialCHSFNoLightMapPolicyFAnyHitShader - 7.04% of total time (compiled   15 times, average 0.78 sec, max 1.04 sec, min 0.42 sec)
+[2024.04.28-05.52.51:732][109]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 6.35% of total time (compiled   28 times, average 0.38 sec, max 0.84 sec, min 0.22 sec)
+[2024.04.28-05.52.51:732][109]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight - 5.04% of total time (compiled   16 times, average 0.52 sec, max 0.71 sec, min 0.33 sec)
+[2024.04.28-05.52.51:732][109]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy - 4.27% of total time (compiled   13 times, average 0.55 sec, max 1.07 sec, min 0.38 sec)
+[2024.04.28-05.52.51:732][109]LogShaderCompilers: Display: ================================================
+[2024.04.28-05.52.51:804][109]LogShaderCompilers: Display: Shaders left to compile 0
